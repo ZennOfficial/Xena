@@ -1,0 +1,22 @@
+{
+  "id": "191234b5-537f-4c76-b77a-e9ea4054f21b",
+  "username": "ditz",
+  "target": "@ditzreal",
+  "targetInfo": {
+    "id": "3601608501",
+    "username": "@ditzreal",
+    "name": "undefined"
+  },
+  "count": 10,
+  "message": "This account is violating Telegram's terms of service through spam and scam activities.",
+  "link": "@SpamBot",
+  "sessions": [
+    "+6282175695399"
+  ],
+  "progress": 10,
+  "total": 10,
+  "status": "Checking target status...",
+  "startTime": "2026-03-26T16:08:24.646Z",
+  "completed": true,
+  "endTime": "2026-03-26T16:08:35.695Z"
+}

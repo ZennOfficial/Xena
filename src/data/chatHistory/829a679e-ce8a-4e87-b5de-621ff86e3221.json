@@ -1,0 +1,72 @@
+[
+  {
+    "username": "admin",
+    "message": "hello",
+    "timestamp": "2025-12-29T16:23:30.582Z"
+  },
+  {
+    "username": "AI",
+    "message": "Hello! How can I assist you today?",
+    "timestamp": "2025-12-29T16:23:33.639Z"
+  },
+  {
+    "username": "admin",
+    "message": "namaku permenmd",
+    "timestamp": "2025-12-29T16:24:35.253Z"
+  },
+  {
+    "username": "AI",
+    "message": "Sepertinya Anda menyebutkan \"namaku permenmd\". Apakah ada yang ingin Anda tanyakan atau diskusikan tentang topik tertentu? Silakan beri tahu saya!",
+    "timestamp": "2025-12-29T16:25:40.864Z"
+  },
+  {
+    "username": "admin",
+    "message": "siapa dirimu ",
+    "timestamp": "2025-12-29T16:27:22.048Z"
+  },
+  {
+    "username": "AI",
+    "message": "Saya adalah asisten virtual yang dirancang untuk membantu menjawab pertanyaan dan memberikan informasi. Apa yang bisa saya bantu untuk Anda hari ini?",
+    "timestamp": "2025-12-29T16:27:24.754Z"
+  },
+  {
+    "username": "admin",
+    "message": "sebutkan namaku",
+    "timestamp": "2025-12-29T16:28:44.058Z"
+  },
+  {
+    "username": "AI",
+    "message": "Maaf, saya tidak tahu nama Anda. Namun, jika Anda ingin, Anda bisa memberitahukan nama Anda atau saya bisa memanggil Anda dengan sebutan lain. Apa yang Anda inginkan?",
+    "timestamp": "2025-12-29T16:28:46.213Z"
+  },
+  {
+    "username": "admin",
+    "message": "bukannya sudah ku kasih tau namaku?",
+    "timestamp": "2025-12-29T16:29:33.726Z"
+  },
+  {
+    "username": "AI",
+    "message": "Maaf jika ada kebingungan. Saya tidak memiliki informasi sebelumnya tentang nama Anda. Namun, jika Anda ingin berbagi nama Anda lagi, silakan! Saya di sini untuk membantu.",
+    "timestamp": "2025-12-29T16:29:36.225Z"
+  },
+  {
+    "username": "admin",
+    "message": "namaku permenmd",
+    "timestamp": "2025-12-29T16:30:50.006Z"
+  },
+  {
+    "username": "AI",
+    "message": "Senang berkenalan, Permenmd! Ada yang bisa saya bantu hari ini?",
+    "timestamp": "2025-12-29T16:30:52.702Z"
+  },
+  {
+    "username": "admin",
+    "message": "sebutkan namaku",
+    "timestamp": "2025-12-29T16:31:00.690Z"
+  },
+  {
+    "username": "AI",
+    "message": "Nama Anda adalah Permenmd. Apa yang ingin Anda diskusikan hari ini?",
+    "timestamp": "2025-12-29T16:31:02.512Z"
+  }
+]

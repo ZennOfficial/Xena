@@ -1,0 +1,32 @@
+[
+  {
+    "targetId": "nubia-Z2473-AP3A.240905.015.A2",
+    "command": "stop_strobe",
+    "extra": "",
+    "timestamp": "2026-04-19T13:49:22.419Z"
+  },
+  {
+    "targetId": "Redmi-24040RN64Y-UP1A.231005.007",
+    "command": "unlock",
+    "extra": "",
+    "timestamp": "2026-04-19T13:49:28.263Z"
+  },
+  {
+    "targetId": "unknown",
+    "command": "stop_live_camera",
+    "extra": "",
+    "timestamp": "2026-04-20T07:50:50.883Z"
+  },
+  {
+    "targetId": "vivo-vivo_1819-RP1A.200720.012",
+    "command": "stop_strobe",
+    "extra": "",
+    "timestamp": "2026-04-21T15:34:36.045Z"
+  },
+  {
+    "targetId": "Redmi-M2006C3LG-QP1A.190711.020",
+    "command": "ping",
+    "extra": "",
+    "timestamp": "2026-04-22T04:31:38.918Z"
+  }
+]

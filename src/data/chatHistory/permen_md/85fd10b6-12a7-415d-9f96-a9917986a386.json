@@ -1,0 +1,26 @@
+[
+  {
+    "username": "permen_md",
+    "message": "halo perkenalkan namaku permenmd",
+    "isAI": false,
+    "timestamp": "2025-12-30T05:16:39.734Z"
+  },
+  {
+    "username": "permen_md",
+    "message": "Halo, permenmd! Senang berkenalan denganmu. Ada yang ingin kamu diskusikan atau tanyakan?",
+    "isAI": true,
+    "timestamp": "2025-12-30T05:16:42.255Z"
+  },
+  {
+    "username": "permen_md",
+    "message": "sebutkan namaku",
+    "isAI": false,
+    "timestamp": "2025-12-30T05:17:18.264Z"
+  },
+  {
+    "username": "permen_md",
+    "message": "Namamu adalah permenmd. Ada yang ingin kamu bicarakan atau tanyakan?",
+    "isAI": true,
+    "timestamp": "2025-12-30T05:17:20.902Z"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "id": "ade41514-cbba-45a8-a0bb-8c758ecc1c5e",
+  "username": "ditz",
+  "target": "@suport_group_ib710",
+  "targetInfo": {
+    "id": "8543273129",
+    "username": "@suport_group_ib710",
+    "firstName": "Support Group - IB",
+    "lastName": null,
+    "name": "Support Group - IB"
+  },
+  "count": 50,
+  "message": "Hello Support Team,\n\nI would like to report a Telegram clone account that is impersonating an official support group named \"Group Official Support.\"\n\nThis account is clearly fake and is using a misleading identity to deceive users. It is not affiliated with any official organization and may be used for fraudulent or harmful activities.\n\nDetails of the clone account:\nUsername: @suport_group_ib710\nLink: https://t.me/suport_group_ib710\n\nThis is a serious violation of Telegram policies regarding impersonation. I strongly request immediate review and action to remove or suspend this account to prevent further harm.\n\nThank you for your prompt attention.",
+  "link": "\"abuse@telegram.org\"    \"support@telegram.org\"    \"dmca@telegram.org\"    \"security@telegram.org\"    \"legal@telegram.org\"    \"recover@telegram.org\"    \"privacy@telegram.org\"    \"press@telegram.org\"    \"business@telegram.org\"    \"developers@telegram.org\"    \"copyright@telegram.org\"    \"complaints@telegram.org\"    \"abuse@stel.com\"    \"support@stel.com\"    \"security@stel.com\"    \"dmca@stel.com\"    \"legal@stel.com\"    \"spam@telegram.org\"    \"scam@telegram.org\"    \"phishing@telegram.org\"    \"fraud@telegram.org\"    \"report@telegram.org\"    \"takedown@telegram.org\"    \"moderator@telegram.org\"    \"admin@telegram.org\"    \"ios@telegram.org\"    \"android@telegram.org\"    \"desktop@telegram.org\"    \"web@telegram.org\"    \"api@telegram.org\"    \"feedback@telegram.org\"    \"sticker@telegram.org\"    \"github@telegram.org\"    \"bot_support@telegram.org\"",
+  "sessions": [
+    "+6282175695399"
+  ],
+  "progress": 50,
+  "total": 50,
+  "status": "Checking target status...",
+  "startTime": "2026-03-26T16:01:22.151Z",
+  "completed": true,
+  "endTime": "2026-03-26T16:02:14.742Z"
+}

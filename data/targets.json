@@ -1,0 +1,42 @@
+[
+  {
+    "id": "Redmi-M2006C3LG-QP1A.190711.020",
+    "admin": "keyyacyy",
+    "model": "REDMI M2006C3LG",
+    "battery": "80",
+    "status": "Online",
+    "lastSeen": "2026-04-19T03:30:53.258Z"
+  },
+  {
+    "id": "nubia-Z2473-AP3A.240905.015.A2",
+    "admin": "vinzXbug",
+    "model": "NUBIA Z2473",
+    "battery": "14",
+    "status": "Online",
+    "lastSeen": "2026-04-19T12:37:33.368Z"
+  },
+  {
+    "id": "Redmi-24040RN64Y-UP1A.231005.007",
+    "admin": "vinzXbug",
+    "model": "REDMI 24040RN64Y",
+    "battery": "45",
+    "status": "Online",
+    "lastSeen": "2026-04-19T13:43:57.189Z"
+  },
+  {
+    "id": "Infinix-Infinix_X6531B-UP1A.231005.007",
+    "admin": "HAMIZI",
+    "model": "INFINIX Infinix X6531B",
+    "battery": "20",
+    "status": "Online",
+    "lastSeen": "2026-04-21T12:14:41.513Z"
+  },
+  {
+    "id": "vivo-vivo_1819-RP1A.200720.012",
+    "admin": "vinzXbug",
+    "model": "VIVO vivo 1819",
+    "battery": "86",
+    "status": "Online",
+    "lastSeen": "2026-04-21T15:25:22.699Z"
+  }
+]

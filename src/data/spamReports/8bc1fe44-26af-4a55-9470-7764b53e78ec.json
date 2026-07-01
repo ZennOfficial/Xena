@@ -1,0 +1,29 @@
+{
+  "id": "8bc1fe44-26af-4a55-9470-7764b53e78ec",
+  "username": "permen_md",
+  "target": "@Bizzishere",
+  "targetInfo": {
+    "id": "8298048227",
+    "username": "@Bizzishere",
+    "firstName": "ɪᴍ×ʙɪᴢᴢ×ɪsʜᴇʀᴇ",
+    "lastName": null,
+    "name": "ɪᴍ×ʙɪᴢᴢ×ɪsʜᴇʀᴇ",
+    "className": "User"
+  },
+  "targetUserId": "8298048227",
+  "count": 20,
+  "message": "This account is violating Telegram's terms of service through spam and scam activities.",
+  "link": "",
+  "sessions": [],
+  "progress": 2,
+  "total": 20,
+  "status": "Completed - Could not check status (no valid sessions)",
+  "startTime": "2026-01-10T09:29:00.221Z",
+  "completed": true,
+  "errors": [
+    "All available Telegram sessions were found to be invalid during the process."
+  ],
+  "successfulReports": 0,
+  "failedReports": 2,
+  "sessionResults": []
+}

@@ -1,0 +1,74 @@
+{
+  "id": "dbd3d591-af51-4ed5-ba9d-13cfeda98110",
+  "username": "permen_md",
+  "target": "@Bizzishere",
+  "targetInfo": {
+    "id": "8298048227",
+    "username": "@Bizzishere",
+    "firstName": "ɪᴍ×ʙɪᴢᴢ×ɪsʜᴇʀᴇ",
+    "lastName": null,
+    "name": "ɪᴍ×ʙɪᴢᴢ×ɪsʜᴇʀᴇ"
+  },
+  "targetInputPeer": {
+    "userId": "8298048227",
+    "accessHash": "-2779332167665435114",
+    "className": "InputPeerUser"
+  },
+  "count": 50,
+  "message": "This account is violating Telegram's terms of service through spam and scam activities.",
+  "link": "",
+  "sessions": [
+    "+6282185420746",
+    "+6285810804506"
+  ],
+  "progress": 26,
+  "total": 20,
+  "status": "Checking target status...",
+  "startTime": "2026-01-10T08:43:13.185Z",
+  "completed": false,
+  "errors": [],
+  "successfulReports": 0,
+  "failedReports": 26,
+  "sessionResults": [
+    {
+      "phone": "+6282185420746",
+      "successfulReports": 0,
+      "failedReports": 13,
+      "errors": [
+        "Report 1 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 2 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 3 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 4 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 5 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 6 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 7 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 8 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 9 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 10 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 11 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 12 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 13 failed: Cannot cast InputPeerUser to any kind of peer"
+      ]
+    },
+    {
+      "phone": "+6285810804506",
+      "successfulReports": 0,
+      "failedReports": 13,
+      "errors": [
+        "Report 1 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 2 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 3 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 4 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 5 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 6 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 7 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 8 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 9 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 10 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 11 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 12 failed: Cannot cast InputPeerUser to any kind of peer",
+        "Report 13 failed: Cannot cast InputPeerUser to any kind of peer"
+      ]
+    }
+  ]
+}

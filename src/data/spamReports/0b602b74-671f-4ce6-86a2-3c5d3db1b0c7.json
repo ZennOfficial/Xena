@@ -1,0 +1,71 @@
+{
+  "id": "0b602b74-671f-4ce6-86a2-3c5d3db1b0c7",
+  "username": "permen_md",
+  "target": "@Bizzishere",
+  "targetInfo": {
+    "id": "8298048227",
+    "username": "@Bizzishere",
+    "firstName": "ɪᴍ×ʙɪᴢᴢ×ɪsʜᴇʀᴇ",
+    "lastName": null,
+    "name": "ɪᴍ×ʙɪᴢᴢ×ɪsʜᴇʀᴇ",
+    "className": "User"
+  },
+  "targetUserId": "8298048227",
+  "count": 50,
+  "message": "This account is violating Telegram's terms of service through spam and scam activities.",
+  "link": "",
+  "sessions": [
+    "+6282185420746",
+    "+6285810804506"
+  ],
+  "progress": 26,
+  "total": 20,
+  "status": "Checking target status...",
+  "startTime": "2026-01-10T09:16:07.418Z",
+  "completed": false,
+  "errors": [],
+  "successfulReports": 0,
+  "failedReports": 26,
+  "sessionResults": [
+    {
+      "phone": "+6282185420746",
+      "successfulReports": 0,
+      "failedReports": 13,
+      "errors": [
+        "Report 1 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 2 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 3 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 4 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 5 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 6 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 7 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 8 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 9 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 10 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 11 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 12 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 13 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)"
+      ]
+    },
+    {
+      "phone": "+6285810804506",
+      "successfulReports": 0,
+      "failedReports": 13,
+      "errors": [
+        "Report 1 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 2 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 3 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 4 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 5 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 6 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 7 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 8 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 9 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 10 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 11 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 12 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)",
+        "Report 13 failed: 400: PEER_ID_INVALID (caused by account.ReportPeer)"
+      ]
+    }
+  ]
+}

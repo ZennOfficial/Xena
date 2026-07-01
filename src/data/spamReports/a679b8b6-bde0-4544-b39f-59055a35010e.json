@@ -1,0 +1,24 @@
+{
+  "id": "a679b8b6-bde0-4544-b39f-59055a35010e",
+  "username": "qyum",
+  "target": "@xytxcysi",
+  "targetInfo": {
+    "id": "7424569720",
+    "username": "@xytxcysi",
+    "firstName": "KING ABDUL SHOMAT",
+    "lastName": null,
+    "name": "KING ABDUL SHOMAT"
+  },
+  "count": 50,
+  "message": "This account is violating Telegram's terms through spam and scam activities.",
+  "link": "",
+  "sessions": [
+    "+601121973089"
+  ],
+  "progress": 50,
+  "total": 50,
+  "status": "Checking target status...",
+  "startTime": "2026-03-24T05:51:33.429Z",
+  "completed": true,
+  "endTime": "2026-03-24T05:52:26.039Z"
+}

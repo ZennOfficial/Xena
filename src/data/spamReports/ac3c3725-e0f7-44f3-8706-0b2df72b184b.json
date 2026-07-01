@@ -1,0 +1,24 @@
+{
+  "id": "ac3c3725-e0f7-44f3-8706-0b2df72b184b",
+  "username": "Rapz",
+  "target": "@Rose_Support_Group_IB",
+  "targetInfo": {
+    "id": "2093275429",
+    "username": "@Rose_Support_Group_IB",
+    "firstName": "DeeDat JigLe",
+    "lastName": null,
+    "name": "DeeDat JigLe"
+  },
+  "count": 1000,
+  "message": "This account is violating Telegram's terms of service through spam and scam activities.",
+  "link": "https://t.me/@Rose_Support_Group_IB",
+  "sessions": [
+    "+6283174558500"
+  ],
+  "progress": 1000,
+  "total": 1000,
+  "status": "Checking target status...",
+  "startTime": "2026-04-19T04:23:03.947Z",
+  "completed": true,
+  "endTime": "2026-04-19T04:24:07.336Z"
+}

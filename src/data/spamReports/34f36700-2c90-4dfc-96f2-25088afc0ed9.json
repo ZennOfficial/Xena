@@ -1,0 +1,23 @@
+{
+  "id": "34f36700-2c90-4dfc-96f2-25088afc0ed9",
+  "username": "permen_md",
+  "target": "@Bizzishere",
+  "targetInfo": {
+    "id": "8298048227",
+    "username": "@Bizzishere",
+    "firstName": "ɪᴍ×ʙɪᴢᴢ×ɪsʜᴇʀᴇ",
+    "lastName": null,
+    "name": "ɪᴍ×ʙɪᴢᴢ×ɪsʜᴇʀᴇ"
+  },
+  "count": 3,
+  "message": "This account is violating Telegram's terms of service through spam and scam activities.",
+  "link": "",
+  "sessions": [
+    "+6285810804506"
+  ],
+  "progress": 3,
+  "total": 3,
+  "status": "Processing with session +6285810804506...",
+  "startTime": "2026-01-10T10:00:43.917Z",
+  "completed": false
+}

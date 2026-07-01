@@ -1,0 +1,30 @@
+{
+  "id": "df0ab202-1e92-43e4-96a1-b1581c0a00ae",
+  "username": "permen_md",
+  "target": "@Bizzishere",
+  "targetInfo": {
+    "id": "8298048227",
+    "username": "@Bizzishere",
+    "firstName": "ɪᴍ×ʙɪᴢᴢ×ɪsʜᴇʀᴇ",
+    "lastName": null,
+    "name": "ɪᴍ×ʙɪᴢᴢ×ɪsʜᴇʀᴇ",
+    "className": "User"
+  },
+  "targetUserId": "8298048227",
+  "count": 50,
+  "message": "This account is violating Telegram's terms of service through spam and scam activities.",
+  "link": "",
+  "sessions": [
+    "+6282185420746",
+    "+6285810804506"
+  ],
+  "progress": 5,
+  "total": 20,
+  "status": "Starting report process...",
+  "startTime": "2026-01-10T09:25:05.930Z",
+  "completed": false,
+  "errors": [],
+  "successfulReports": 0,
+  "failedReports": 5,
+  "sessionResults": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "9c2f1709-6914-4f72-b10d-b465e528f393",
+  "username": "permen_md",
+  "target": "7993260094",
+  "targetInfo": {
+    "id": "7993260094",
+    "username": null,
+    "firstName": null,
+    "lastName": null,
+    "name": "7993260094"
+  },
+  "count": 50,
+  "message": "This account is violating Telegram's terms of service through spam and scam activities.",
+  "link": "",
+  "sessions": [
+    "+6282185420746",
+    "+6285810804506"
+  ],
+  "progress": 0,
+  "total": 20,
+  "status": "Checking target status...",
+  "startTime": "2026-01-10T08:07:47.102Z",
+  "completed": false
+}

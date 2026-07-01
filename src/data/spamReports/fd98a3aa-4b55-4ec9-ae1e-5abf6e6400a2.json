@@ -1,0 +1,24 @@
+{
+  "id": "fd98a3aa-4b55-4ec9-ae1e-5abf6e6400a2",
+  "username": "qyum",
+  "target": "Xwyskontol",
+  "targetInfo": {
+    "id": "5559800206",
+    "username": "@Xwyskontol",
+    "firstName": "Jezz",
+    "lastName": null,
+    "name": "Jezz"
+  },
+  "count": 67,
+  "message": "This account is violating Telegram's terms of service through spam and scam activities.",
+  "link": "",
+  "sessions": [
+    "+601121973089"
+  ],
+  "progress": 67,
+  "total": 67,
+  "status": "Checking target status...",
+  "startTime": "2026-03-24T06:03:32.746Z",
+  "completed": true,
+  "endTime": "2026-03-24T06:04:43.078Z"
+}

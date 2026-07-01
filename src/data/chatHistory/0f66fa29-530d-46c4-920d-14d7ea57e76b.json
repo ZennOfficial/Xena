@@ -1,0 +1,32 @@
+[
+  {
+    "username": "admin",
+    "message": "hello",
+    "timestamp": "2025-12-29T16:31:27.017Z"
+  },
+  {
+    "username": "AI",
+    "message": "Hello! How can I assist you today?",
+    "timestamp": "2025-12-29T16:31:29.043Z"
+  },
+  {
+    "username": "admin",
+    "message": "perkenalkan namaku permenmd",
+    "timestamp": "2025-12-29T16:31:41.325Z"
+  },
+  {
+    "username": "AI",
+    "message": "Halo, Permenmd! Senang bertemu denganmu. Ada yang ingin kamu bicarakan atau tanyakan?",
+    "timestamp": "2025-12-29T16:31:43.848Z"
+  },
+  {
+    "username": "admin",
+    "message": "perkenalkan namamu dan sebutkan namaku",
+    "timestamp": "2025-12-29T16:32:05.860Z"
+  },
+  {
+    "username": "AI",
+    "message": "Halo, namaku adalah Assistant. Senang bertemu denganmu, Permenmd! Ada yang ingin kamu diskusikan hari ini?",
+    "timestamp": "2025-12-29T16:32:08.131Z"
+  }
+]

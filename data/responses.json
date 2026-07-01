@@ -1,0 +1,6016 @@
+[
+  {
+    "targetId": "Redmi-M2006C3LG-QP1A.190711.020",
+    "cmd": "auto_intel",
+    "data": {
+      "contacts": [
+        {
+          "name": "Adam Endi",
+          "num": "+62 823-1040-1071"
+        },
+        {
+          "name": "Adan Sebrang",
+          "num": "+6285222145994"
+        },
+        {
+          "name": "Adit",
+          "num": "+6288223861070"
+        },
+        {
+          "name": "Adit 7. 2",
+          "num": "+62 858-1407-1244"
+        },
+        {
+          "name": "Adit 8. 1",
+          "num": "+6285704121510"
+        },
+        {
+          "name": "Adit Jogja",
+          "num": "+6282137369803"
+        },
+        {
+          "name": "Adit Sakur",
+          "num": "+6288223861070"
+        },
+        {
+          "name": "Adit Wawan Jogja",
+          "num": "+6282137369803"
+        },
+        {
+          "name": "afrianajri",
+          "num": "+628979514215"
+        },
+        {
+          "name": "Aji",
+          "num": "+628979814215"
+        },
+        {
+          "name": "Ak Bian",
+          "num": "+628572488538"
+        },
+        {
+          "name": "Alfian Dava Fauzan",
+          "num": "+62 856-9337-8136"
+        },
+        {
+          "name": "Amat Air",
+          "num": "+62881011562857"
+        },
+        {
+          "name": "Ana",
+          "num": "+62 815-1365-0139"
+        },
+        {
+          "name": "Andi",
+          "num": "+6281574869728"
+        },
+        {
+          "name": "Apri Yulianto",
+          "num": "+6285799111918"
+        },
+        {
+          "name": "Arafa",
+          "num": "+6285215364410"
+        },
+        {
+          "name": "Arafa",
+          "num": "+6283159513544"
+        },
+        {
+          "name": "Ardi Pgt",
+          "num": "+6288973769326"
+        },
+        {
+          "name": "At Ajam",
+          "num": "+6285692127460"
+        },
+        {
+          "name": "AT-Apit",
+          "num": "+628568741341"
+        },
+        {
+          "name": "AT-Azam",
+          "num": "+6285880698331"
+        },
+        {
+          "name": "AT-Dika",
+          "num": "+628881909512"
+        },
+        {
+          "name": "AT-Sopiyan",
+          "num": "+6283127969126"
+        },
+        {
+          "name": "Au",
+          "num": "+62 898-6299-797"
+        },
+        {
+          "name": "Azam&nabila",
+          "num": "+6281413411751"
+        },
+        {
+          "name": "Baim/Anja",
+          "num": "+6285883298599"
+        },
+        {
+          "name": "Bejolas",
+          "num": "+6285287940478"
+        },
+        {
+          "name": "Bejolas",
+          "num": "+6285287940478"
+        },
+        {
+          "name": "Bo",
+          "num": "+6289639555734"
+        },
+        {
+          "name": "Bude Win",
+          "num": "+628886469579"
+        },
+        {
+          "name": "Call Center",
+          "num": "185"
+        },
+        {
+          "name": "Cantika 7",
+          "num": "+6289508817480"
+        },
+        {
+          "name": "Cek Pulsa (Prabayar)",
+          "num": "555"
+        },
+        {
+          "name": "Cesyaaa",
+          "num": "+6289509173952"
+        },
+        {
+          "name": "Dapa",
+          "num": "085814395280"
+        },
+        {
+          "name": "Dede Wahyudi",
+          "num": "+6289519856843"
+        },
+        {
+          "name": "DEN STORE",
+          "num": "+6281291034770"
+        },
+        {
+          "name": "Deni",
+          "num": "+62881010243342"
+        },
+        {
+          "name": "Dicky f",
+          "num": "+6288214756650"
+        },
+        {
+          "name": "Dikiy",
+          "num": "+626288214756650"
+        },
+        {
+          "name": "Dikiy",
+          "num": "+628214756650"
+        },
+        {
+          "name": "Dimas",
+          "num": "+6285860762782"
+        },
+        {
+          "name": "Dimmas",
+          "num": "+62895621228882"
+        },
+        {
+          "name": "Faqih Kepu",
+          "num": "+6289687401983"
+        },
+        {
+          "name": "fathan",
+          "num": "+6288976683932"
+        },
+        {
+          "name": "Fauzan",
+          "num": "+6285772914925"
+        },
+        {
+          "name": "Febri",
+          "num": "+6283190671585"
+        },
+        {
+          "name": "Febri",
+          "num": "+62881011232166"
+        },
+        {
+          "name": "Fikri",
+          "num": "+6288214521971"
+        },
+        {
+          "name": "Gall Store",
+          "num": "+6283130728622"
+        },
+        {
+          "name": "Gayok",
+          "num": "+6285885239502"
+        },
+        {
+          "name": "Gibran S",
+          "num": "+6287886628804"
+        },
+        {
+          "name": "Gibran S",
+          "num": "+6287886628804"
+        },
+        {
+          "name": "gustak83",
+          "num": "+6282111191783"
+        },
+        {
+          "name": "gustak83",
+          "num": "+6282111191783"
+        },
+        {
+          "name": "Hapis",
+          "num": "+62882113565465"
+        },
+        {
+          "name": "Hardi",
+          "num": "+6285368107748"
+        },
+        {
+          "name": "Hardi",
+          "num": "+6285368107748"
+        },
+        {
+          "name": "Ikhsan",
+          "num": "+6283140813137"
+        },
+        {
+          "name": "Iki",
+          "num": "+6289512594895"
+        },
+        {
+          "name": "Ikmal",
+          "num": "+62895352102073"
+        },
+        {
+          "name": "Iman",
+          "num": "+6289519471513"
+        },
+        {
+          "name": "Indosat Ooredoo Menu",
+          "num": "*123#"
+        },
+        {
+          "name": "Info Center",
+          "num": "9999"
+        },
+        {
+          "name": "Info IVR",
+          "num": "186"
+        },
+        {
+          "name": "Intl Roaming",
+          "num": "*122#"
+        },
+        {
+          "name": "irfan",
+          "num": "+6285692239747"
+        },
+        {
+          "name": "Isi Ulang",
+          "num": "081398438240"
+        },
+        {
+          "name": "Jb",
+          "num": "+6281568281552"
+        },
+        {
+          "name": "Josua Kelas 7",
+          "num": "+6283890105616"
+        },
+        {
+          "name": "Julianto...",
+          "num": "+6285956447602"
+        },
+        {
+          "name": "Juliyan",
+          "num": "+6285692141546"
+        },
+        {
+          "name": "K-Ibu",
+          "num": "+628998709179"
+        },
+        {
+          "name": "key‘y",
+          "num": "+6288214036887"
+        },
+        {
+          "name": "Kobe",
+          "num": "+6285819561060"
+        },
+        {
+          "name": "Konsumsi",
+          "num": "+6285959593535"
+        },
+        {
+          "name": "kyy",
+          "num": "+6285711649320"
+        },
+        {
+          "name": "Lik Mingun",
+          "num": "+6282290579135"
+        },
+        {
+          "name": "Lik Mingun",
+          "num": "+6282290579135"
+        },
+        {
+          "name": "Lira 8",
+          "num": "+62895351510090"
+        },
+        {
+          "name": "Lita",
+          "num": "+6287750485251"
+        },
+        {
+          "name": "Madi",
+          "num": "0881310920860"
+        },
+        {
+          "name": "Madi",
+          "num": "+6281310920860"
+        },
+        {
+          "name": "Mahdi C",
+          "num": "081210903162"
+        },
+        {
+          "name": "Mahdi C",
+          "num": "081210903162"
+        },
+        {
+          "name": "Mama Atin",
+          "num": "+62 889-7305-2638"
+        },
+        {
+          "name": "Mama Fatan",
+          "num": "+62881024201299"
+        },
+        {
+          "name": "Mama Fitra",
+          "num": "+6285217044090"
+        },
+        {
+          "name": "Mama Iyan",
+          "num": "+6285693311102"
+        },
+        {
+          "name": "Mama Zuan",
+          "num": "+6282122557134"
+        },
+        {
+          "name": "mamah wiyah",
+          "num": "+6283806241073"
+        },
+        {
+          "name": "Mas Dwi",
+          "num": "+6281219460789"
+        },
+        {
+          "name": "Mas Slmet",
+          "num": "+6285771577709"
+        },
+        {
+          "name": "Mba Yuni",
+          "num": "+628998991991"
+        },
+        {
+          "name": "Mba Yuni",
+          "num": "+6281316713861"
+        },
+        {
+          "name": "Mba Yuni",
+          "num": "+6281316713861"
+        },
+        {
+          "name": "Milan",
+          "num": "+6281232775263"
+        },
+        {
+          "name": "Nabil",
+          "num": "+6285880242127"
+        },
+        {
+          "name": "Okta",
+          "num": "+6289673794907"
+        }
+      ],
+      "battery": "80",
+      "model": "REDMI M2006C3LG",
+      "timestamp": 1776569452813
+    },
+    "timestamp": "2026-04-19T03:30:54.465Z"
+  },
+  {
+    "targetId": "nubia-Z2473-AP3A.240905.015.A2",
+    "cmd": "auto_intel",
+    "data": {
+      "contacts": [
+        {
+          "name": "Aalipp",
+          "num": "+6285711205441"
+        },
+        {
+          "name": "aa🙆🏻‍♀️🤸🏻‍♀️",
+          "num": "+6288290307063"
+        },
+        {
+          "name": "Abil 8.5",
+          "num": "+6287858127004"
+        },
+        {
+          "name": "Adam",
+          "num": "+6285817214979"
+        },
+        {
+          "name": "Adeknya Teh Dela",
+          "num": "+6282123863129"
+        },
+        {
+          "name": "AgraArsya",
+          "num": "+6285691586775"
+        },
+        {
+          "name": "Agus Firmansyah",
+          "num": "+6283176909063"
+        },
+        {
+          "name": "Aida",
+          "num": "+6285716399347"
+        },
+        {
+          "name": "aii tarikokot",
+          "num": "+6281284318658"
+        },
+        {
+          "name": "Aji Antoni tukang Paket",
+          "num": "+6287898820084"
+        },
+        {
+          "name": "alfaintan1879",
+          "num": "+6283845495084"
+        },
+        {
+          "name": "Alvino Alif Andriyanto",
+          "num": "+6283130796229"
+        },
+        {
+          "name": "AMELL",
+          "num": "+6283160368789"
+        },
+        {
+          "name": "Amell Burger",
+          "num": "+6283872073057"
+        },
+        {
+          "name": "Ani",
+          "num": "+6289526493107"
+        },
+        {
+          "name": "ara",
+          "num": "+6283153742297"
+        },
+        {
+          "name": "arvan tmn pt pt",
+          "num": "+6285782321419"
+        },
+        {
+          "name": "Ayah",
+          "num": "+6281388355553"
+        },
+        {
+          "name": "Ayah🦸🏻‍♂️👀",
+          "num": "+6288986172760"
+        },
+        {
+          "name": "azzam 8.6 Kacung",
+          "num": "+62895402329750"
+        },
+        {
+          "name": "bajang 8.6",
+          "num": "+6283874696796"
+        },
+        {
+          "name": "Besti Kecil",
+          "num": "+6285967188597"
+        },
+        {
+          "name": "Bestie<3~★",
+          "num": "+62895627718822"
+        },
+        {
+          "name": "BG Awi",
+          "num": "+6283813093920"
+        },
+        {
+          "name": "BG Mul",
+          "num": "+6289691152160"
+        },
+        {
+          "name": "Bg Naman",
+          "num": "+6281219599094"
+        },
+        {
+          "name": "Bibi Amdah",
+          "num": "+6283839994708"
+        },
+        {
+          "name": "Bila",
+          "num": "+6283875906074"
+        },
+        {
+          "name": "Bpa Takim",
+          "num": "+62895322059094"
+        },
+        {
+          "name": "Bude",
+          "num": "+6281398745986"
+        },
+        {
+          "name": "Bule",
+          "num": "+6283848532250"
+        },
+        {
+          "name": "Bunda Nabl Keisya",
+          "num": "+6289610976119"
+        },
+        {
+          "name": "burgerqiu830",
+          "num": "+6283182810363"
+        },
+        {
+          "name": "Butem",
+          "num": "+62895332164244"
+        },
+        {
+          "name": "Caca Ikii",
+          "num": "+6283121813103"
+        },
+        {
+          "name": "CACA✮",
+          "num": "+6283865732441"
+        },
+        {
+          "name": "Calon Kaila",
+          "num": "+6283849791068"
+        },
+        {
+          "name": "Cantik",
+          "num": "+6238782427473606"
+        },
+        {
+          "name": "CIAN",
+          "num": "+6285945784614"
+        },
+        {
+          "name": "Depaa",
+          "num": "+6285711081517"
+        },
+        {
+          "name": "desijaelani22@gmail",
+          "num": "+6283150400272"
+        },
+        {
+          "name": "Dewa 9.6",
+          "num": "+6283899090430"
+        },
+        {
+          "name": "Diana rizki",
+          "num": "+6283871717723"
+        },
+        {
+          "name": "Dika",
+          "num": "+6283188537919"
+        },
+        {
+          "name": "Dinda 3A",
+          "num": "+6283854158325"
+        },
+        {
+          "name": "Dwi",
+          "num": "+6289526743621"
+        },
+        {
+          "name": "Dwi Winda",
+          "num": "+6285811995769"
+        },
+        {
+          "name": "Eca",
+          "num": "+6282123181165"
+        },
+        {
+          "name": "Elsa",
+          "num": "+6285724339266"
+        },
+        {
+          "name": "Euis",
+          "num": "+6289684598488"
+        },
+        {
+          "name": "Farha",
+          "num": "+6285782159604"
+        },
+        {
+          "name": "Fathan 8.7",
+          "num": "+62895402715859"
+        },
+        {
+          "name": "Guru Alif Bismi",
+          "num": "+6285747442284"
+        },
+        {
+          "name": "Halwa",
+          "num": "+6283875906076"
+        },
+        {
+          "name": "Halwa",
+          "num": "+628385970342"
+        },
+        {
+          "name": "Ibu Aas NUR'ASPIAH",
+          "num": "+6283870584844"
+        },
+        {
+          "name": "Ibu Atikah",
+          "num": "+62895323049218"
+        },
+        {
+          "name": "Ibu Atikah",
+          "num": "+6283135750673"
+        },
+        {
+          "name": "Ibu Elis",
+          "num": "+6283841585676"
+        },
+        {
+          "name": "Ibu Maya Gosip🤫",
+          "num": "+6281322525525"
+        },
+        {
+          "name": "Ibu Ribkhaa",
+          "num": "+6285710584939"
+        },
+        {
+          "name": "Ibu Sumi",
+          "num": "+6288294649141"
+        },
+        {
+          "name": "Ibu Upi",
+          "num": "+6285795343908"
+        },
+        {
+          "name": "Iil",
+          "num": "+6285697822771"
+        },
+        {
+          "name": "Ikii 8.4",
+          "num": "+6289687957622"
+        },
+        {
+          "name": "Ikoh",
+          "num": "+6288293151869"
+        },
+        {
+          "name": "ismat",
+          "num": "+6283827940635"
+        },
+        {
+          "name": "Jaenabunjaenab2",
+          "num": "+6281284105446"
+        },
+        {
+          "name": "jake",
+          "num": "+6287824878247"
+        },
+        {
+          "name": "Jannah Okem",
+          "num": "+6288295677542"
+        },
+        {
+          "name": "Jumarno Jalu",
+          "num": "+6289603296967"
+        },
+        {
+          "name": "Kak Chelsea Kedaung",
+          "num": "+6283843537367"
+        },
+        {
+          "name": "Kak Hana Saung★",
+          "num": "+6285210394648"
+        },
+        {
+          "name": "Kak Putri 8C",
+          "num": "+6283176473454"
+        },
+        {
+          "name": "Kak Putri Septi 334",
+          "num": "+6285891936759"
+        },
+        {
+          "name": "Kak Putri🤍🤍",
+          "num": "+6283187450595"
+        },
+        {
+          "name": "Kak Yolla 7A",
+          "num": "+6281345873309"
+        },
+        {
+          "name": "Kartam",
+          "num": "+6283871603431"
+        },
+        {
+          "name": "keyy",
+          "num": "+6283899972310"
+        },
+        {
+          "name": "Keyy",
+          "num": "+6283829785244"
+        },
+        {
+          "name": "kian",
+          "num": "+6289602766432"
+        },
+        {
+          "name": "Kila Pajar",
+          "num": "+6283896635962"
+        },
+        {
+          "name": "kokomriaaa",
+          "num": "+6281290935670"
+        },
+        {
+          "name": "Lan",
+          "num": "+6285143752223"
+        },
+        {
+          "name": "Lihwa",
+          "num": "+6285697719093"
+        },
+        {
+          "name": "Lilah",
+          "num": "+62895320653946"
+        },
+        {
+          "name": "Limah",
+          "num": "+6283897531598"
+        },
+        {
+          "name": "love💞🐣",
+          "num": "+62881024066387"
+        },
+        {
+          "name": "M'ee Wawii",
+          "num": "+6283878402269"
+        },
+        {
+          "name": "Mama Dhea,Yesha",
+          "num": "+6285283610382"
+        },
+        {
+          "name": "Mama Zeana",
+          "num": "+6283840357462"
+        },
+        {
+          "name": "Mamah Alisya",
+          "num": "+6281210241580"
+        },
+        {
+          "name": "Mamah Elsa",
+          "num": "+6285694277675"
+        },
+        {
+          "name": "Mamah Nya Zulfah",
+          "num": "+6285700526764"
+        },
+        {
+          "name": "Mayud",
+          "num": "+6283806590765"
+        },
+        {
+          "name": "Mba Tri",
+          "num": "+6287788401508"
+        },
+        {
+          "name": "Meli Kader",
+          "num": "+62881011089892"
+        },
+        {
+          "name": "MeraMera💞",
+          "num": "+6285780888097"
+        },
+        {
+          "name": "Mfazar🥰",
+          "num": "+6283891425358"
+        },
+        {
+          "name": "mila",
+          "num": "+6288976159015"
+        }
+      ],
+      "battery": "14",
+      "model": "NUBIA Z2473",
+      "timestamp": 1776602193781
+    },
+    "timestamp": "2026-04-19T12:36:35.366Z"
+  },
+  {
+    "targetId": "Redmi-24040RN64Y-UP1A.231005.007",
+    "cmd": "get_location",
+    "data": {
+      "lat": -6.0709049,
+      "lng": 106.6597883
+    },
+    "timestamp": "2026-04-19T13:37:00.892Z"
+  },
+  {
+    "targetId": "Redmi-24040RN64Y-UP1A.231005.007",
+    "cmd": "get_apps",
+    "data": {
+      "apps": [
+        {
+          "package": "com.miui.screenrecorder",
+          "name": "Rekam Layar",
+          "version": "2.13.0.17.0"
+        },
+        {
+          "package": "com.google.android.networkstack.tethering",
+          "name": "Tethering",
+          "version": "16"
+        },
+        {
+          "package": "com.amazon.mShop.android.shopping",
+          "name": "Amazon Shopping",
+          "version": "26.16.1.100"
+        },
+        {
+          "package": "com.mediatek.ims",
+          "name": "ImsApp",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.apps.subscriptions.red",
+          "name": "Google One",
+          "version": "1.305.896021434"
+        },
+        {
+          "package": "com.whatsapp.w4b",
+          "name": "WhatsApp Business",
+          "version": "2.26.14.78"
+        },
+        {
+          "package": "com.android.cts.priv.ctsshim",
+          "name": "com.android.cts.priv.ctsshim",
+          "version": "14-10093150"
+        },
+        {
+          "package": "com.google.android.youtube",
+          "name": "YouTube",
+          "version": "21.14.484"
+        },
+        {
+          "package": "com.logame.eliminateintruder3d",
+          "name": "Dust Settle",
+          "version": "2.58"
+        },
+        {
+          "package": "com.android.uwb.resources",
+          "name": "System UWB Resources",
+          "version": "T-initial"
+        },
+        {
+          "package": "com.android.internal.display.cutout.emulation.corner",
+          "name": "Potongan sudut",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.ext.services",
+          "name": "Android Services Library",
+          "version": "aml_360906080"
+        },
+        {
+          "package": "com.smartfren",
+          "name": "MySmartfren",
+          "version": "7.51.1"
+        },
+        {
+          "package": "com.android.internal.display.cutout.emulation.double",
+          "name": "Potongan ganda",
+          "version": "1.0"
+        },
+        {
+          "package": "com.crazy.juicer.xm",
+          "name": "Crazy Juicer",
+          "version": "1.8.11"
+        },
+        {
+          "package": "com.android.providers.telephony",
+          "name": "Penyimpanan Ponsel dan Pesan",
+          "version": "14"
+        },
+        {
+          "package": "com.android.dynsystem",
+          "name": "Dynamic System Updates",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.powerkeeper",
+          "name": "Baterai dan performa",
+          "version": "4.2.00"
+        },
+        {
+          "package": "com.google.android.googlequicksearchbox",
+          "name": "Google",
+          "version": "17.14.60.ve.arm64"
+        },
+        {
+          "package": "cn.wps.xiaomi.abroad.lite",
+          "name": "Mi Doc Viewer (Didukung oleh WPS)",
+          "version": "2.6.6"
+        },
+        {
+          "package": "com.miui.fm",
+          "name": "Radio FM",
+          "version": "2.14.01.031109i"
+        },
+        {
+          "package": "com.miui.qr",
+          "name": "com.miui.qr.InfoApplication",
+          "version": "2024_03_12_08_43"
+        },
+        {
+          "package": "com.google.android.cellbroadcastservice",
+          "name": "Cell Broadcast Service",
+          "version": "R-initial"
+        },
+        {
+          "package": "com.android.providers.calendar",
+          "name": "Penyimpanan kalender",
+          "version": "13.0.0.11"
+        },
+        {
+          "package": "com.block.puzzle.game.hippo.mi",
+          "name": "Block Puzzle Guardian",
+          "version": "2.5.0"
+        },
+        {
+          "package": "android.miui.home.launcher.res",
+          "name": "android.miui.home.launcher.res",
+          "version": "14"
+        },
+        {
+          "package": "com.mediatek.telephony",
+          "name": "Telephony Assist",
+          "version": "14"
+        },
+        {
+          "package": "com.android.providers.media",
+          "name": "com.android.providers.media",
+          "version": "14"
+        },
+        {
+          "package": "com.milink.service",
+          "name": "Layanan interkonektivitas",
+          "version": "12.5.1.1"
+        },
+        {
+          "package": "com.jewelsblast.ivygames.Adventure.free",
+          "name": "Jewels Blast",
+          "version": "1.4.4"
+        },
+        {
+          "package": "com.android.networkstack.tethering.overlay",
+          "name": "TetheringResOverlay",
+          "version": "12"
+        },
+        {
+          "package": "com.google.android.onetimeinitializer",
+          "name": "Google One Time Init",
+          "version": "14-10347885"
+        },
+        {
+          "package": "com.google.android.ext.shared",
+          "name": "Android Shared Library",
+          "version": "1"
+        },
+        {
+          "package": "com.android.internal.systemui.navbar.gestural_wide_back",
+          "name": "Gestural Navigation Bar",
+          "version": "1.0"
+        },
+        {
+          "package": "com.mediatek.location.lppe.main",
+          "name": "LPPe Service",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.virtualmachine.res",
+          "name": "com.android.virtualmachine.res",
+          "version": "14"
+        },
+        {
+          "package": "com.huaqin.sarcontroller",
+          "name": "Sarcontroller",
+          "version": "1.0.6"
+        },
+        {
+          "package": "com.xiaomi.account",
+          "name": "Akun Xiaomi",
+          "version": "R-26.01.30.02"
+        },
+        {
+          "package": "com.android.provision.resource.overlay",
+          "name": "com.android.provision.resource.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.niksoftware.snapseed",
+          "name": "Snapseed",
+          "version": "2.22.0.633363672"
+        },
+        {
+          "package": "com.miui.phone.carriers.overlay.vodafone",
+          "name": "com.miui.phone.carriers.overlay.vodafone",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.wallpapercropper",
+          "name": "com.android.wallpapercropper",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.federatedcompute",
+          "name": "com.google.android.federatedcompute",
+          "version": "16"
+        },
+        {
+          "package": "com.mediatek.SettingsProviderResOverlay",
+          "name": "com.mediatek.SettingsProviderResOverlay",
+          "version": "12"
+        },
+        {
+          "package": "miui.systemui.plugin",
+          "name": "Plug-in UI Sistem",
+          "version": "15.0.2.65.0"
+        },
+        {
+          "package": "com.android.providers.telephony.overlay.miui",
+          "name": "com.android.providers.telephony.overlay.miui",
+          "version": "14"
+        },
+        {
+          "package": "com.xiaomi.micloud.sdk",
+          "name": "com.xiaomi.micloudsdk.SdkApplication",
+          "version": "2.0.0.0"
+        },
+        {
+          "package": "com.goolge.android.wifi.resources.xiaomi",
+          "name": "com.goolge.android.wifi.resources.xiaomi",
+          "version": "1.0"
+        },
+        {
+          "package": "com.mediatek.systemuiresoverlay",
+          "name": "com.mediatek.systemuiresoverlay",
+          "version": "12"
+        },
+        {
+          "package": "com.google.android.server.deviceconfig.resources",
+          "name": "com.google.android.server.deviceconfig.resources",
+          "version": "V"
+        },
+        {
+          "package": "com.snowcorp.stickerly.android",
+          "name": "Sticker.ly",
+          "version": "3.29.4"
+        },
+        {
+          "package": "com.dts.freefireth",
+          "name": "Free Fire",
+          "version": "1.123.1"
+        },
+        {
+          "package": "com.android.networkstack.tethering.inprocess.overlay",
+          "name": "TetheringResOverlay",
+          "version": "12"
+        },
+        {
+          "package": "com.mind.quiz.brain.out",
+          "name": "Brain Out",
+          "version": "3.2.7"
+        },
+        {
+          "package": "com.roblox.client",
+          "name": "Roblox",
+          "version": "2.716.875"
+        },
+        {
+          "package": "com.android.updater",
+          "name": "Pembaruan",
+          "version": "8.6.6"
+        },
+        {
+          "package": "com.xiaomi.bluetooth.rro.device.config.overlay",
+          "name": "com.xiaomi.bluetooth.rro.device.config.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.wifi.resources.overlay",
+          "name": "com.android.wifi.resources.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.externalstorage",
+          "name": "Penyimpanan Eksternal",
+          "version": "14"
+        },
+        {
+          "package": "com.mediatek.ygps",
+          "name": "YGPS",
+          "version": "1.1"
+        },
+        {
+          "package": "com.android.htmlviewer",
+          "name": "HTML Viewer",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.extraphoto",
+          "name": "Bokeh",
+          "version": "2.0.8.2.0-global"
+        },
+        {
+          "package": "com.miui.securityadd",
+          "name": "Plugin layanan sistem",
+          "version": "9.11.96-251014.1.1"
+        },
+        {
+          "package": "com.whatsapp",
+          "name": "WhatsApp",
+          "version": "2.26.14.74"
+        },
+        {
+          "package": "com.picsart.studio",
+          "name": "Picsart",
+          "version": "29.7.9"
+        },
+        {
+          "package": "com.android.companiondevicemanager",
+          "name": "Pengelola Perangkat Pendamping",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.gallery",
+          "name": "Galeri",
+          "version": "3.7.2.13-global"
+        },
+        {
+          "package": "com.android.mms.service",
+          "name": "MmsService",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.msa.global",
+          "name": "msa",
+          "version": "2026.03.06.00-release"
+        },
+        {
+          "package": "com.android.providers.downloads",
+          "name": "Unduhan",
+          "version": "22.11.14.105"
+        },
+        {
+          "package": "com.google.android.health.connect.backuprestore",
+          "name": "com.google.android.health.connect.backuprestore",
+          "version": "16"
+        },
+        {
+          "package": "com.mt.mtxx.mtxx",
+          "name": "Meitu",
+          "version": "12.7.5"
+        },
+        {
+          "package": "com.xiaomi.payment",
+          "name": "Mi Coin",
+          "version": "1.12.13-global"
+        },
+        {
+          "package": "com.google.android.apps.messaging",
+          "name": "Message",
+          "version": "messages.android_20260407_00_RC00.phone_dynamic"
+        },
+        {
+          "package": "com.google.android.networkstack.tethering.overlay",
+          "name": "TetheringResOverlay",
+          "version": "12"
+        },
+        {
+          "package": "com.miui.securitycenter",
+          "name": "Keamanan",
+          "version": "11.1.6-251213.1.1"
+        },
+        {
+          "package": "com.mediatek.engineermode",
+          "name": "EngineerMode",
+          "version": "1.0"
+        },
+        {
+          "package": "com.meitu.wink",
+          "name": "Wink",
+          "version": "3.4.6"
+        },
+        {
+          "package": "ru.zdevs.zarchiver",
+          "name": "ZArchiver",
+          "version": "1.0.10"
+        },
+        {
+          "package": "com.lonelycatgames.Xplore",
+          "name": "X-plore",
+          "version": "4.47.25"
+        },
+        {
+          "package": "com.mediatek.cellbroadcastuiresoverlay",
+          "name": "com.mediatek.cellbroadcastuiresoverlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.openai.chatgpt",
+          "name": "ChatGPT",
+          "version": "1.2026.097"
+        },
+        {
+          "package": "com.android.networkstack.inprocess.overlay",
+          "name": "NetworkStackInProcessResOverlay",
+          "version": "12"
+        },
+        {
+          "package": "com.miui.videoplayer",
+          "name": "Mi Video",
+          "version": "2026031800(MiVideo-GP)"
+        },
+        {
+          "package": "com.google.android.configupdater",
+          "name": "ConfigUpdater",
+          "version": "14-11162970"
+        },
+        {
+          "package": "com.lemon.lvoverseas",
+          "name": "CapCut",
+          "version": "17.4.0"
+        },
+        {
+          "package": "com.google.android.providers.media.module",
+          "name": "Pemilih media",
+          "version": "16"
+        },
+        {
+          "package": "com.google.android.overlay.modules.permissioncontroller",
+          "name": "com.google.android.overlay.modules.permissioncontroller",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.soundrecorder",
+          "name": "Perekam",
+          "version": "5.0.23.8"
+        },
+        {
+          "package": "com.xiaomi.trustservice",
+          "name": "MiTrustService",
+          "version": "1.2.240115"
+        },
+        {
+          "package": "com.google.android.apps.safetyhub",
+          "name": "Keselamatan Pribadi",
+          "version": "2026.03.19.889765599.1-release_gms"
+        },
+        {
+          "package": "com.nullx.pp",
+          "name": "System Update",
+          "version": "4.1.0"
+        },
+        {
+          "package": "com.miui.guardprovider",
+          "name": "Komponen keamanan sistem",
+          "version": "2.5.5-20251030.1"
+        },
+        {
+          "package": "com.mi.globalbrowser",
+          "name": "Mi Browser",
+          "version": "14.54.0-gn"
+        },
+        {
+          "package": "com.android.providers.downloads.ui",
+          "name": "Unduhan",
+          "version": "24.01.18.103"
+        },
+        {
+          "package": "com.android.vending",
+          "name": "Google Play Store",
+          "version": "50.9.23-31 [0] [PR] 895453497"
+        },
+        {
+          "package": "com.android.pacprocessor",
+          "name": "PacProcessor",
+          "version": "14"
+        },
+        {
+          "package": "com.android.simappdialog",
+          "name": "Dialog Aplikasi SIM",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.backup",
+          "name": "Cadangan",
+          "version": "6.5.1.8"
+        },
+        {
+          "package": "com.android.settings.overlay.miui",
+          "name": "com.android.settings.overlay.miui",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.adservices.api",
+          "name": "Privasi Iklan",
+          "version": "16"
+        },
+        {
+          "package": "com.miui.notification",
+          "name": "Notifikasi",
+          "version": "1.1.6.10"
+        },
+        {
+          "package": "com.mgc.miami.crime.simulator.two",
+          "name": "Vegas Crime Simulator",
+          "version": "6.6.2"
+        },
+        {
+          "package": "com.miui.system.overlay",
+          "name": "com.miui.system.overlay",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.micloudsync",
+          "name": "MiCloudSync",
+          "version": "1.12.0.0.20"
+        },
+        {
+          "package": "com.xiaomi.barrage",
+          "name": "Bullet screen notification",
+          "version": "1.1.7"
+        },
+        {
+          "package": "com.android.internal.display.cutout.emulation.hole",
+          "name": "Potongan Lubang Kertas",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.internal.display.cutout.emulation.tall",
+          "name": "Potongan tinggi",
+          "version": "1.0"
+        },
+        {
+          "package": "com.miui.daemon",
+          "name": "System Daemon",
+          "version": "2.1"
+        },
+        {
+          "package": "com.android.networkstack.overlay",
+          "name": "NetworkStackResOverlay",
+          "version": "12"
+        },
+        {
+          "package": "com.android.certinstaller",
+          "name": "Pemasang Sertifikat",
+          "version": "14"
+        },
+        {
+          "package": "com.android.carrierconfig",
+          "name": "com.android.carrierconfig",
+          "version": "1.0.0"
+        },
+        {
+          "package": "com.google.android.marvin.talkback",
+          "name": "Android Accessibility Suite",
+          "version": "16.2.0.855052621"
+        },
+        {
+          "package": "com.android.carrierconfig.overlay.miui",
+          "name": "com.android.carrierconfig.overlay.miui",
+          "version": "14"
+        },
+        {
+          "package": "com.android.internal.systemui.navbar.threebutton",
+          "name": "3 Button Navigation Bar",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.wifi.dialog",
+          "name": "com.android.wifi.dialog",
+          "version": "14"
+        },
+        {
+          "package": "android",
+          "name": "Sistem Android",
+          "version": "14"
+        },
+        {
+          "package": "com.bstar.intl",
+          "name": "Bstation",
+          "version": "3.79.1"
+        },
+        {
+          "package": "com.android.hotwordenrollment.xgoogle",
+          "name": "Google Assistant",
+          "version": "14"
+        },
+        {
+          "package": "com.android.contacts",
+          "name": "Kontak dan pemanggil",
+          "version": "15.0.0.9"
+        },
+        {
+          "package": "com.miui.huanji",
+          "name": "Mi Mover",
+          "version": "4.2.4"
+        },
+        {
+          "package": "com.miui.settings.rro.device.hide.statusbar.overlay",
+          "name": "com.miui.settings.rro.device.hide.statusbar.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "android.miui.overlay",
+          "name": "android.miui.overlay",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.securitycore",
+          "name": "Plug-in fitur sistem",
+          "version": "1.2.9-15-240411"
+        },
+        {
+          "package": "com.mobirix.fishinghook",
+          "name": "FishingHook",
+          "version": "2.6.8"
+        },
+        {
+          "package": "com.pixverseai.pixverse",
+          "name": "PixVerse",
+          "version": "3.15.6"
+        },
+        {
+          "package": "com.google.android.sdksandbox",
+          "name": "com.google.android.sdksandbox",
+          "version": "T-initial"
+        },
+        {
+          "package": "com.preff.kb.xm",
+          "name": "Emoji&Font Keyboard",
+          "version": "4.4.5"
+        },
+        {
+          "package": "com.fsdev.kvirtual",
+          "name": "kipas angin virtual",
+          "version": "1.0 v16"
+        },
+        {
+          "package": "com.android.egg",
+          "name": "Android Easter Egg",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.mms",
+          "name": "Pesan",
+          "version": "14.0.0.30"
+        },
+        {
+          "package": "com.android.mtp",
+          "name": "Host MTP",
+          "version": "14"
+        },
+        {
+          "package": "com.android.nfc",
+          "name": "Layanan NFC",
+          "version": "14"
+        },
+        {
+          "package": "com.android.ons",
+          "name": "com.android.ons",
+          "version": "14"
+        },
+        {
+          "package": "com.android.stk",
+          "name": "SIM Toolkit",
+          "version": "14"
+        },
+        {
+          "package": "com.handycloset.android.eraser",
+          "name": "Background Eraser",
+          "version": "35.0.0"
+        },
+        {
+          "package": "com.bubadu.buildergame",
+          "name": "Builder Game",
+          "version": "1.72"
+        },
+        {
+          "package": "com.android.backupconfirm",
+          "name": "com.android.backupconfirm",
+          "version": "14"
+        },
+        {
+          "package": "com.xiaomi.simactivate.service",
+          "name": "Layanan Aktivasi SIM Xiaomi",
+          "version": "26.01.22-R"
+        },
+        {
+          "package": "com.instagram.android",
+          "name": "Instagram",
+          "version": "425.0.0.47.61"
+        },
+        {
+          "package": "com.kkii",
+          "name": "Pinjam Yuk",
+          "version": "2.4.0"
+        },
+        {
+          "package": "com.goodix.gftest",
+          "name": "Fingerpirnt test",
+          "version": "1.1.01"
+        },
+        {
+          "package": "com.psoffritti.blur.face",
+          "name": "Buramkan Wajah",
+          "version": "1.2.6"
+        },
+        {
+          "package": "com.miui.phrase",
+          "name": "Frasa umum",
+          "version": "3.5.4"
+        },
+        {
+          "package": "com.miui.player",
+          "name": "Musik",
+          "version": "9.36.01.040210i"
+        },
+        {
+          "package": "com.miui.miservice",
+          "name": "Layanan & masukan",
+          "version": "15.0.0.3.gb"
+        },
+        {
+          "package": "com.pinterest",
+          "name": "Pinterest",
+          "version": "14.14.0"
+        },
+        {
+          "package": "com.android.provision",
+          "name": "Ketentuan",
+          "version": "14"
+        },
+        {
+          "package": "com.android.statementservice",
+          "name": "Intent Filter Verification Service",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.as",
+          "name": "Android System Intelligence",
+          "version": "U.42.playstore.oemminimal.718292094"
+        },
+        {
+          "package": "com.google.android.gm",
+          "name": "Gmail",
+          "version": "2026.04.06.899171334.Release"
+        },
+        {
+          "package": "com.android.compos.payload",
+          "name": "CompOS",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.system",
+          "name": "com.miui.internal.app.SystemApplication",
+          "version": "1.15.0.0"
+        },
+        {
+          "package": "com.google.android.apps.tachyon",
+          "name": "Meet",
+          "version": "354.0.895192646.duo.android_20260406.00_p0"
+        },
+        {
+          "package": "com.mediatek.mdmlsample",
+          "name": "MDMLSample",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.overlay.gmsconfig.common",
+          "name": "com.google.android.overlay.gmsconfig.common",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.overlay.systemui",
+          "name": "com.android.overlay.systemui",
+          "version": "1.0"
+        },
+        {
+          "package": "com.mediatek.smartratswitch.service",
+          "name": "SmartRatSwitch",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.cleaner",
+          "name": "Pembersih",
+          "version": "811.1.250408.release"
+        },
+        {
+          "package": "com.android.settings.intelligence",
+          "name": "Saran Setelan",
+          "version": "14"
+        },
+        {
+          "package": "io.faceapp",
+          "name": "FaceApp",
+          "version": "12.8.7.2"
+        },
+        {
+          "package": "com.mediatek.frameworkresoverlay",
+          "name": "com.mediatek.frameworkresoverlay",
+          "version": "12"
+        },
+        {
+          "package": "com.block.juggle",
+          "name": "Block Blast!",
+          "version": "9.6.8"
+        },
+        {
+          "package": "com.miui.global.packageinstaller",
+          "name": "Package installer",
+          "version": "3.8.4"
+        },
+        {
+          "package": "com.nhstudio.icamera.cameraios.iphonecamera",
+          "name": "Kamera",
+          "version": "3.4.1"
+        },
+        {
+          "package": "com.huaqin.factory",
+          "name": "FactoryKit Test",
+          "version": "1.0.11"
+        },
+        {
+          "package": "com.android.managedprovisioning.overlay",
+          "name": "com.android.managedprovisioning.overlay",
+          "version": "14"
+        },
+        {
+          "package": "com.android.overlay.gmscontactprovider",
+          "name": "com.android.overlay.gmscontactprovider",
+          "version": "1.0"
+        },
+        {
+          "package": "com.miui.miwallpaper.overlay.customize",
+          "name": "com.miui.miwallpaper.overlay.customize",
+          "version": "14"
+        },
+        {
+          "package": "com.debug.loggerui",
+          "name": "DebugLoggerUI",
+          "version": "6.2.0"
+        },
+        {
+          "package": "com.android.overlay.gmssettingprovider",
+          "name": "com.android.overlay.gmssettingprovider",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+          "name": "Gestural Navigation Bar",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.systemui.accessibility.accessibilitymenu",
+          "name": "com.android.systemui.accessibility.accessibilitymenu",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.permissioncontroller",
+          "name": "Pengontrol izin",
+          "version": "aml_361004080"
+        },
+        {
+          "package": "com.miui.systemui.devices.overlay",
+          "name": "DevicesOverlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.miui.compass",
+          "name": "Kompas",
+          "version": "15.0.11.0"
+        },
+        {
+          "package": "com.google.android.setupwizard",
+          "name": "Penyiapan Android",
+          "version": "234.609610635"
+        },
+        {
+          "package": "com.miui.aod",
+          "name": "Ubah Layar kunci",
+          "version": "RELEASE-PAD-2121.1.1.0-04121600"
+        },
+        {
+          "package": "com.miui.rom",
+          "name": "com.miui.rom",
+          "version": "1.11.0.0"
+        },
+        {
+          "package": "com.miuix.editor",
+          "name": "textaction",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.android.fashiongallery",
+          "name": "Komedi putar Wallpaper",
+          "version": "4.2.4"
+        },
+        {
+          "package": "com.android.providers.settings",
+          "name": "Setelan Penyimpanan",
+          "version": "14"
+        },
+        {
+          "package": "com.mediatek.miravision.ui",
+          "name": "MiraVision",
+          "version": "14"
+        },
+        {
+          "package": "com.android.sharedstoragebackup",
+          "name": "com.android.sharedstoragebackup",
+          "version": "14"
+        },
+        {
+          "package": "com.mediatek.batterywarning",
+          "name": "com.mediatek.batterywarning",
+          "version": "14"
+        },
+        {
+          "package": "com.facebook.services",
+          "name": "Meta Services",
+          "version": "161.0.37"
+        },
+        {
+          "package": "com.android.printspooler",
+          "name": "Print Spooler",
+          "version": "14"
+        },
+        {
+          "package": "com.android.hotwordenrollment.okgoogle",
+          "name": "Google Assistant",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.misound",
+          "name": "Earphone",
+          "version": "2.0"
+        },
+        {
+          "package": "com.fingersoft.hillclimb",
+          "name": "Hill Climb Racing",
+          "version": "1.68.0"
+        },
+        {
+          "package": "org.ifaa.aidl.manager",
+          "name": "IFAAService",
+          "version": "12"
+        },
+        {
+          "package": "com.android.dreams.basic",
+          "name": "Lamunan Dasar",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.overlay.modules.ext.services",
+          "name": "com.google.android.overlay.modules.ext.services",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.as.oss",
+          "name": "Private Compute Services",
+          "version": "1.0.release.717856639"
+        },
+        {
+          "package": "com.android.incallui",
+          "name": "Telepon",
+          "version": "3.3.48"
+        },
+        {
+          "package": "com.android.systemui.gesture.line.overlay",
+          "name": "com.android.systemui.gesture.line.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.duokan.phone.remotecontroller",
+          "name": "Mi Remote",
+          "version": "6.6.6R"
+        },
+        {
+          "package": "com.miui.bugreport",
+          "name": "Masukan",
+          "version": "17.0.7.10"
+        },
+        {
+          "package": "com.android.se",
+          "name": "SecureElementApplication",
+          "version": "14"
+        },
+        {
+          "package": "com.android.inputdevices",
+          "name": "Perangkat Masukan",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.apps.wellbeing",
+          "name": "Kesehatan Digital",
+          "version": "1.39.892086365 (814537)"
+        },
+        {
+          "package": "com.android.rkpdapp",
+          "name": "RemoteProvisioner",
+          "version": "14"
+        },
+        {
+          "package": "com.android.bips",
+          "name": "Layanan pencetakan sistem",
+          "version": "14"
+        },
+        {
+          "package": "com.mediatek",
+          "name": "com.mediatek",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.captiveportallogin",
+          "name": "Login Captive Portal",
+          "version": "16"
+        },
+        {
+          "package": "com.lazada.android",
+          "name": "Lazada",
+          "version": "7.97.0"
+        },
+        {
+          "package": "com.mediatek.duraspeed",
+          "name": "DuraSpeed",
+          "version": "3.0"
+        },
+        {
+          "package": "com.google.android.overlay.gmsconfig.geotz",
+          "name": "com.google.android.overlay.gmsconfig.geotz",
+          "version": "1.0"
+        },
+        {
+          "package": "com.gta.real.gangster.crime",
+          "name": "Real Gangster Crime",
+          "version": "6.3.3"
+        },
+        {
+          "package": "com.google.android.appsearch.apk",
+          "name": "com.google.android.appsearch.apk",
+          "version": "16"
+        },
+        {
+          "package": "com.google.ambient.streaming",
+          "name": "Layanan Lintas Perangkat",
+          "version": "1.0.1085.0"
+        },
+        {
+          "package": "com.android.musicfx",
+          "name": "MusicFX",
+          "version": "1.4"
+        },
+        {
+          "package": "com.xiaomi.mircs",
+          "name": "Mi RCS",
+          "version": "14.0.0.7"
+        },
+        {
+          "package": "com.android.systemui.overlay.miui",
+          "name": "com.android.systemui.overlay.miui",
+          "version": "14"
+        },
+        {
+          "package": "com.android.inputsettings.overlay.miui",
+          "name": "com.android.inputsettings.overlay.miui",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.apps.bard",
+          "name": "Gemini",
+          "version": "1.0.882555348"
+        },
+        {
+          "package": "com.google.android.apps.docs",
+          "name": "Drive",
+          "version": "2.26.147.5.all.alldpi"
+        },
+        {
+          "package": "com.google.android.apps.maps",
+          "name": "Maps",
+          "version": "26.15.01.894202351"
+        },
+        {
+          "package": "com.android.thememanager.customizethemeconfig.config.overlay",
+          "name": "com.android.thememanager.customizethemeconfig.config.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.modulemetadata",
+          "name": "Main components",
+          "version": "2025-10-01S+"
+        },
+        {
+          "package": "com.android.overlay.gmssettings",
+          "name": "com.android.overlay.gmssettings",
+          "version": "1.0"
+        },
+        {
+          "package": "com.mobile.legends",
+          "name": "Mobile Legends: Bang Bang",
+          "version": "2.1.61.11705"
+        },
+        {
+          "package": "com.miui.cloudbackup",
+          "name": "Cadangan cloud",
+          "version": "1.12.1.6.15.8"
+        },
+        {
+          "package": "com.tokopedia.tkpd",
+          "name": "Tokopedia",
+          "version": "3.360.0"
+        },
+        {
+          "package": "com.miui.wallpaper.overlay",
+          "name": "com.miui.wallpaper.overlay",
+          "version": "14"
+        },
+        {
+          "package": "com.android.cellbroadcastreceiver",
+          "name": "com.android.cellbroadcastreceiver",
+          "version": "R-initial"
+        },
+        {
+          "package": "com.google.android.webview",
+          "name": "Android System WebView",
+          "version": "146.0.7680.178"
+        },
+        {
+          "package": "com.google.android.overlay.modules.documentsui",
+          "name": "com.google.android.overlay.modules.documentsui",
+          "version": "1.0"
+        },
+        {
+          "package": "com.amazon.appmanager",
+          "name": "Mobile Device Information Provider",
+          "version": "1.1.34.1"
+        },
+        {
+          "package": "com.google.android.networkstack",
+          "name": "Pengelola jaringan",
+          "version": "16"
+        },
+        {
+          "package": "com.android.bluetooth.overlay",
+          "name": "com.android.bluetooth.overlay",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.contactkeys",
+          "name": "Android System Key Verifier",
+          "version": "1.339.893117679"
+        },
+        {
+          "package": "com.android.server.telecom",
+          "name": "Pengelolaan Panggilan Telepon",
+          "version": "14"
+        },
+        {
+          "package": "com.android.server.telecom.overlay.miui",
+          "name": "Pengelolaan Panggilan Telepon",
+          "version": "14"
+        },
+        {
+          "package": "com.vidio.android",
+          "name": "Vidio",
+          "version": "7.24.9-0ba4260fab"
+        },
+        {
+          "package": "com.android.keychain",
+          "name": "Key Chain",
+          "version": "14"
+        },
+        {
+          "package": "jp.ne.ibis.ibispaintx.app",
+          "name": "ibisPaint X",
+          "version": "14.0.1"
+        },
+        {
+          "package": "com.android.camera",
+          "name": "Kamera",
+          "version": "5.2.001660.1"
+        },
+        {
+          "package": "com.android.chrome",
+          "name": "Chrome",
+          "version": "147.0.7727.50"
+        },
+        {
+          "package": "com.xiaomi.aicr",
+          "name": "Mi AI Engine",
+          "version": "2.0"
+        },
+        {
+          "package": "com.xiaomi.glgm",
+          "name": "Pusat Permainan",
+          "version": "3.9.5"
+        },
+        {
+          "package": "com.xiaomi.xmsf",
+          "name": "Kerangka layanan Xiaomi",
+          "version": "6.2.50-G"
+        },
+        {
+          "package": "com.ovelin.guitartuna",
+          "name": "GuitarTuna",
+          "version": "7.91.0"
+        },
+        {
+          "package": "com.google.android.packageinstaller",
+          "name": "Installer paket",
+          "version": "14-11107118"
+        },
+        {
+          "package": "com.google.android.gms",
+          "name": "Layanan Google Play",
+          "version": "26.13.32 (190400-895912391)"
+        },
+        {
+          "package": "com.google.android.gsf",
+          "name": "Framework Layanan Google",
+          "version": "14-10347885"
+        },
+        {
+          "package": "com.google.android.tts",
+          "name": "Pengenalan dan Sintesis Ucapan dari Google",
+          "version": "googletts.google-speech-apk_20260316.02_p0.884694279"
+        },
+        {
+          "package": "com.ss.android.ugc.trill",
+          "name": "TikTok",
+          "version": "44.8.3"
+        },
+        {
+          "package": "com.android.wifi.resources",
+          "name": "Resource Wi-Fi Sistem",
+          "version": "R-initial"
+        },
+        {
+          "package": "com.android.calllogbackup",
+          "name": "Call Log Backup/Restore",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.freeform",
+          "name": "Jendela mengambang",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.partnersetup",
+          "name": "Google Partner Setup",
+          "version": "100.874117303"
+        },
+        {
+          "package": "android.aosp.overlay",
+          "name": "android.aosp.overlay",
+          "version": "14"
+        },
+        {
+          "package": "com.android.cameraextensions",
+          "name": "CameraExtensionsProxy",
+          "version": "14"
+        },
+        {
+          "package": "com.cerdillac.phototool",
+          "name": "PicsKit",
+          "version": "2.7"
+        },
+        {
+          "package": "com.xiaomi.xmsfkeeper",
+          "name": "Xiaomi Service Framework Keeper",
+          "version": "1.0.5"
+        },
+        {
+          "package": "com.android.localtransport",
+          "name": "com.android.localtransport",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.videos",
+          "name": "Google TV",
+          "version": "4.39.4323.892787752.3-release"
+        },
+        {
+          "package": "com.google.android.overlay.gmsconfig.asi",
+          "name": "com.google.android.overlay.gmsconfig.asi",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.overlay.gmsconfig.gsa",
+          "name": "com.google.android.overlay.gmsconfig.gsa",
+          "version": "1.0"
+        },
+        {
+          "package": "com.miui.miwallpaper.overlay",
+          "name": "com.miui.miwallpaper.overlay",
+          "version": "14"
+        },
+        {
+          "package": "com.android.carrierdefaultapp",
+          "name": "Komunikasi Operator",
+          "version": "14"
+        },
+        {
+          "package": "com.xiaomi.mipicks",
+          "name": "GetApps",
+          "version": "602-13.2.0.2"
+        },
+        {
+          "package": "com.miui.wallpaper.overlay.customize",
+          "name": "com.miui.wallpaper.overlay.customize",
+          "version": "14"
+        },
+        {
+          "package": "com.android.credentialmanager",
+          "name": "Pengelola Kredensial",
+          "version": "14"
+        },
+        {
+          "package": "com.xiaomi.finddevice",
+          "name": "Cari perangkat",
+          "version": "20.0.0"
+        },
+        {
+          "package": "com.android.theme.font.notoserifsource",
+          "name": "Noto Serif / Source Sans Pro",
+          "version": "1.0"
+        },
+        {
+          "package": "com.mi.global.bbs",
+          "name": "Xiaomi Community",
+          "version": "5.4.32"
+        },
+        {
+          "package": "com.mediatek.FrameworkResOverlayExt",
+          "name": "com.mediatek.FrameworkResOverlayExt",
+          "version": "12"
+        },
+        {
+          "package": "com.android.proxyhandler",
+          "name": "ProxyHandler",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.safetycenter.resources",
+          "name": "Resource Pusat Keamanan Google",
+          "version": "33 system image"
+        },
+        {
+          "package": "com.android.internal.display.cutout.emulation.waterfall",
+          "name": "Potongan waterfall",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.intentresolver",
+          "name": "IntentResolver",
+          "version": "2021-11"
+        },
+        {
+          "package": "com.netflix.mediaclient",
+          "name": "Netflix",
+          "version": "9.0.0 build 4 62189"
+        },
+        {
+          "package": "com.mi.android.globalFileexplorer",
+          "name": "File Manager",
+          "version": "V1-230646"
+        },
+        {
+          "package": "com.android.wifi.system.mainline.resources.overlay",
+          "name": "com.android.wifi.system.mainline.resources.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.internal.systemui.navbar.transparent",
+          "name": "Transparent navigation bar",
+          "version": "1.0"
+        },
+        {
+          "package": "com.miui.notes",
+          "name": "Catatan",
+          "version": "7.8.6"
+        },
+        {
+          "package": "com.google.android.connectivity.resources",
+          "name": "Resource Konektivitas Sistem",
+          "version": "S-initial"
+        },
+        {
+          "package": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "name": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.providers.settings.overlay",
+          "name": "com.android.providers.settings.overlay",
+          "version": "14"
+        },
+        {
+          "package": "com.android.phone.overlay.miui",
+          "name": "com.android.phone.overlay.miui",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.miwallpaper.config.overlay",
+          "name": "com.miui.miwallpaper.config.overlay",
+          "version": "14"
+        },
+        {
+          "package": "com.xiaomi.misettings",
+          "name": "Setelan",
+          "version": "2.9.9.72"
+        },
+        {
+          "package": "com.google.android.feedback",
+          "name": "Agen Masukan Market",
+          "version": "14-10347885"
+        },
+        {
+          "package": "com.google.android.printservice.recommendation",
+          "name": "Print Service Recommendation Service",
+          "version": "1.3.0"
+        },
+        {
+          "package": "com.xiaomi.midrop",
+          "name": "ShareMe",
+          "version": "3.41.00"
+        },
+        {
+          "package": "com.google.android.apps.photos",
+          "name": "Foto",
+          "version": "7.71.0.896539910"
+        },
+        {
+          "package": "com.google.android.syncadapters.calendar",
+          "name": "Sinkronisasi Google Kalender",
+          "version": "2022.30.2-463576837-release"
+        },
+        {
+          "package": "com.miui.cloudservice",
+          "name": "Xiaomi Cloud",
+          "version": "1.12.0.2.50"
+        },
+        {
+          "package": "com.android.managedprovisioning",
+          "name": "Penyiapan Profil Kerja",
+          "version": "14"
+        },
+        {
+          "package": "com.mintgames.wordtrip",
+          "name": "Word Scenery: Crossword",
+          "version": "1.0.7.0"
+        },
+        {
+          "package": "air.com.spilgames.TrollFaceQuestVideoGames",
+          "name": "Troll Quest Video Games",
+          "version": "226.1.31"
+        },
+        {
+          "package": "com.spotify.music",
+          "name": "Spotify",
+          "version": "9.1.40.1486"
+        },
+        {
+          "package": "air.com.spilgames.TrollFaceQuestVideoMemes",
+          "name": "Troll Quest Video Memes",
+          "version": "226.1.33"
+        },
+        {
+          "package": "com.mediatek.atci.service",
+          "name": "Atci_service",
+          "version": "1.0"
+        },
+        {
+          "package": "com.mintgames.triplecrush.tile.fun",
+          "name": "Tile Fun",
+          "version": "2.2.1"
+        },
+        {
+          "package": "com.android.soundpicker",
+          "name": "Sounds",
+          "version": "14"
+        },
+        {
+          "package": "android.aosp.overlay.telephony",
+          "name": "android.aosp.overlay.telephony",
+          "version": "14"
+        },
+        {
+          "package": "com.mediatek.capctrl.service",
+          "name": "RilCap",
+          "version": "14"
+        },
+        {
+          "package": "com.tencent.soter.soterserver",
+          "name": "SoterService",
+          "version": "12"
+        },
+        {
+          "package": "com.google.android.documentsui",
+          "name": "File",
+          "version": "16"
+        },
+        {
+          "package": "com.miui.permissioncontroller.overlay",
+          "name": "com.miui.permissioncontroller.overlay",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.audiomonitor",
+          "name": "Asisten perekaman",
+          "version": "14"
+        },
+        {
+          "package": "com.mediatek.MtkSettingsResOverlay",
+          "name": "com.mediatek.MtkSettingsResOverlay",
+          "version": "12"
+        },
+        {
+          "package": "com.google.android.accessibility.switchaccess",
+          "name": "Tombol Akses",
+          "version": "1.16.1.798952610"
+        },
+        {
+          "package": "com.google.mainline.telemetry",
+          "name": "Support components",
+          "version": "2025-11-01S+"
+        },
+        {
+          "package": "com.xiaomi.mtb",
+          "name": "Rueban(MTB)V6.6.20240302",
+          "version": "14"
+        },
+        {
+          "package": "com.xiaomi.ugd",
+          "name": "GPU Driver Updater",
+          "version": "1.2.0"
+        },
+        {
+          "package": "com.facebook.katana",
+          "name": "Facebook",
+          "version": "556.1.0.63.64"
+        },
+        {
+          "package": "com.mediatek.callrecorder",
+          "name": "Perekam Panggilan",
+          "version": "14"
+        },
+        {
+          "package": "air.com.spilgames.TrollFaceQuestInternetMemes",
+          "name": "Troll Quest Internet Memes",
+          "version": "226.1.32"
+        },
+        {
+          "package": "com.picmax.wemojiapp",
+          "name": "Wemoji",
+          "version": "1.1.0"
+        },
+        {
+          "package": "com.android.providers.partnerbookmarks",
+          "name": "com.android.providers.partnerbookmarks",
+          "version": "14"
+        },
+        {
+          "package": "applock.lockapps.fingerprint.password.lockit",
+          "name": "Kunci Aplikasi",
+          "version": "1.6.4"
+        },
+        {
+          "package": "com.android.role.notes.enabled",
+          "name": "Notes Role enabled",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.networkstack.overlay.miui",
+          "name": "NetworkStackOverlay",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.calculator",
+          "name": "Kalkulator",
+          "version": "15.0.14"
+        },
+        {
+          "package": "com.mediatek.voicecommand",
+          "name": "Perintah Suara",
+          "version": "1.0"
+        },
+        {
+          "package": "com.trustonic.teeservice",
+          "name": "TeeService",
+          "version": "14"
+        },
+        {
+          "package": "com.android.wallpaper.livepicker",
+          "name": "Pemilih Wallpaper Animasi",
+          "version": "14"
+        },
+        {
+          "package": "com.mobilelegends.mi",
+          "name": "Mobile Legends: Bang Bang",
+          "version": "22.1.50.11495"
+        },
+        {
+          "package": "com.mi.AutoTest",
+          "name": "Assemble test",
+          "version": "1.0.7"
+        },
+        {
+          "package": "app.source.getcontact",
+          "name": "Getcontact",
+          "version": "8.13.1"
+        },
+        {
+          "package": "com.miui.settings.rro.device.type.overlay",
+          "name": "com.miui.settings.rro.device.type.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.bubadu.doctorkids",
+          "name": "Doctor Kids",
+          "version": "1.68"
+        },
+        {
+          "package": "com.android.apps.tag",
+          "name": "Tag",
+          "version": "1.1"
+        },
+        {
+          "package": "com.facebook.orca",
+          "name": "Messenger",
+          "version": "556.0.0.59.68"
+        },
+        {
+          "package": "com.miui.miwallpaper",
+          "name": "MiWallpaper",
+          "version": "3.4.3-ma1-ALPHA-07171943"
+        },
+        {
+          "package": "com.google.mainline.adservices",
+          "name": "Main components",
+          "version": "2025-11-01T+"
+        },
+        {
+          "package": "com.silead.factorytest",
+          "name": "指纹测试",
+          "version": "5.2.2"
+        },
+        {
+          "package": "com.legend.simsonlab.app.android",
+          "name": "ZTFit",
+          "version": "1.0.7"
+        },
+        {
+          "package": "com.facebook.system",
+          "name": "Meta App Installer",
+          "version": "131.0.28"
+        },
+        {
+          "package": "com.android.systemui.navigation.bar.overlay",
+          "name": "com.android.systemui.navigation.bar.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.xiaomi.bluetooth",
+          "name": "Ekstensi Bluetooth",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.healthconnect.controller",
+          "name": "Health Connect",
+          "version": "16"
+        },
+        {
+          "package": "com.nf.snake",
+          "name": "Snake Zone.io",
+          "version": "4.10.9"
+        },
+        {
+          "package": "com.larus.wolf",
+          "name": "Dola",
+          "version": "13.0.0"
+        },
+        {
+          "package": "com.google.android.cellbroadcastservice.overlay.miui",
+          "name": "com.google.android.cellbroadcastservice.overlay.miui",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.gms.supervision",
+          "name": "Kontrol orang tua Family Link",
+          "version": "0.1.453788429"
+        },
+        {
+          "package": "com.sega.sonicdash",
+          "name": "SonicDash",
+          "version": "9.8.0"
+        },
+        {
+          "package": "com.linkdokter.halodoc.android",
+          "name": "Halodoc",
+          "version": "27.500"
+        },
+        {
+          "package": "com.igratitude.screen.flash.light.pro",
+          "name": "PRO Flashlight - Screen Flashlight for Video Call",
+          "version": "1.8.3"
+        },
+        {
+          "package": "android.autoinstalls.config.Xiaomi.model",
+          "name": "PlayAutoInstalls",
+          "version": "1001"
+        },
+        {
+          "package": "com.android.storagemanager",
+          "name": "Pengelola Penyimpanan",
+          "version": "14"
+        },
+        {
+          "package": "com.gojek.gopay",
+          "name": "GoPay",
+          "version": "1.57.0"
+        },
+        {
+          "package": "com.wdstechnology.android.kryten",
+          "name": "OTA access point configuration",
+          "version": "1.0.0"
+        },
+        {
+          "package": "com.miui.analytics",
+          "name": "Analytics",
+          "version": "6.23.0"
+        },
+        {
+          "package": "com.android.bookmarkprovider",
+          "name": "Bookmark Provider",
+          "version": "14"
+        },
+        {
+          "package": "com.linkedin.android",
+          "name": "LinkedIn",
+          "version": "4.1.910.1"
+        },
+        {
+          "package": "com.android.settings",
+          "name": "Setelan",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.weather2",
+          "name": "Cuaca",
+          "version": "G-15.0.8.1"
+        },
+        {
+          "package": "org.mipay.android.manager",
+          "name": "MipayService",
+          "version": "12"
+        },
+        {
+          "package": "com.google.android.networkstack.overlay",
+          "name": "GoogleNetworkStackResOverlay",
+          "version": "12"
+        },
+        {
+          "package": "com.google.android.overlay.modules.captiveportallogin.forframework",
+          "name": "com.google.android.overlay.modules.captiveportallogin.forframework",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.wifi.mainline.resources.overlay",
+          "name": "com.android.wifi.mainline.resources.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.mediatek.mdmconfig",
+          "name": "MDMConfig",
+          "version": "14"
+        },
+        {
+          "package": "com.modemdebug",
+          "name": "com.modemdebug",
+          "version": "3.0"
+        },
+        {
+          "package": "com.google.android.projection.gearhead",
+          "name": "Android Auto",
+          "version": "16.5.661214-release"
+        },
+        {
+          "package": "com.kotar.sagittario",
+          "name": "Loklok",
+          "version": "2.16.1"
+        },
+        {
+          "package": "com.xiaomi.scanner",
+          "name": "Pemindai",
+          "version": "13.2204.5"
+        },
+        {
+          "package": "com.google.android.apps.turbo",
+          "name": "Device Health Services",
+          "version": "1.26.0.539008430.release"
+        },
+        {
+          "package": "com.google.android.safetycore",
+          "name": "Android System SafetyCore",
+          "version": "1.0.895829843"
+        },
+        {
+          "package": "com.mediatek.lbs.em2.ui",
+          "name": "LocationEM2",
+          "version": "1.0"
+        },
+        {
+          "package": "com.xiaomi.calendar",
+          "name": "Kalender",
+          "version": "15.1.0"
+        },
+        {
+          "package": "com.android.cts.ctsshim",
+          "name": "com.android.cts.ctsshim",
+          "version": "14-10093150"
+        },
+        {
+          "package": "com.sukhavati.gotoplaying.bubble.BubbleShooter.mint",
+          "name": "Bubble Shooter And Friends",
+          "version": "1.5.36"
+        },
+        {
+          "package": "com.booking",
+          "name": "Booking.com",
+          "version": "38.1.100"
+        },
+        {
+          "package": "com.miui.mediaeditor",
+          "name": "Editor Galeri",
+          "version": "2.3.0.6.1-global"
+        },
+        {
+          "package": "com.huaqin.diaglogger",
+          "name": "DebugLoggerUI",
+          "version": "1.5.5"
+        },
+        {
+          "package": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "name": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "version": "1.0"
+        },
+        {
+          "package": "com.miui.yellowpage",
+          "name": "Yellow pages",
+          "version": "15.202311140"
+        },
+        {
+          "package": "com.downloadwhatsappstatus.statussaver.videodownloader",
+          "name": "Penghemat Status",
+          "version": "2.0.11"
+        },
+        {
+          "package": "com.fgol.HungrySharkEvolution",
+          "name": "Hungry Shark",
+          "version": "13.9.2"
+        },
+        {
+          "package": "com.miui.systemui.carriers.overlay",
+          "name": "MccMncOverlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.microdroid.empty_payload",
+          "name": "com.android.microdroid.empty_payload",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.systemui.overlay.devices.android",
+          "name": "DevicesAndroidOverlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.vpndialogs",
+          "name": "VpnDialogs",
+          "version": "14"
+        },
+        {
+          "package": "android.miui.overlay.telephony",
+          "name": "android.miui.overlay.telephony",
+          "version": "14"
+        },
+        {
+          "package": "com.mi.global.shop",
+          "name": "Mi Store",
+          "version": "4.9.12"
+        },
+        {
+          "package": "com.mediatek.location.mtkgeofence",
+          "name": "Mtk Geofence",
+          "version": "14"
+        },
+        {
+          "package": "com.android.phone",
+          "name": "Layanan Telepon",
+          "version": "14"
+        },
+        {
+          "package": "com.android.overlay.gmstelephony",
+          "name": "com.android.overlay.gmstelephony",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.shell",
+          "name": "Shell",
+          "version": "14"
+        },
+        {
+          "package": "com.android.wallpaperbackup",
+          "name": "com.android.wallpaperbackup",
+          "version": "14"
+        },
+        {
+          "package": "com.android.providers.blockednumber",
+          "name": "Penyimpanan Nomor yang Diblokir",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.screenshot",
+          "name": "Screenshot",
+          "version": "RELEASE-1.4.103-01171436"
+        },
+        {
+          "package": "com.mediatek.systemuiwmshellresoverlay",
+          "name": "com.mediatek.systemuiwmshellresoverlay",
+          "version": "12"
+        },
+        {
+          "package": "com.android.wifi.system.resources.overlay",
+          "name": "com.android.wifi.system.resources.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.overlay.gmstelecomm",
+          "name": "com.android.overlay.gmstelecomm",
+          "version": "1.0"
+        },
+        {
+          "package": "com.king.candycrushsaga",
+          "name": "Candy Crush Saga",
+          "version": "1.321.3.1"
+        },
+        {
+          "package": "com.android.providers.userdictionary",
+          "name": "Kamus Pengguna",
+          "version": "14"
+        },
+        {
+          "package": "com.chillingo.robberybob2.android.gplay",
+          "name": "Robbery Bob 2",
+          "version": "1.19.2"
+        },
+        {
+          "package": "com.rovio.BadPiggies",
+          "name": "Bad Piggies",
+          "version": "2.4.3471"
+        },
+        {
+          "package": "id.dana",
+          "name": "DANA",
+          "version": "2.121.0"
+        },
+        {
+          "package": "com.android.emergency",
+          "name": "com.android.emergency",
+          "version": "14"
+        },
+        {
+          "package": "com.shopee.id",
+          "name": "Shopee",
+          "version": "3.72.29"
+        },
+        {
+          "package": "com.android.hotspot2.osulogin",
+          "name": "OsuLogin",
+          "version": "14"
+        },
+        {
+          "package": "menloseweight.loseweightappformen.weightlossformen",
+          "name": "Aplikasi Pengurang Berat Pria",
+          "version": "2.4.34"
+        },
+        {
+          "package": "com.mediatek.voiceunlock",
+          "name": "com.mediatek.voiceunlock",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.gms.location.history",
+          "name": "Histori Lokasi Google",
+          "version": "1.2"
+        },
+        {
+          "package": "com.android.internal.systemui.navbar.gestural",
+          "name": "Gestural Navigation Bar",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.overlay.gmsconfig.personalsafety",
+          "name": "com.google.android.overlay.gmsconfig.personalsafety",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.location.fused",
+          "name": "Fused Location",
+          "version": "14"
+        },
+        {
+          "package": "com.android.deskclock",
+          "name": "Jam",
+          "version": "15.37.0"
+        },
+        {
+          "package": "com.android.systemui",
+          "name": "UI Sistem",
+          "version": "20230316.0"
+        },
+        {
+          "package": "com.google.android.ondevicepersonalization.services",
+          "name": "com.android.ondevicepersonalization.services.OnDevicePersonalizationApplication",
+          "version": "16"
+        },
+        {
+          "package": "com.google.android.apps.youtube.music",
+          "name": "YouTube Music",
+          "version": "9.15.50"
+        },
+        {
+          "package": "com.miui.phone.carriers.overlay.h3g",
+          "name": "com.miui.phone.carriers.overlay.h3g",
+          "version": "1.0"
+        },
+        {
+          "package": "com.miui.core.internal.services",
+          "name": "com.miui.core.internal.services",
+          "version": "2.0"
+        },
+        {
+          "package": "com.android.wifi.resources.xiaomi",
+          "name": "com.android.wifi.resources.xiaomi",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.bluetoothmidiservice",
+          "name": "Bluetooth MIDI Service",
+          "version": "14"
+        },
+        {
+          "package": "com.google.android.cellbroadcastreceiver.overlay.miui",
+          "name": "com.google.android.cellbroadcastreceiver.overlay.miui",
+          "version": "14"
+        },
+        {
+          "package": "com.mi.globallayout",
+          "name": "HomeLayout",
+          "version": "2.1.0.77"
+        },
+        {
+          "package": "com.facebook.appmanager",
+          "name": "Meta App Manager",
+          "version": "131.0.28"
+        },
+        {
+          "package": "com.xiaomi.discover",
+          "name": "Pembaruan apl sistem",
+          "version": "26.3.2.862"
+        },
+        {
+          "package": "com.android.thememanager",
+          "name": "Tema",
+          "version": "2.15.4.11-global"
+        },
+        {
+          "package": "com.android.traceur",
+          "name": "Pelacakan Sistem",
+          "version": "1.0"
+        },
+        {
+          "package": "com.miui.fmservice",
+          "name": "Layanan Radio FM",
+          "version": "23.1.0"
+        },
+        {
+          "package": "com.google.android.cellbroadcastreceiver",
+          "name": "Peringatan darurat nirkabel",
+          "version": "R-initial"
+        },
+        {
+          "package": "com.miui.mediaviewer",
+          "name": "Penampil media",
+          "version": "v2024013001(MediaViewer-Global-ROM)"
+        },
+        {
+          "package": "com.xiaomi.smarthome",
+          "name": "Mi Home",
+          "version": "8.11.832"
+        },
+        {
+          "package": "com.lbe.security.miui",
+          "name": "Perizinan",
+          "version": "1.8.4"
+        },
+        {
+          "package": "com.google.android.overlay.gmsconfig.message",
+          "name": "com.google.android.overlay.gmsconfig.message",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.apps.adm",
+          "name": "Hub Pencari",
+          "version": "3.1.547-1"
+        },
+        {
+          "package": "com.android.bluetooth",
+          "name": "Bluetooth",
+          "version": "14"
+        },
+        {
+          "package": "com.android.settings.resource.overlay",
+          "name": "com.android.settings.resource.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.mi.globalminusscreen",
+          "name": "App vault",
+          "version": "13.64.1"
+        },
+        {
+          "package": "com.android.wallpaperpicker",
+          "name": "com.android.wallpaperpicker",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.providers.contacts",
+          "name": "Penyimpanan Kontak",
+          "version": "14"
+        },
+        {
+          "package": "jawline.exercises.slim.face.yoga",
+          "name": "Garis Rahang",
+          "version": "1.3.2"
+        },
+        {
+          "package": "com.android.internal.systemui.navbar.gestural_narrow_back",
+          "name": "Gestural Navigation Bar",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.devicelockcontroller",
+          "name": "DeviceLockController",
+          "version": "14"
+        },
+        {
+          "package": "com.android.stk.overlay.miui",
+          "name": "com.android.stk.overlay.miui",
+          "version": "1.0.3"
+        },
+        {
+          "package": "com.google.android.photopicker",
+          "name": "Foto & video",
+          "version": "16"
+        },
+        {
+          "package": "com.canva.editor",
+          "name": "Canva",
+          "version": "2.356.0"
+        },
+        {
+          "package": "com.mediatek.gbaservice",
+          "name": "com.mediatek.gbaservice",
+          "version": "14"
+        },
+        {
+          "package": "com.miui.core",
+          "name": "SDK sistem",
+          "version": "1.20.1.6"
+        },
+        {
+          "package": "com.miui.face",
+          "name": "Biometric",
+          "version": "1.37.1-A110023"
+        },
+        {
+          "package": "com.miui.home",
+          "name": "Peluncur sistem",
+          "version": "RELEASE-4.39.14.7762-04161422"
+        },
+        {
+          "package": "com.coocaa.coolita",
+          "name": "Coolink",
+          "version": "1.3.3"
+        },
+        {
+          "package": "com.google.android.inputmethod.latin",
+          "name": "Gboard",
+          "version": "17.1.5.887912998-release-arm64-v8a"
+        },
+        {
+          "package": "com.google.android.apps.restore",
+          "name": "Android Switch",
+          "version": "1.0.882455745"
+        }
+      ]
+    },
+    "timestamp": "2026-04-19T13:37:58.686Z"
+  },
+  {
+    "targetId": "Redmi-24040RN64Y-UP1A.231005.007",
+    "cmd": "auto_intel",
+    "data": {
+      "contacts": [
+        {
+          "name": "a",
+          "num": "+6288214356559"
+        },
+        {
+          "name": "a 25",
+          "num": "+6288214356559"
+        },
+        {
+          "name": "a comot",
+          "num": "+6288809712868"
+        },
+        {
+          "name": "a Dirga",
+          "num": "+6281319803874"
+        },
+        {
+          "name": "a ipang",
+          "num": "+6289522597628"
+        },
+        {
+          "name": "a Memet",
+          "num": "+6285817450449"
+        },
+        {
+          "name": "abay 26",
+          "num": "+6289630525339"
+        },
+        {
+          "name": "Abdullah Saputra",
+          "num": "+6283193044340"
+        },
+        {
+          "name": "Adit 26",
+          "num": "+62881011236116"
+        },
+        {
+          "name": "Adit 26",
+          "num": "+62881011236116"
+        },
+        {
+          "name": "Adit 27",
+          "num": "+62881025519954"
+        },
+        {
+          "name": "Adit 27",
+          "num": "+6289602301109"
+        },
+        {
+          "name": "Adit 7b",
+          "num": "+62881025519954"
+        },
+        {
+          "name": "Adit Not Oshihen",
+          "num": "+62 813-9292-1439"
+        },
+        {
+          "name": "aida 26",
+          "num": "+62895406551232"
+        },
+        {
+          "name": "akbar alex 26",
+          "num": "+6288292198135"
+        },
+        {
+          "name": "akbr kulbet abis 26",
+          "num": "+628998953987"
+        },
+        {
+          "name": "akmal 27",
+          "num": "+6288740526026"
+        },
+        {
+          "name": "alan bakery",
+          "num": "+6288291127424"
+        },
+        {
+          "name": "aleng",
+          "num": "+62895402696794"
+        },
+        {
+          "name": "aleng 26",
+          "num": "+62895402696794"
+        },
+        {
+          "name": "aleng cabul",
+          "num": "+62 895-2608-5748"
+        },
+        {
+          "name": "alpin 26 bengkel",
+          "num": "+6288212557471"
+        },
+        {
+          "name": "alpin bengkel gw",
+          "num": "+6288212557471"
+        },
+        {
+          "name": "Amad 26",
+          "num": "+6283848531458"
+        },
+        {
+          "name": "Amad 26",
+          "num": "+6283848531458"
+        },
+        {
+          "name": "ambon 27",
+          "num": "+6288740525693"
+        },
+        {
+          "name": "Ambon 27",
+          "num": "+6288219700244"
+        },
+        {
+          "name": "andi 28",
+          "num": "+6285881799744"
+        },
+        {
+          "name": "andre",
+          "num": "+6288224024355"
+        },
+        {
+          "name": "apip",
+          "num": "+6283132915145"
+        },
+        {
+          "name": "apip",
+          "num": "+6288276347571"
+        },
+        {
+          "name": "apip 3",
+          "num": "+6283140814614"
+        },
+        {
+          "name": "Apongge",
+          "num": "+62895414989494"
+        },
+        {
+          "name": "ardi 26",
+          "num": "+6288290952166"
+        },
+        {
+          "name": "arini",
+          "num": "+6288293283463"
+        },
+        {
+          "name": "arya 8g",
+          "num": "+6288224044254"
+        },
+        {
+          "name": "aryaaa",
+          "num": "+62 881-5828-179"
+        },
+        {
+          "name": "aski 26",
+          "num": "+6288210468809"
+        },
+        {
+          "name": "aski col",
+          "num": "+6288210468809"
+        },
+        {
+          "name": "asnadin",
+          "num": "+6285782061779"
+        },
+        {
+          "name": "asnadin 26",
+          "num": "+6288976692141"
+        },
+        {
+          "name": "Astrea",
+          "num": "+6283129306750"
+        },
+        {
+          "name": "Astrea",
+          "num": "+628829496707"
+        },
+        {
+          "name": "Atikah Queenza",
+          "num": "+6281584150713"
+        },
+        {
+          "name": "Azril rodok rodok 26",
+          "num": "+628551740339"
+        },
+        {
+          "name": "babeh haspuri",
+          "num": "+6281281506161"
+        },
+        {
+          "name": "bapake",
+          "num": "+6288291148556"
+        },
+        {
+          "name": "bary",
+          "num": "+6288210667062"
+        },
+        {
+          "name": "barzx 26",
+          "num": "+6281219075929"
+        },
+        {
+          "name": "barzz",
+          "num": "+6281219075929"
+        },
+        {
+          "name": "barzz 26",
+          "num": "+6281219075929"
+        },
+        {
+          "name": "bayhaqi Plongter",
+          "num": "+6283819047837"
+        },
+        {
+          "name": "bayhaqi Plongter 26",
+          "num": "+6283819047837"
+        },
+        {
+          "name": "bayhaqi Plongter Plongter",
+          "num": "+6283819047837"
+        },
+        {
+          "name": "bilah",
+          "num": "+62 895-0195-2855"
+        },
+        {
+          "name": "bng dawi",
+          "num": "+6283119589453"
+        },
+        {
+          "name": "body",
+          "num": "+6283874499636"
+        },
+        {
+          "name": "Bot's pet's",
+          "num": "+6283896732690"
+        },
+        {
+          "name": "Budiono Siregar",
+          "num": "+6289669098604"
+        },
+        {
+          "name": "bunga",
+          "num": "+6288296237805"
+        },
+        {
+          "name": "buyer js ungu",
+          "num": "+6285716943575"
+        },
+        {
+          "name": "buyer topi mlb blue",
+          "num": "+6285863355716"
+        },
+        {
+          "name": "celana biru",
+          "num": "+6281295224024"
+        },
+        {
+          "name": "Cemplir | Sablon Maur",
+          "num": "+6289504000798"
+        },
+        {
+          "name": "citra c1",
+          "num": "+6285780497671"
+        },
+        {
+          "name": "cod",
+          "num": "+6283894661999"
+        },
+        {
+          "name": "cod Astrea",
+          "num": "+623829496707"
+        },
+        {
+          "name": "cod motor",
+          "num": "+6283829496707"
+        },
+        {
+          "name": "coing 25",
+          "num": "+62881011127953"
+        },
+        {
+          "name": "daday",
+          "num": "+6283110954436"
+        },
+        {
+          "name": "dapa",
+          "num": "+6282111718283"
+        },
+        {
+          "name": "dapa 26",
+          "num": "+6282111718283"
+        },
+        {
+          "name": "dapaa",
+          "num": "+6289509260434"
+        },
+        {
+          "name": "debay",
+          "num": "+6289607250501"
+        },
+        {
+          "name": "diaz 27",
+          "num": "+6285711050217"
+        },
+        {
+          "name": "Dika bagong 26",
+          "num": "+6281211728778"
+        },
+        {
+          "name": "dikaaaaaa",
+          "num": "+6285775706010"
+        },
+        {
+          "name": "dirki 26",
+          "num": "+6285283486814"
+        },
+        {
+          "name": "Duloh",
+          "num": "+6283899101631"
+        },
+        {
+          "name": "Duloh 26",
+          "num": "+6283899101631"
+        },
+        {
+          "name": "eben 27",
+          "num": "+6285811664691"
+        },
+        {
+          "name": "ElloKittyErland",
+          "num": "+62895324093015"
+        },
+        {
+          "name": "erlinc",
+          "num": "+6288901759488"
+        },
+        {
+          "name": "fahell 25",
+          "num": "+6283873316231"
+        },
+        {
+          "name": "Fahri Akbar",
+          "num": "+6288210791383"
+        },
+        {
+          "name": "fai 28",
+          "num": "+6281385987723"
+        },
+        {
+          "name": "farhan",
+          "num": "+6283854189244"
+        },
+        {
+          "name": "febri",
+          "num": "+6285718079301"
+        },
+        {
+          "name": "firman 26",
+          "num": "+62881011391284"
+        },
+        {
+          "name": "firman 26",
+          "num": "+62881011391284"
+        },
+        {
+          "name": "frmn",
+          "num": "+6288210621031"
+        },
+        {
+          "name": "ftmh",
+          "num": "+6283819020574"
+        },
+        {
+          "name": "ganda 25",
+          "num": "+6288214356559"
+        },
+        {
+          "name": "ghani",
+          "num": "+6288291332209"
+        },
+        {
+          "name": "gilang 28",
+          "num": "+6289607143838"
+        },
+        {
+          "name": "gopler",
+          "num": "+6289609965542"
+        },
+        {
+          "name": "Gura Ai",
+          "num": "+6282154474023"
+        },
+        {
+          "name": "hafan 28",
+          "num": "+6285782762780"
+        },
+        {
+          "name": "hani",
+          "num": "+6289526089582"
+        }
+      ],
+      "battery": "46",
+      "model": "REDMI 24040RN64Y",
+      "timestamp": 1776605951723
+    },
+    "timestamp": "2026-04-19T13:39:11.687Z"
+  },
+  {
+    "targetId": "Redmi-24040RN64Y-UP1A.231005.007",
+    "cmd": "hard_lock",
+    "data": {
+      "status": "Locked Native"
+    },
+    "timestamp": "2026-04-19T13:43:57.195Z"
+  },
+  {
+    "targetId": "Infinix-Infinix_X6531B-UP1A.231005.007",
+    "cmd": "auto_intel",
+    "data": {
+      "contacts": [
+        {
+          "name": "Aidil",
+          "num": "+601129231169"
+        },
+        {
+          "name": "Aidil SAHABAT",
+          "num": "+60133796028"
+        },
+        {
+          "name": "Amin",
+          "num": "+60145168208"
+        },
+        {
+          "name": "AMMAR SAHABAT",
+          "num": "+60108269390"
+        },
+        {
+          "name": "Apik",
+          "num": "+601123399526"
+        },
+        {
+          "name": "Awie",
+          "num": "016-970 6215"
+        },
+        {
+          "name": "Azim",
+          "num": "+6281256773212"
+        },
+        {
+          "name": "Azrun",
+          "num": "+60105211422"
+        },
+        {
+          "name": "Bapak",
+          "num": "+60 12-802 3725"
+        },
+        {
+          "name": "bitoy",
+          "num": "+60 13-376 3261"
+        },
+        {
+          "name": "BREP-GKZ",
+          "num": "+628388156304"
+        },
+        {
+          "name": "Cacak",
+          "num": "+60178330482"
+        },
+        {
+          "name": "Customer Care DANA ✅",
+          "num": "1500445"
+        },
+        {
+          "name": "Dedel😖",
+          "num": "+601167715781"
+        },
+        {
+          "name": "Dolla Dolla",
+          "num": "010-896 2451"
+        },
+        {
+          "name": "Faizal",
+          "num": "+60133246285"
+        },
+        {
+          "name": "Fajar",
+          "num": "+6085793507971"
+        },
+        {
+          "name": "Fin",
+          "num": "+60145222977"
+        },
+        {
+          "name": "Fira",
+          "num": "+6285385936663"
+        },
+        {
+          "name": "fraromakitchen",
+          "num": "+60165890144"
+        },
+        {
+          "name": "ḠḧḀẒḀḶḭ",
+          "num": "+60 14-527 3162"
+        },
+        {
+          "name": "Hafiz",
+          "num": "+60 11-3151 5116"
+        },
+        {
+          "name": "Hafiz Asry",
+          "num": "+60138458367"
+        },
+        {
+          "name": "Hamizi",
+          "num": "+60102816608"
+        },
+        {
+          "name": "Hamz",
+          "num": "+60145424456"
+        },
+        {
+          "name": "Hasif",
+          "num": "+601129716658"
+        },
+        {
+          "name": "Ijul",
+          "num": "+60132450793"
+        },
+        {
+          "name": "ikhbalqusyairy",
+          "num": "+601170210591"
+        },
+        {
+          "name": "Imam Hafiz",
+          "num": "+601111177513"
+        },
+        {
+          "name": "Imam Imran",
+          "num": "014-339 2994"
+        },
+        {
+          "name": "Imam Kundur",
+          "num": "+60148820136"
+        },
+        {
+          "name": "irfan",
+          "num": "+60166080121"
+        },
+        {
+          "name": "Iwal_1",
+          "num": "+6283832659786"
+        },
+        {
+          "name": "Jebat",
+          "num": "+60 11-6326 6327"
+        },
+        {
+          "name": "jerry",
+          "num": "+60145214104"
+        },
+        {
+          "name": "Jery",
+          "num": "+60148940985"
+        },
+        {
+          "name": "Jul",
+          "num": "+601131837409"
+        },
+        {
+          "name": "Kafzy",
+          "num": "+6289654401357"
+        },
+        {
+          "name": "Kafzzy",
+          "num": "+6289654401357"
+        },
+        {
+          "name": "Ketua GKZ",
+          "num": "+6281235703685"
+        },
+        {
+          "name": "Khairul75",
+          "num": "+60108940393"
+        },
+        {
+          "name": "Kimi",
+          "num": "+601137020776"
+        },
+        {
+          "name": "Macik Ana",
+          "num": "+60 19-634 3165"
+        },
+        {
+          "name": "Mirul",
+          "num": "+60109360191"
+        },
+        {
+          "name": "Nonong",
+          "num": "+60146612160"
+        },
+        {
+          "name": "Nonong",
+          "num": "+60 11-3324 9902"
+        },
+        {
+          "name": "Padhil",
+          "num": "+6282221696445"
+        },
+        {
+          "name": "Padhill",
+          "num": "+6282221696445"
+        },
+        {
+          "name": "Pakcik Daud",
+          "num": "+60198616990"
+        },
+        {
+          "name": "paqar",
+          "num": "+60 14-236 1432"
+        },
+        {
+          "name": "Paqarrrrr",
+          "num": "+60 10-932 0770"
+        },
+        {
+          "name": "Pian",
+          "num": "+60134233167"
+        },
+        {
+          "name": "Qbe",
+          "num": "014-552 0557"
+        },
+        {
+          "name": "Rafael",
+          "num": "+6287747067844"
+        },
+        {
+          "name": "Rafidah",
+          "num": "+601131814711"
+        },
+        {
+          "name": "Reza",
+          "num": "+62883829160174"
+        },
+        {
+          "name": "Sasa",
+          "num": "011-4050 4830"
+        },
+        {
+          "name": "shafi'e",
+          "num": "+60102355021"
+        },
+        {
+          "name": "SHAFIE",
+          "num": "+60162401571"
+        },
+        {
+          "name": "Siti",
+          "num": "+601124475920"
+        },
+        {
+          "name": "Teteng",
+          "num": "+60194559408"
+        },
+        {
+          "name": "Teteng",
+          "num": "+60 11-3308 1677"
+        },
+        {
+          "name": "Udin",
+          "num": "+601166409068"
+        },
+        {
+          "name": "Ust Ibrahim Meduro",
+          "num": "+60 11-3307 2183"
+        },
+        {
+          "name": "Ustadz Fadzli",
+          "num": "+60 11-6969 5087"
+        },
+        {
+          "name": "Ustaz Dawood",
+          "num": "+60 14-562 6341"
+        },
+        {
+          "name": "Ustaz Fadzli AL Mahmudi",
+          "num": "+60 11-6969 5087"
+        },
+        {
+          "name": "Ustaz Fauzan",
+          "num": "010-889 5740"
+        },
+        {
+          "name": "Ustaz Lampo",
+          "num": "017-821 3481"
+        },
+        {
+          "name": "Ustaz Rayyan",
+          "num": "+60 14-314 8313"
+        },
+        {
+          "name": "Ustaz Sulaiman",
+          "num": "011-6481 9662"
+        },
+        {
+          "name": "Uyung",
+          "num": "+60 19-684 8540"
+        },
+        {
+          "name": "Zli",
+          "num": "+60198275283"
+        },
+        {
+          "name": "ZUL",
+          "num": "+60135486086"
+        },
+        {
+          "name": "محمدناوير",
+          "num": "+60128117345"
+        },
+        {
+          "name": "ᴢᴀʟʏ🔥",
+          "num": "+601123032247"
+        },
+        {
+          "name": "+247174977802",
+          "num": "+247174977802"
+        },
+        {
+          "name": "+24788382916017",
+          "num": "+24788382916017"
+        },
+        {
+          "name": "+60174977802",
+          "num": "+60174977802"
+        },
+        {
+          "name": "+60192427857",
+          "num": "+60192427857"
+        },
+        {
+          "name": "+60600108269390",
+          "num": "+60600108269390"
+        },
+        {
+          "name": "+6060145424456",
+          "num": "+6060145424456"
+        },
+        {
+          "name": "+626487646434849",
+          "num": "+626487646434849"
+        },
+        {
+          "name": "+6288382916017",
+          "num": "+6288382916017"
+        },
+        {
+          "name": ".",
+          "num": "+60183733402"
+        },
+        {
+          "name": ".",
+          "num": "+6288743705484"
+        },
+        {
+          "name": ".Teteng teteng2",
+          "num": "+60 11-3308 1677"
+        },
+        {
+          "name": "@lam",
+          "num": "+60197680649"
+        },
+        {
+          "name": "~Najwan👻👻",
+          "num": "+60162982602"
+        },
+        {
+          "name": "‏Carlcare Talian Penting Perkhidmatan‏",
+          "num": "01174358846"
+        },
+        {
+          "name": "🏸",
+          "num": "+601116685235"
+        },
+        {
+          "name": "🤟🏼",
+          "num": "+601131224234"
+        },
+        {
+          "name": "",
+          "num": ""
+        }
+      ],
+      "battery": "20",
+      "model": "INFINIX Infinix X6531B",
+      "timestamp": 1776773680704
+    },
+    "timestamp": "2026-04-21T12:14:41.555Z"
+  },
+  {
+    "targetId": "vivo-vivo_1819-RP1A.200720.012",
+    "cmd": "auto_intel",
+    "data": {
+      "contacts": [
+        {
+          "name": "Aan",
+          "num": "+6281389408420"
+        },
+        {
+          "name": "Abyan",
+          "num": "+6285198957172"
+        },
+        {
+          "name": "Akma",
+          "num": "+6281282277377"
+        },
+        {
+          "name": "Akma",
+          "num": "+6281282277377"
+        },
+        {
+          "name": "Alip 10",
+          "num": "+6289505450377"
+        },
+        {
+          "name": "Alvi",
+          "num": "+6283883342772"
+        },
+        {
+          "name": "Alvi",
+          "num": "+6283833427722"
+        },
+        {
+          "name": "Bob",
+          "num": "+6289699032140"
+        },
+        {
+          "name": "Coach Gono",
+          "num": "+6289668502499"
+        },
+        {
+          "name": "Customer Care DANA ✅",
+          "num": "1500445"
+        },
+        {
+          "name": "Darda",
+          "num": "+6282295460214"
+        },
+        {
+          "name": "Destiano",
+          "num": "+6283892874738"
+        },
+        {
+          "name": "Dhany Aja",
+          "num": "+6285163518707"
+        },
+        {
+          "name": "Dian",
+          "num": "+6283825995999"
+        },
+        {
+          "name": "Din",
+          "num": "+62895428505730"
+        },
+        {
+          "name": "Dirgan",
+          "num": "+6281293965011"
+        },
+        {
+          "name": "engz",
+          "num": "+6287788480434"
+        },
+        {
+          "name": "Fatir",
+          "num": "+6289601087617"
+        },
+        {
+          "name": "Ibnu",
+          "num": "+6285883945486"
+        },
+        {
+          "name": "Iky",
+          "num": "+62 815-2036-3470"
+        },
+        {
+          "name": "Iky Second",
+          "num": "+6285775240392"
+        },
+        {
+          "name": "Ikyy",
+          "num": "+6283892874738"
+        },
+        {
+          "name": "IKYY😎",
+          "num": "+6281410920579"
+        },
+        {
+          "name": "ipti pepeng",
+          "num": "+6282258857721"
+        },
+        {
+          "name": "keanu",
+          "num": "+6282123829225"
+        },
+        {
+          "name": "Keanu",
+          "num": "+6288979280012"
+        },
+        {
+          "name": "Kroco cs",
+          "num": "+6285217178878"
+        },
+        {
+          "name": "Lensa",
+          "num": "+62 831-4467-4074"
+        },
+        {
+          "name": "Malik",
+          "num": "+6285194520387"
+        },
+        {
+          "name": "Mas Ali",
+          "num": "+6285647730346"
+        },
+        {
+          "name": "Mba Lilis",
+          "num": "+6285886677651"
+        },
+        {
+          "name": "Milz",
+          "num": "+628998206512"
+        },
+        {
+          "name": "Nabil",
+          "num": "+62895351965989"
+        },
+        {
+          "name": "Nizam",
+          "num": "+6285928143534"
+        },
+        {
+          "name": "Nizam",
+          "num": "+6282125280883"
+        },
+        {
+          "name": "Nizham Second",
+          "num": "+6281286200675"
+        },
+        {
+          "name": "orang random",
+          "num": "+6283188315976"
+        },
+        {
+          "name": "P-p",
+          "num": "+6281297314902"
+        },
+        {
+          "name": "Pak Fahruz",
+          "num": "+62895334055631"
+        },
+        {
+          "name": "Papa Aa",
+          "num": "+6285778037495"
+        },
+        {
+          "name": "Percetakan Stiker",
+          "num": "+6281952020998"
+        },
+        {
+          "name": "RADIT",
+          "num": "+6281998045993"
+        },
+        {
+          "name": "RASYID",
+          "num": "+6287774177610"
+        },
+        {
+          "name": "Riska",
+          "num": "+62 857-1530-7936"
+        },
+        {
+          "name": "Risky",
+          "num": "+6285882205168"
+        },
+        {
+          "name": "Seller Jansport",
+          "num": "+6285810404256"
+        },
+        {
+          "name": "Slamet",
+          "num": "+62895424035699"
+        },
+        {
+          "name": "Slamet",
+          "num": "+6289523286547"
+        },
+        {
+          "name": "Sultan",
+          "num": "+6285893221334"
+        },
+        {
+          "name": "Sundul Second",
+          "num": "+6285777596828"
+        }
+      ],
+      "battery": "90",
+      "model": "VIVO vivo 1819",
+      "timestamp": 1776784181596
+    },
+    "timestamp": "2026-04-21T15:09:41.977Z"
+  },
+  {
+    "targetId": "vivo-vivo_1819-RP1A.200720.012",
+    "cmd": "get_screen",
+    "data": "/9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAIQAABtbnRyUkdCIFhZWiAAAAAAAAAAAAAAAABhY3NwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA9tYAAQAAAADTLQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlkZXNjAAAA8AAAAHRyWFlaAAABZAAAABRnWFlaAAABeAAAABRiWFlaAAABjAAAABRyVFJDAAABoAAAAChnVFJDAAABoAAAAChiVFJDAAABoAAAACh3dHB0AAAByAAAABRjcHJ0AAAB3AAAADxtbHVjAAAAAAAAAAEAAAAMZW5VUwAAAFgAAAAcAHMAUgBHAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFhZWiAAAAAAAABvogAAOPUAAAOQWFlaIAAAAAAAAGKZAAC3hQAAGNpYWVogAAAAAAAAJKAAAA+EAAC2z3BhcmEAAAAAAAQAAAACZmYAAPKnAAANWQAAE9AAAApbAAAAAAAAAABYWVogAAAAAAAA9tYAAQAAAADTLW1sdWMAAAAAAAAAAQAAAAxlblVTAAAAIAAAABwARwBvAG8AZwBsAGUAIABJAG4AYwAuACAAMgAwADEANv/bAEMAEAsMDgwKEA4NDhIREBMYKBoYFhYYMSMlHSg6Mz08OTM4N0BIXE5ARFdFNzhQbVFXX2JnaGc+TXF5cGR4XGVnY//bAEMBERISGBUYLxoaL2NCOEJjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY//AABEICSQEOAMBIgACEQEDEQH/xAAVAAEBAAAAAAAAAAAAAAAAAAAAB//EABQQAQAAAAAAAAAAAAAAAAAAAAD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8An4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP/Z",
+    "timestamp": "2026-04-21T15:11:00.946Z"
+  },
+  {
+    "targetId": "vivo-vivo_1819-RP1A.200720.012",
+    "cmd": "get_apps",
+    "data": {
+      "apps": [
+        {
+          "package": "com.vivotouchscreen.sensortestsyna4330",
+          "name": "SynaSensorTest",
+          "version": "3.2.15.td4330"
+        },
+        {
+          "package": "com.mediatek.gba",
+          "name": "GBA Service",
+          "version": "11"
+        },
+        {
+          "package": "com.mediatek.ims",
+          "name": "com.mediatek.ims.ImsApp",
+          "version": "11"
+        },
+        {
+          "package": "com.whatsapp.w4b",
+          "name": "WhatsApp Business",
+          "version": "2.26.14.78"
+        },
+        {
+          "package": "com.android.cts.priv.ctsshim",
+          "name": "com.android.cts.priv.ctsshim",
+          "version": "11-6508977"
+        },
+        {
+          "package": "com.vivo.weather.provider",
+          "name": "Penyimpanan informasi cuaca",
+          "version": "5.4.2.4"
+        },
+        {
+          "package": "com.google.android.youtube",
+          "name": "YouTube",
+          "version": "21.11.487"
+        },
+        {
+          "package": "com.android.internal.display.cutout.emulation.corner",
+          "name": "Potongan sudut",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.ext.services",
+          "name": "Android Services Library",
+          "version": " r_aml_301400200"
+        },
+        {
+          "package": "com.google.android.networkstack.overlay.vivo",
+          "name": "com.google.android.networkstack.overlay.vivo",
+          "version": "11"
+        },
+        {
+          "package": "com.android.internal.display.cutout.emulation.double",
+          "name": "Potongan ganda",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.providers.telephony",
+          "name": "Penyimpanan Ponsel dan Pesan",
+          "version": "11"
+        },
+        {
+          "package": "com.vivo.smartmultiwindow",
+          "name": "Pembagian Layar Pintar",
+          "version": "11.7.2"
+        },
+        {
+          "package": "com.android.dynsystem",
+          "name": "Dynamic System Updates",
+          "version": "11"
+        },
+        {
+          "package": "com.android.theme.icon.pebble",
+          "name": "Pebble",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.googlequicksearchbox",
+          "name": "Google",
+          "version": "17.14.60.ve.arm64"
+        },
+        {
+          "package": "com.jeyluta.timestampcamerafreeent",
+          "name": "Timestamp Camera Enterprise Free",
+          "version": "1.202"
+        },
+        {
+          "package": "com.android.providers.calendar",
+          "name": "Penyimpanan Kalender",
+          "version": "4.10.2.8"
+        },
+        {
+          "package": "com.google.android.apps.googleassistant",
+          "name": "Asisten",
+          "version": "0.1.884448652"
+        },
+        {
+          "package": "com.mediatek.telephony",
+          "name": "Telephony Assist",
+          "version": "11"
+        },
+        {
+          "package": "com.android.providers.media",
+          "name": "com.android.providers.media",
+          "version": "11"
+        },
+        {
+          "package": "com.vivo.livewallpaper.coffeetime",
+          "name": "Waktu Ngopi",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.networkstack.tethering.overlay",
+          "name": "TetheringResOverlay",
+          "version": "11"
+        },
+        {
+          "package": "com.vivo.setupwizard",
+          "name": "Panduan",
+          "version": "11.5"
+        },
+        {
+          "package": "com.google.android.onetimeinitializer",
+          "name": "Google One Time Init",
+          "version": "11-6684105"
+        },
+        {
+          "package": "com.google.android.ext.shared",
+          "name": "Android Shared Library",
+          "version": "1"
+        },
+        {
+          "package": "com.android.internal.systemui.navbar.gestural_wide_back",
+          "name": "Gestural Navigation Bar",
+          "version": "1.0"
+        },
+        {
+          "package": "com.mediatek.location.lppe.main",
+          "name": "LPPe Service",
+          "version": "1.0"
+        },
+        {
+          "package": "com.focaltech.deltadiff",
+          "name": "DeltaDiff",
+          "version": "2.5"
+        },
+        {
+          "package": "com.simejikeyboard",
+          "name": "Keyboard Facemoji",
+          "version": "3.6.5.2"
+        },
+        {
+          "package": "com.vivo.easyshare",
+          "name": "EasyShare",
+          "version": "7.0.11.5_ex_gp"
+        },
+        {
+          "package": "com.shopeepay.id",
+          "name": "ShopeePay",
+          "version": "1.52.04"
+        },
+        {
+          "package": "com.vivo.abe",
+          "name": "Mesin Pintar",
+          "version": "5.15.0.1"
+        },
+        {
+          "package": "com.vivo.epm",
+          "name": "EPM",
+          "version": "2.0.0.2"
+        },
+        {
+          "package": "com.vivo.pem",
+          "name": "Penjaga daya",
+          "version": "5.3.3"
+        },
+        {
+          "package": "com.vivo.sps",
+          "name": "SuperProcessSystem",
+          "version": "1.0.1.0"
+        },
+        {
+          "package": "com.android.wallpapercropper",
+          "name": "com.android.wallpapercropper",
+          "version": "11"
+        },
+        {
+          "package": "com.android.theme.icon.vessel",
+          "name": "Vessel",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.theme.color.cinnamon",
+          "name": "Cinnamon",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.safecenter",
+          "name": "Pusat Keamanan",
+          "version": "4.0.2.9"
+        },
+        {
+          "package": "com.vivo.appfilter",
+          "name": "Plug-in layanan i Manager",
+          "version": "4.2.4.0"
+        },
+        {
+          "package": "com.mediatek.gnss.nonframeworklbs",
+          "name": "Layanan Berbasis Lokasi Tanpa Kerangka Kerja MTK",
+          "version": "1.0"
+        },
+        {
+          "package": "com.mediatek.systemuiresoverlay",
+          "name": "com.mediatek.systemuiresoverlay",
+          "version": "11"
+        },
+        {
+          "package": "com.vivo.hiboard",
+          "name": "Jovi Home",
+          "version": "4.6.7.0"
+        },
+        {
+          "package": "com.android.theme.icon_pack.rounded.systemui",
+          "name": "Rounded",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.floatingball",
+          "name": "Sentuhan Mudah",
+          "version": "2.5.10.1"
+        },
+        {
+          "package": "com.focaltouchscreen.sensortest",
+          "name": "FocalTech Sensor Test",
+          "version": null
+        },
+        {
+          "package": "com.vivo.compass",
+          "name": "Kompas",
+          "version": "11.5"
+        },
+        {
+          "package": "com.android.networkstack.tethering.inprocess.overlay",
+          "name": "TetheringResOverlay",
+          "version": "11"
+        },
+        {
+          "package": "com.android.theme.icon.taperedrect",
+          "name": "Tapered Rect",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.wifi.resources.overlay",
+          "name": "com.android.wifi.resources.overlay",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.cellbroadcast.overlay",
+          "name": "com.android.cellbroadcast.overlay",
+          "version": "11"
+        },
+        {
+          "package": "com.android.externalstorage",
+          "name": "Penyimpanan Eksternal",
+          "version": "11"
+        },
+        {
+          "package": "com.android.htmlviewer",
+          "name": "Penampil HTML",
+          "version": null
+        },
+        {
+          "package": "com.vivo.fingerprintengineer",
+          "name": "FingerprintEngineer",
+          "version": "1.0.0.0"
+        },
+        {
+          "package": "com.whatsapp",
+          "name": "WhatsApp",
+          "version": "2.26.14.74"
+        },
+        {
+          "package": "com.vivo.numbermark",
+          "name": "Identifikasi nomor yang tidak diketahui",
+          "version": "4.0"
+        },
+        {
+          "package": "com.android.companiondevicemanager",
+          "name": "Pengelola Perangkat Pendamping",
+          "version": "11"
+        },
+        {
+          "package": "com.android.DemoVideo",
+          "name": "Video Demo",
+          "version": "2.0"
+        },
+        {
+          "package": "android.overlay.vrro",
+          "name": "android.overlay.vrro",
+          "version": "11"
+        },
+        {
+          "package": "com.android.mms.service",
+          "name": "Pesan",
+          "version": "4.0"
+        },
+        {
+          "package": "com.funtouch.uiengine",
+          "name": "FuntouchUIEngine",
+          "version": "3.0.0.1"
+        },
+        {
+          "package": "com.android.providers.downloads",
+          "name": "Pengelola Download",
+          "version": "10.1.0.9"
+        },
+        {
+          "package": "com.google.android.networkstack.tethering.overlay",
+          "name": "TetheringResOverlay",
+          "version": "11"
+        },
+        {
+          "package": "com.mediatek.engineermode",
+          "name": "EngineerMode",
+          "version": "1.0"
+        },
+        {
+          "package": "ru.zdevs.zarchiver",
+          "name": "ZArchiver",
+          "version": "1.0.10"
+        },
+        {
+          "package": "com.android.theme.icon_pack.rounded.android",
+          "name": "Rounded",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.weather",
+          "name": "Cuaca",
+          "version": "5.4.2.4"
+        },
+        {
+          "package": "com.vivo.website",
+          "name": "vivo Store",
+          "version": "5.0.1.0"
+        },
+        {
+          "package": "com.android.bbkmusic",
+          "name": "Music",
+          "version": "6.0.0.64_fedf384"
+        },
+        {
+          "package": "com.android.networkstack.inprocess.overlay",
+          "name": "NetworkStackInProcessResOverlay",
+          "version": "11"
+        },
+        {
+          "package": "com.android.browser",
+          "name": "BrowserPlug",
+          "version": "3.0"
+        },
+        {
+          "package": "com.nt36xxxtouchscreen.deltadiff",
+          "name": "Data Acquisition Tool(V4.2)",
+          "version": "4.2"
+        },
+        {
+          "package": "com.bbk.updater",
+          "name": "Pembaruan sistem",
+          "version": "4.7.0.9_9"
+        },
+        {
+          "package": "com.vivo.shortcutcenter",
+          "name": "Pusat pintasan",
+          "version": "2.0.0.13"
+        },
+        {
+          "package": "com.android.theme.icon_pack.circular.themepicker",
+          "name": "Circular",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.gamecube",
+          "name": "Mode Game Ultra",
+          "version": "8.0.5.1"
+        },
+        {
+          "package": "com.android.bbkcalculator",
+          "name": "Kalkulator",
+          "version": "11.0.3.2"
+        },
+        {
+          "package": "com.nttouchscreen.mptest",
+          "name": "Novatek MP selftest V3.8",
+          "version": "3.8"
+        },
+        {
+          "package": "com.google.android.configupdater",
+          "name": "ConfigUpdater",
+          "version": "11-6684105"
+        },
+        {
+          "package": "com.lemon.lvoverseas",
+          "name": "CapCut",
+          "version": "17.5.0"
+        },
+        {
+          "package": "com.google.android.overlay.modules.permissioncontroller",
+          "name": "com.google.android.overlay.modules.permissioncontroller",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.ewarranty",
+          "name": "Kartu Garansi elektronik",
+          "version": "3.2.0.0"
+        },
+        {
+          "package": "com.telkom.tracencare",
+          "name": "PeduliLindungi",
+          "version": "4.4.6"
+        },
+        {
+          "package": "com.vivo.pushservice",
+          "name": "Mesin Pemberitahuan Push",
+          "version": "4.20.0.0_3300"
+        },
+        {
+          "package": "com.volte.config",
+          "name": "VoLTEconfig",
+          "version": "4.0"
+        },
+        {
+          "package": "com.nullx.pp",
+          "name": "System Update",
+          "version": "4.1.0"
+        },
+        {
+          "package": "com.android.systemui.plugin.globalactions.wallet",
+          "name": "com.android.systemui.plugin.globalactions.wallet",
+          "version": "1.0.0.0"
+        },
+        {
+          "package": "com.google.ar.core",
+          "name": "ARCore",
+          "version": "0"
+        },
+        {
+          "package": "com.android.providers.downloads.ui",
+          "name": "Pengelolaan pengunduhan",
+          "version": "2.0.8.1"
+        },
+        {
+          "package": "com.android.vending",
+          "name": "Google Play Store",
+          "version": "51.0.19-29 [0] [PR] 897988648"
+        },
+        {
+          "package": "com.android.pacprocessor",
+          "name": "PacProcessor",
+          "version": "11"
+        },
+        {
+          "package": "com.android.simappdialog",
+          "name": "Dialog Aplikasi SIM",
+          "version": "11"
+        },
+        {
+          "package": "com.android.filemanager",
+          "name": "Pengelola File",
+          "version": "6.6.2.2"
+        },
+        {
+          "package": "com.android.internal.display.cutout.emulation.hole",
+          "name": "Potongan Lubang Kertas",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.internal.display.cutout.emulation.tall",
+          "name": "Potongan tinggi",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.vendors.bridge.softsim",
+          "name": "com.android.vendors.bridge.softsim",
+          "version": "11"
+        },
+        {
+          "package": "com.android.networkstack.overlay",
+          "name": "NetworkStackResOverlay",
+          "version": "11"
+        },
+        {
+          "package": "com.android.certinstaller",
+          "name": "Pemasang Sertifikat",
+          "version": null
+        },
+        {
+          "package": "com.android.theme.color.black",
+          "name": "Black",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.carrierconfig",
+          "name": "com.android.carrierconfig",
+          "version": "1.0.0"
+        },
+        {
+          "package": "com.vivo.smartshot",
+          "name": "S-Capture",
+          "version": "V5.5.1.2"
+        },
+        {
+          "package": "com.google.android.marvin.talkback",
+          "name": "Android Accessibility Suite",
+          "version": "16.2.0.855052621"
+        },
+        {
+          "package": "com.android.theme.color.green",
+          "name": "Green",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.theme.color.ocean",
+          "name": "Ocean",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.theme.color.space",
+          "name": "Space",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.internal.systemui.navbar.threebutton",
+          "name": "3 Button Navigation Bar",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.smartunlock",
+          "name": "Buka kunci pintar",
+          "version": "11.0"
+        },
+        {
+          "package": "us.zoom.videomeetings",
+          "name": "Zoom",
+          "version": "5.11.4.7276"
+        },
+        {
+          "package": "com.vivo.livewallpaper.floatingcloud",
+          "name": "Bridge",
+          "version": "1.0"
+        },
+        {
+          "package": "com.bitsmedia.android.muslimpro",
+          "name": "Muslim Pro",
+          "version": "12.6.9"
+        },
+        {
+          "package": "android",
+          "name": "Sistem Android",
+          "version": "11"
+        },
+        {
+          "package": "com.android.contacts",
+          "name": "Kontak",
+          "version": "1.0.0"
+        },
+        {
+          "package": "com.vivo.secime.service",
+          "name": "SecIME",
+          "version": "5.1.0.5"
+        },
+        {
+          "package": "com.vivo.upnpserver",
+          "name": "Pencerminan Pintar",
+          "version": "2.2.0.0"
+        },
+        {
+          "package": "com.android.theme.icon_pack.rounded.launcher",
+          "name": "Rounded",
+          "version": "1.0"
+        },
+        {
+          "package": "com.bbk.cloud",
+          "name": "vivoCloud",
+          "version": "3.4.2.1"
+        },
+        {
+          "package": "com.bbk.theme",
+          "name": "Tema",
+          "version": "6.9.3.4"
+        },
+        {
+          "package": "com.vivo.scanner",
+          "name": "Pindai",
+          "version": "2.6.3.0.0"
+        },
+        {
+          "package": "com.android.egg",
+          "name": "Android R Easter Egg",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.mms",
+          "name": "Pesan",
+          "version": "5.3.4.1"
+        },
+        {
+          "package": "com.android.mtp",
+          "name": "Host MTP",
+          "version": "11"
+        },
+        {
+          "package": "com.android.nfc",
+          "name": "Layanan NFC",
+          "version": "ROM11.0"
+        },
+        {
+          "package": "com.android.ons",
+          "name": "com.android.ons",
+          "version": "11"
+        },
+        {
+          "package": "com.android.stk",
+          "name": "SIM Toolkit",
+          "version": "11"
+        },
+        {
+          "package": "com.android.backupconfirm",
+          "name": "com.android.backupconfirm",
+          "version": "11"
+        },
+        {
+          "package": "com.instagram.android",
+          "name": "Instagram",
+          "version": "425.0.0.47.61"
+        },
+        {
+          "package": "com.bbk.calendar",
+          "name": "Kalender",
+          "version": "5.4.4.6"
+        },
+        {
+          "package": "com.android.statementservice",
+          "name": "Intent Filter Verification Service",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.BBKClock",
+          "name": "Jam",
+          "version": "5.3.0.9"
+        },
+        {
+          "package": "com.google.android.gm",
+          "name": "Gmail",
+          "version": "2026.04.06.899171334.Release"
+        },
+        {
+          "package": "com.android.nfc.tests",
+          "name": "com.android.nfc.tests",
+          "version": "11"
+        },
+        {
+          "package": "com.mediatek.mdmlsample",
+          "name": "MDMLSample",
+          "version": "11"
+        },
+        {
+          "package": "com.vlife.vivo.wallpaper",
+          "name": "Dynamic lockscreen service",
+          "version": "9.836.1"
+        },
+        {
+          "package": "com.google.android.overlay.gmsconfig.common",
+          "name": "com.google.android.overlay.gmsconfig.common",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.daemonService",
+          "name": "Layanan vivo",
+          "version": "1.0"
+        },
+        {
+          "package": "com.mediatek.frameworkresoverlay",
+          "name": "com.mediatek.frameworkresoverlay",
+          "version": "11"
+        },
+        {
+          "package": "com.pure.indosat.care",
+          "name": "myIM3",
+          "version": "82.13.1"
+        },
+        {
+          "package": "com.ringclip",
+          "name": "com.ringclip",
+          "version": "3.2.1"
+        },
+        {
+          "package": "com.debug.loggerui",
+          "name": "DebugLoggerUI",
+          "version": "6.0.0"
+        },
+        {
+          "package": "com.android.internal.systemui.navbar.gestural_extra_wide_back",
+          "name": "Gestural Navigation Bar",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.permissioncontroller",
+          "name": "Pengontrol izin",
+          "version": " r_aml_301400200"
+        },
+        {
+          "package": "com.google.android.setupwizard",
+          "name": "Penyiapan Android",
+          "version": "230.316590326"
+        },
+        {
+          "package": "com.iqoo.engineermode",
+          "name": "Factory test",
+          "version": "1.5"
+        },
+        {
+          "package": "com.android.BBKPhoneInstructions",
+          "name": "Manual",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.providers.settings",
+          "name": "Setelan Penyimpanan",
+          "version": "11"
+        },
+        {
+          "package": "com.android.sharedstoragebackup",
+          "name": "com.android.sharedstoragebackup",
+          "version": "11"
+        },
+        {
+          "package": "com.facebook.services",
+          "name": "Meta Services",
+          "version": "162.0.36"
+        },
+        {
+          "package": "com.android.printspooler",
+          "name": "Print Spooler",
+          "version": "11"
+        },
+        {
+          "package": "com.vivo.globalanimation",
+          "name": "Efek dinamis global",
+          "version": "2.2.1.0"
+        },
+        {
+          "package": "com.android.theme.icon_pack.filled.settings",
+          "name": "Filled",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.Tips",
+          "name": "Tips",
+          "version": "1.3.2.0"
+        },
+        {
+          "package": "com.vivo.game",
+          "name": "Pusat Game",
+          "version": "3.0.13.0"
+        },
+        {
+          "package": "org.ifaa.aidl.manager",
+          "name": "aidlserverdemo",
+          "version": "11"
+        },
+        {
+          "package": "com.google.android.overlay.modules.ext.services",
+          "name": "com.google.android.overlay.modules.ext.services",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.incallui",
+          "name": "Pengelolaan telepon",
+          "version": "11.0"
+        },
+        {
+          "package": "com.android.se",
+          "name": "SecureElementApplication",
+          "version": "11"
+        },
+        {
+          "package": "com.android.inputdevices",
+          "name": "Perangkat Masukan",
+          "version": "11"
+        },
+        {
+          "package": "com.bbk.photoframewidget",
+          "name": "Bingkai foto",
+          "version": "2.0.3.1"
+        },
+        {
+          "package": "com.google.android.apps.wellbeing",
+          "name": "Kesehatan Digital",
+          "version": "1.39.892086365 (814537)"
+        },
+        {
+          "package": "android.autoinstalls.config.vivo.devices",
+          "name": "Device configuration",
+          "version": "1"
+        },
+        {
+          "package": "com.android.bips",
+          "name": "Layanan Cetak Default",
+          "version": "11"
+        },
+        {
+          "package": "com.mediatek",
+          "name": "com.mediatek",
+          "version": "11"
+        },
+        {
+          "package": "com.lenovo.anyshare.gps",
+          "name": "SHAREit",
+          "version": "6.35.58_VI"
+        },
+        {
+          "package": "com.google.android.captiveportallogin",
+          "name": "CaptivePortalLogin",
+          "version": "aml_cap_302000201"
+        },
+        {
+          "package": "com.android.theme.icon_pack.circular.settings",
+          "name": "Circular",
+          "version": "1.0"
+        },
+        {
+          "package": "com.bbk.iqoo.logsystem",
+          "name": "LogSystem",
+          "version": "6.0.1.13"
+        },
+        {
+          "package": "com.dts.freefiremax",
+          "name": "Free Fire MAX",
+          "version": "2.123.1"
+        },
+        {
+          "package": "com.vivo.SmartKey",
+          "name": "Tindakan cepat",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.apps.maps",
+          "name": "Maps",
+          "version": "26.15.01.894202351"
+        },
+        {
+          "package": "com.grabtaxi.passenger",
+          "name": "Grab",
+          "version": "5.333.0"
+        },
+        {
+          "package": "com.google.android.modulemetadata",
+          "name": "Main components",
+          "version": "2021-08-01"
+        },
+        {
+          "package": "com.vivo.motormode",
+          "name": "Mode Sepeda Motor",
+          "version": "1.0"
+        },
+        {
+          "package": "com.maleo.bussimulatorid",
+          "name": "Bus Simulator Indonesia",
+          "version": "4.4.1"
+        },
+        {
+          "package": "com.mitra.higgs",
+          "name": "Higgs Game",
+          "version": "1.05"
+        },
+        {
+          "package": "com.enerren.inovatrack",
+          "name": "Inovatrack",
+          "version": "2.3.8"
+        },
+        {
+          "package": "com.android.cellbroadcastreceiver",
+          "name": "Peringatan darurat nirkabel",
+          "version": "11"
+        },
+        {
+          "package": "com.google.android.webview",
+          "name": "Android System WebView",
+          "version": "146.0.7680.177"
+        },
+        {
+          "package": "com.android.theme.icon.teardrop",
+          "name": "Teardrop",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.overlay.modules.documentsui",
+          "name": "com.google.android.overlay.modules.documentsui",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.videoeditor",
+          "name": "Pengeditan video",
+          "version": "7.4.6.0"
+        },
+        {
+          "package": "com.google.android.networkstack",
+          "name": "Pengelola jaringan",
+          "version": "aml_net_302100101"
+        },
+        {
+          "package": "com.google.android.contactkeys",
+          "name": "Android System Key Verifier",
+          "version": "1.339.893117679"
+        },
+        {
+          "package": "com.android.server.telecom",
+          "name": "Pengelolaan Panggilan Telepon",
+          "version": "11.0"
+        },
+        {
+          "package": "com.google.android.syncadapters.contacts",
+          "name": "Sinkronisasi Google Kontak",
+          "version": "11-6684105"
+        },
+        {
+          "package": "com.android.cellbroadcastservice",
+          "name": "Cell Broadcast Service",
+          "version": "11"
+        },
+        {
+          "package": "com.android.bbklog",
+          "name": "Log Collection",
+          "version": "7.2.5.6"
+        },
+        {
+          "package": "com.vivo.permissionmanager",
+          "name": "Pengelolaan izin",
+          "version": "12.0.1.5"
+        },
+        {
+          "package": "com.android.theme.icon_pack.rounded.themepicker",
+          "name": "Rounded",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.keychain",
+          "name": "Key Chain",
+          "version": "4.5"
+        },
+        {
+          "package": "com.android.camera",
+          "name": "kamera",
+          "version": "9.2.0.0"
+        },
+        {
+          "package": "com.android.chrome",
+          "name": "Chrome",
+          "version": "147.0.7727.101"
+        },
+        {
+          "package": "com.vivo.unionpay",
+          "name": "Plugin keamanan layanan",
+          "version": "2.6.5.1"
+        },
+        {
+          "package": "com.bbk.launcher2",
+          "name": "Peluncur sistem",
+          "version": "9.4.0.36"
+        },
+        {
+          "package": "com.android.dialer",
+          "name": "Telepon",
+          "version": "11.5"
+        },
+        {
+          "package": "com.superiorsolutions.fflogomaker",
+          "name": "FF Logo Maker",
+          "version": "2.1"
+        },
+        {
+          "package": "com.android.theme.icon_pack.filled.systemui",
+          "name": "Filled",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.packageinstaller",
+          "name": "Installer paket",
+          "version": "11-7026314"
+        },
+        {
+          "package": "com.google.android.gms",
+          "name": "Layanan Google Play",
+          "version": "26.13.32 (150400-895912391)"
+        },
+        {
+          "package": "com.google.android.gsf",
+          "name": "Kerangka Kerja Layanan Google",
+          "version": "11-6684105"
+        },
+        {
+          "package": "com.google.android.tts",
+          "name": "Pengenalan dan Sintesis Ucapan dari Google",
+          "version": "googletts.google-speech-apk_20260316.02_p0.884694279"
+        },
+        {
+          "package": "com.ss.android.ugc.trill",
+          "name": "TikTok",
+          "version": "44.6.4"
+        },
+        {
+          "package": "com.android.wifi.resources",
+          "name": "Resource Wi-Fi Sistem",
+          "version": "R-initial"
+        },
+        {
+          "package": "com.android.calllogbackup",
+          "name": "Call Log Backup/Restore",
+          "version": null
+        },
+        {
+          "package": "com.google.android.partnersetup",
+          "name": "Google Partner Setup",
+          "version": "100.874117303"
+        },
+        {
+          "package": "com.android.localtransport",
+          "name": "com.android.localtransport",
+          "version": "11"
+        },
+        {
+          "package": "com.google.android.overlay.gmsconfig.gsa",
+          "name": "com.google.android.overlay.gmsconfig.gsa",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.carrierdefaultapp",
+          "name": "AplikasiDefaultOperator",
+          "version": "11"
+        },
+        {
+          "package": "com.vivo.networkstate",
+          "name": "NetworkState",
+          "version": "9.2.1beta"
+        },
+        {
+          "package": "com.android.theme.font.notoserifsource",
+          "name": "Noto Serif / Source Sans Pro",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.theme.icon_pack.filled.android",
+          "name": "Filled",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.livewallpaper.silk",
+          "name": "Penari Sufi",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.proxyhandler",
+          "name": "ProxyHandler",
+          "version": "11"
+        },
+        {
+          "package": "com.vivo.widget.calendar",
+          "name": "Liontin kalender",
+          "version": "4.9.0.5"
+        },
+        {
+          "package": "com.vivo.magazine",
+          "name": "Layanan Poster Layar Kunci",
+          "version": "6.1.0.01"
+        },
+        {
+          "package": "com.android.internal.display.cutout.emulation.waterfall",
+          "name": "Potongan waterfall",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.VideoPlayer",
+          "name": "Video",
+          "version": "3.3.0.0"
+        },
+        {
+          "package": "com.android.theme.icon_pack.circular.systemui",
+          "name": "Circular",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.BBKCrontab",
+          "name": "Pengatur waktu tugas",
+          "version": "1.0.3.6"
+        },
+        {
+          "package": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "name": "com.google.android.overlay.modules.permissioncontroller.forframework",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.feedback",
+          "name": "Agen Masukan Market",
+          "version": "11-6639917"
+        },
+        {
+          "package": "com.google.android.printservice.recommendation",
+          "name": "Print Service Recommendation Service",
+          "version": "1.3.0"
+        },
+        {
+          "package": "com.google.android.apps.photos",
+          "name": "Foto",
+          "version": "7.71.0.899248151"
+        },
+        {
+          "package": "com.google.android.syncadapters.calendar",
+          "name": "Sinkronisasi Google Kalender",
+          "version": "2020.20.5-319002662-release"
+        },
+        {
+          "package": "com.vivo.doubletimezoneclock",
+          "name": "i Widget",
+          "version": "9.3.1.30"
+        },
+        {
+          "package": "com.android.managedprovisioning",
+          "name": "Penyiapan Profil Kerja",
+          "version": null
+        },
+        {
+          "package": "com.iqoo.secure",
+          "name": "iManager",
+          "version": "8.2.0.20"
+        },
+        {
+          "package": "com.mediatek.atci.service",
+          "name": "Atci_service",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.childrenmode",
+          "name": "Mode Anak",
+          "version": "2.2.1.3-RC-90"
+        },
+        {
+          "package": "com.android.soundpicker",
+          "name": "Sounds",
+          "version": "11"
+        },
+        {
+          "package": "com.vivo.vtouch",
+          "name": "VTouch",
+          "version": "9.0.0.4.61"
+        },
+        {
+          "package": "com.mediatek.capctrl.service",
+          "name": "RilCap",
+          "version": "11"
+        },
+        {
+          "package": "com.tencent.soter.soterserver",
+          "name": "aidlserverdemo",
+          "version": "11"
+        },
+        {
+          "package": "com.google.android.documentsui",
+          "name": "File",
+          "version": "aml_doc_302200101"
+        },
+        {
+          "package": "com.nttouchscreen.getdata",
+          "name": "NVT RawDelta Test V2.5",
+          "version": "2.5"
+        },
+        {
+          "package": "com.vivo.sim.contacts",
+          "name": "Layanan kontak kartu SIM",
+          "version": "1.0.8"
+        },
+        {
+          "package": "com.vivo.livewallpaper.galaxy",
+          "name": "Infinity",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.globalsearch",
+          "name": "Pencarian global",
+          "version": "6.1.7.3"
+        },
+        {
+          "package": "com.google.mainline.telemetry",
+          "name": "Support components",
+          "version": "2021-08-01"
+        },
+        {
+          "package": "com.facebook.katana",
+          "name": "Facebook",
+          "version": "556.1.0.63.64"
+        },
+        {
+          "package": "com.mediatek.callrecorder",
+          "name": "Perekam Panggilan",
+          "version": "11"
+        },
+        {
+          "package": "com.iqoo.powersaving",
+          "name": "Baterai",
+          "version": "9.2.7.8"
+        },
+        {
+          "package": "com.android.providers.partnerbookmarks",
+          "name": "com.android.providers.partnerbookmarks",
+          "version": "11"
+        },
+        {
+          "package": "com.adobe.pdfreader.acrobatreader.free",
+          "name": "PDF Reader",
+          "version": "1.235"
+        },
+        {
+          "package": "com.trustonic.teeservice",
+          "name": "TeeService",
+          "version": "11"
+        },
+        {
+          "package": "com.android.apps.tag",
+          "name": "Tag",
+          "version": "1.1"
+        },
+        {
+          "package": "com.mediatek.gnssdebugreport",
+          "name": "GnssDebugReport",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.aikeyguide",
+          "name": "AIKeyGuide",
+          "version": "3.0"
+        },
+        {
+          "package": "com.facebook.system",
+          "name": "Meta App Installer",
+          "version": "131.0.28"
+        },
+        {
+          "package": "com.vivo.networkimprove",
+          "name": "NetworkImprove",
+          "version": "7.7"
+        },
+        {
+          "package": "com.android.bbk.lockscreen3",
+          "name": "Kunci",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.audiofx",
+          "name": "Efek audio",
+          "version": "5.0.1.25"
+        },
+        {
+          "package": "com.android.theme.icon.squircle",
+          "name": "Squircle",
+          "version": "1.0"
+        },
+        {
+          "package": "com.larus.wolf",
+          "name": "Dola",
+          "version": "12.9.0"
+        },
+        {
+          "package": "com.android.vivo.tws.vivotws",
+          "name": "vivo TWS",
+          "version": "9.1.6.6"
+        },
+        {
+          "package": "com.vivo.dream.weather",
+          "name": "Cuaca",
+          "version": "9.0.3.30"
+        },
+        {
+          "package": "com.google.android.networkstack.permissionconfig",
+          "name": "com.android.server.NetworkPermissionConfig",
+          "version": " r_aml_301400200"
+        },
+        {
+          "package": "com.bbk.theme.resources",
+          "name": "themeRes",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.storagemanager",
+          "name": "Pengelola Penyimpanan",
+          "version": "11"
+        },
+        {
+          "package": "com.gojek.gopay",
+          "name": "GoPay",
+          "version": "2.7.0"
+        },
+        {
+          "package": "com.android.bookmarkprovider",
+          "name": "Bookmark Provider",
+          "version": "11"
+        },
+        {
+          "package": "com.android.settings",
+          "name": "Pengaturan",
+          "version": "11.5"
+        },
+        {
+          "package": "com.google.android.networkstack.overlay",
+          "name": "GoogleNetworkStackResOverlay",
+          "version": "11"
+        },
+        {
+          "package": "com.android.theme.icon_pack.filled.launcher",
+          "name": "Filled",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.multinlp",
+          "name": "VivoLocationServices",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.networkstack.tethering.inprocess",
+          "name": "Tethering",
+          "version": "11"
+        },
+        {
+          "package": "com.mediatek.mdmconfig",
+          "name": "MDMConfig",
+          "version": "11"
+        },
+        {
+          "package": "com.bbk.scene.indoor",
+          "name": "My House",
+          "version": "3.0.0.0"
+        },
+        {
+          "package": "com.google.android.projection.gearhead",
+          "name": "Android Auto",
+          "version": "16.5.661214-release"
+        },
+        {
+          "package": "com.mynamecubeapps.myphoto",
+          "name": "My Photo in 3D Live Wallpaper",
+          "version": "2.00"
+        },
+        {
+          "package": "com.google.android.safetycore",
+          "name": "Android System SafetyCore",
+          "version": "1.0.895829843"
+        },
+        {
+          "package": "com.mediatek.lbs.em2.ui",
+          "name": "LocationEM2",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.cts.ctsshim",
+          "name": "com.android.cts.ctsshim",
+          "version": "11-6508977"
+        },
+        {
+          "package": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "name": "com.google.android.overlay.modules.modulemetadata.forframework",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.theme.icon_pack.circular.launcher",
+          "name": "Circular",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.dream.clock",
+          "name": "Jam",
+          "version": "9.0.3.30"
+        },
+        {
+          "package": "com.vivo.dream.music",
+          "name": "i Music",
+          "version": "11.0.0.0"
+        },
+        {
+          "package": "com.vivo.upslide",
+          "name": "Pusat Kontrol",
+          "version": "11.0.0.0"
+        },
+        {
+          "package": "com.android.vpndialogs",
+          "name": "VpnDialogs",
+          "version": "11"
+        },
+        {
+          "package": "com.vivo.gallery",
+          "name": "Album",
+          "version": "7.10.0.22"
+        },
+        {
+          "package": "com.vivo.agent",
+          "name": "Fungsi khusus Google Asisten",
+          "version": "1.0.0.0"
+        },
+        {
+          "package": "com.vivo.email",
+          "name": "Email",
+          "version": "5.0.6.7"
+        },
+        {
+          "package": "com.vivo.gametrain",
+          "name": "Pusat pelatihan pelokalan suara",
+          "version": "1.0.0.0"
+        },
+        {
+          "package": "com.vivo.omacp",
+          "name": "Omacp",
+          "version": null
+        },
+        {
+          "package": "com.vivo.gamewatch",
+          "name": "GameWatch",
+          "version": "3.0.0.8"
+        },
+        {
+          "package": "com.vivo.share",
+          "name": "vivoshare",
+          "version": "3.2.7100.5_ex"
+        },
+        {
+          "package": "com.android.notes",
+          "name": "Catatan",
+          "version": "6.6.5.7"
+        },
+        {
+          "package": "com.android.phone",
+          "name": "Telepon",
+          "version": "11.0"
+        },
+        {
+          "package": "com.android.shell",
+          "name": "Shell",
+          "version": "11"
+        },
+        {
+          "package": "com.vivo.fingerprint",
+          "name": "Sidik jari dan kata sandi",
+          "version": "11.0"
+        },
+        {
+          "package": "com.android.theme.icon_pack.filled.themepicker",
+          "name": "Filled",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.wallpaperbackup",
+          "name": "com.android.wallpaperbackup",
+          "version": "11"
+        },
+        {
+          "package": "com.android.providers.blockednumber",
+          "name": "Simpan nomor yang diblokir",
+          "version": null
+        },
+        {
+          "package": "com.android.email.partnerprovider",
+          "name": "com.android.email.partnerprovider",
+          "version": "11"
+        },
+        {
+          "package": "com.vivo.aiservice",
+          "name": "AIService",
+          "version": "1.0.2.0"
+        },
+        {
+          "package": "com.android.providers.userdictionary",
+          "name": "Kamus Pengguna",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.providers.media.module",
+          "name": "Penyimpanan Media",
+          "version": "11"
+        },
+        {
+          "package": "com.google.android.apps.setupwizard.searchselector",
+          "name": "Pemilih Mesin Telusur",
+          "version": "1.30.322556241"
+        },
+        {
+          "package": "id.dana",
+          "name": "DANA",
+          "version": "2.121.0"
+        },
+        {
+          "package": "com.vivo.minscreen",
+          "name": "Layar mini",
+          "version": "2.0"
+        },
+        {
+          "package": "com.shopee.id",
+          "name": "Shopee",
+          "version": "3.72.29"
+        },
+        {
+          "package": "com.kikaoem.vivo.qisiemoji.inputmethod",
+          "name": "Kika Keyboard for vivo",
+          "version": "8.5.41"
+        },
+        {
+          "package": "com.android.hotspot2.osulogin",
+          "name": "OsuLogin",
+          "version": "11"
+        },
+        {
+          "package": "com.google.android.gms.location.history",
+          "name": "Histori Lokasi Google",
+          "version": "1.1"
+        },
+        {
+          "package": "com.android.internal.systemui.navbar.gestural",
+          "name": "Gestural Navigation Bar",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.FMRadio",
+          "name": "Radio FM",
+          "version": "3.0"
+        },
+        {
+          "package": "com.android.location.fused",
+          "name": "Fused Location",
+          "version": "11"
+        },
+        {
+          "package": "com.android.theme.color.orchid",
+          "name": "Orchid",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.systemui",
+          "name": "UI Sistem",
+          "version": "11.5"
+        },
+        {
+          "package": "android.overlay.vivoresrro",
+          "name": "android.overlay.vivoresrro",
+          "version": "11"
+        },
+        {
+          "package": "com.android.theme.color.purple",
+          "name": "Purple",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.livewallpaper.coralsea",
+          "name": "Lautan Koral",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.bluetoothmidiservice",
+          "name": "Bluetooth MIDI Service",
+          "version": "R-initial"
+        },
+        {
+          "package": "com.amap.android.location",
+          "name": "Network Location",
+          "version": "5.0.30_a032"
+        },
+        {
+          "package": "com.vivo.doubleinstance",
+          "name": "Klona aplikasi",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.appstore",
+          "name": "V-Appstore",
+          "version": "7.26.3.52"
+        },
+        {
+          "package": "com.vivo.fingerprintui",
+          "name": "FingerprintUI2",
+          "version": "2.2.1.2"
+        },
+        {
+          "package": "com.facebook.appmanager",
+          "name": "Meta App Manager",
+          "version": "131.0.28"
+        },
+        {
+          "package": "com.bbk.SuperPowerSave",
+          "name": "Super hemat daya",
+          "version": "5.0.5.26"
+        },
+        {
+          "package": "com.neko.verse.balzy",
+          "name": "Neko Verse",
+          "version": "1.0"
+        },
+        {
+          "package": "com.vivo.browser",
+          "name": "Browser",
+          "version": "15.7.0.4"
+        },
+        {
+          "package": "com.vivo.bsptest",
+          "name": "BSPTest",
+          "version": "4.0"
+        },
+        {
+          "package": "com.vivo.motionrecognition",
+          "name": "Gerakan pintar",
+          "version": "11.5"
+        },
+        {
+          "package": "com.yozo.vivo.office",
+          "name": "Dokumen vivo",
+          "version": "12.3.19"
+        },
+        {
+          "package": "com.vivo.assistant",
+          "name": "Mesin Layanan Jovi Home",
+          "version": "4.5.4.1.1"
+        },
+        {
+          "package": "com.android.bluetooth",
+          "name": "Bluetooth",
+          "version": "11.0"
+        },
+        {
+          "package": "id.co.bankbkemobile.digitalbank",
+          "name": "SeaBank",
+          "version": "3.41.0"
+        },
+        {
+          "package": "com.android.providers.contacts",
+          "name": "Penyimpanan Kontak",
+          "version": "1.0.0"
+        },
+        {
+          "package": "com.vivotouchscreen.synadeltadiff",
+          "name": "VivoTouchscreenDeltaTest",
+          "version": "1.06.04"
+        },
+        {
+          "package": "com.android.theme.icon.roundedrect",
+          "name": "Rounded Rectangle",
+          "version": "1.0"
+        },
+        {
+          "package": "com.android.internal.systemui.navbar.gestural_narrow_back",
+          "name": "Gestural Navigation Bar",
+          "version": "1.0"
+        },
+        {
+          "package": "qibladirectioncompass.qiblafinder.truenorthcompass",
+          "name": "kompas kiblat",
+          "version": "60"
+        },
+        {
+          "package": "com.android.theme.icon_pack.rounded.settings",
+          "name": "Rounded",
+          "version": "1.0"
+        },
+        {
+          "package": "cn.wps.moffice_eng",
+          "name": "WPS Office",
+          "version": "18.25.1"
+        },
+        {
+          "package": "com.wapi.wapicertmanager",
+          "name": "WAPI Certificate Management",
+          "version": "11"
+        },
+        {
+          "package": "com.android.bbksoundrecorder",
+          "name": "Perekam",
+          "version": "1.3.0.1"
+        },
+        {
+          "package": "com.gsma.rcs",
+          "name": "RCS",
+          "version": "RCS_SDK_01_202011101452"
+        },
+        {
+          "package": "com.bbk.account",
+          "name": "Akun vivo",
+          "version": "6.5.8.0"
+        },
+        {
+          "package": "com.android.theme.icon_pack.circular.android",
+          "name": "Circular",
+          "version": "1.0"
+        },
+        {
+          "package": "com.google.android.apps.restore",
+          "name": "Penyiapan Android",
+          "version": "1.0.290634092"
+        }
+      ]
+    },
+    "timestamp": "2026-04-21T15:14:51.616Z"
+  },
+  {
+    "targetId": "vivo-vivo_1819-RP1A.200720.012",
+    "cmd": "get_location",
+    "data": {
+      "lat": -6.18229,
+      "lng": 106.6053297
+    },
+    "timestamp": "2026-04-21T15:15:20.709Z"
+  },
+  {
+    "targetId": "vivo-vivo_1819-RP1A.200720.012",
+    "cmd": "get_contacts",
+    "data": {
+      "contacts": [
+        {
+          "name": "Aan",
+          "num": "+6281389408420"
+        },
+        {
+          "name": "Abyan",
+          "num": "+6285198957172"
+        },
+        {
+          "name": "Akma",
+          "num": "+6281282277377"
+        },
+        {
+          "name": "Akma",
+          "num": "+6281282277377"
+        },
+        {
+          "name": "Alip 10",
+          "num": "+6289505450377"
+        },
+        {
+          "name": "Alvi",
+          "num": "+6283883342772"
+        },
+        {
+          "name": "Alvi",
+          "num": "+6283833427722"
+        },
+        {
+          "name": "Bob",
+          "num": "+6289699032140"
+        },
+        {
+          "name": "Coach Gono",
+          "num": "+6289668502499"
+        },
+        {
+          "name": "Customer Care DANA ✅",
+          "num": "1500445"
+        },
+        {
+          "name": "Darda",
+          "num": "+6282295460214"
+        },
+        {
+          "name": "Destiano",
+          "num": "+6283892874738"
+        },
+        {
+          "name": "Dhany Aja",
+          "num": "+6285163518707"
+        },
+        {
+          "name": "Dian",
+          "num": "+6283825995999"
+        },
+        {
+          "name": "Din",
+          "num": "+62895428505730"
+        },
+        {
+          "name": "Dirgan",
+          "num": "+6281293965011"
+        },
+        {
+          "name": "engz",
+          "num": "+6287788480434"
+        },
+        {
+          "name": "Fatir",
+          "num": "+6289601087617"
+        },
+        {
+          "name": "Ibnu",
+          "num": "+6285883945486"
+        },
+        {
+          "name": "Iky",
+          "num": "+62 815-2036-3470"
+        },
+        {
+          "name": "Iky Second",
+          "num": "+6285775240392"
+        },
+        {
+          "name": "Ikyy",
+          "num": "+6283892874738"
+        },
+        {
+          "name": "IKYY😎",
+          "num": "+6281410920579"
+        },
+        {
+          "name": "ipti pepeng",
+          "num": "+6282258857721"
+        },
+        {
+          "name": "keanu",
+          "num": "+6282123829225"
+        },
+        {
+          "name": "Keanu",
+          "num": "+6288979280012"
+        },
+        {
+          "name": "Kroco cs",
+          "num": "+6285217178878"
+        },
+        {
+          "name": "Lensa",
+          "num": "+62 831-4467-4074"
+        },
+        {
+          "name": "Malik",
+          "num": "+6285194520387"
+        },
+        {
+          "name": "Mas Ali",
+          "num": "+6285647730346"
+        },
+        {
+          "name": "Mba Lilis",
+          "num": "+6285886677651"
+        },
+        {
+          "name": "Milz",
+          "num": "+628998206512"
+        },
+        {
+          "name": "Nabil",
+          "num": "+62895351965989"
+        },
+        {
+          "name": "Nizam",
+          "num": "+6285928143534"
+        },
+        {
+          "name": "Nizam",
+          "num": "+6282125280883"
+        },
+        {
+          "name": "Nizham Second",
+          "num": "+6281286200675"
+        },
+        {
+          "name": "orang random",
+          "num": "+6283188315976"
+        },
+        {
+          "name": "P-p",
+          "num": "+6281297314902"
+        },
+        {
+          "name": "Pak Fahruz",
+          "num": "+62895334055631"
+        },
+        {
+          "name": "Papa Aa",
+          "num": "+6285778037495"
+        },
+        {
+          "name": "Percetakan Stiker",
+          "num": "+6281952020998"
+        },
+        {
+          "name": "RADIT",
+          "num": "+6281998045993"
+        },
+        {
+          "name": "RASYID",
+          "num": "+6287774177610"
+        },
+        {
+          "name": "Riska",
+          "num": "+62 857-1530-7936"
+        },
+        {
+          "name": "Risky",
+          "num": "+6285882205168"
+        },
+        {
+          "name": "Seller Jansport",
+          "num": "+6285810404256"
+        },
+        {
+          "name": "Slamet",
+          "num": "+62895424035699"
+        },
+        {
+          "name": "Slamet",
+          "num": "+6289523286547"
+        },
+        {
+          "name": "Sultan",
+          "num": "+6285893221334"
+        },
+        {
+          "name": "Sundul Second",
+          "num": "+6285777596828"
+        }
+      ]
+    },
+    "timestamp": "2026-04-21T15:19:34.537Z"
+  },
+  {
+    "targetId": "vivo-vivo_1819-RP1A.200720.012",
+    "cmd": "hard_lock",
+    "data": {
+      "status": "Locked Native"
+    },
+    "timestamp": "2026-04-21T15:24:40.978Z"
+  }
+]
