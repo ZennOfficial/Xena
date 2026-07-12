@@ -31,7 +31,7 @@
 
 <!-- Row 4 -->
 <img src="https://img.shields.io/github/issues/ZennOfficial/Xena?style=for-the-badge">
-<img src="https://img.shields.io/github/ZennOfficial/Xena?style=for-the-badge">
+<img src="https://img.shields.io/github/repo-size/ZennOfficial/Xena?style=for-the-badge">
 <img src="https://img.shields.io/github/v/release/ZennOfficial/Xena?style=for-the-badge">
 
 </p>
@@ -47,7 +47,7 @@ A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy 
 # 💾 Download Base
 
 <a href="https://github.com/ZennOfficial/Xena/releases">
-<img src="https://img.shields.io/badge/%20Download-Base-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/📦%20Download-Base-success?style=for-the-badge">
 </a>
 
 ---
