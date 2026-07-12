@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 Xena Telegram Base
+<h1>🚀 Xena Telegram Base</h1>
 
-### Modern • Simple • Secure • Telegram Bot Base
+<h3>Modern • Simple • Secure • Telegram Bot Base</h3>
 
 ---
 
@@ -39,7 +39,7 @@ A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy 
 
 # 📋 System Requirements
 
-### Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
+**Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.**
 
 - Node.js v20 atau lebih baru (disarankan menggunakan versi terbaru).
 - NPM (sudah termasuk saat menginstall Node.js).
@@ -51,21 +51,23 @@ A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy 
 
 # 📦 Installation
 
+---
+
 ## 📱 Termux / CMD / PowerShell
 
-### Install seluruh dependency terlebih dahulu.
+**Install seluruh dependency terlebih dahulu.**
 
 ```bash
 npm install
 ```
 
-### Kemudian jalankan bot.
+**Kemudian jalankan bot.**
 
 ```bash
 npm start
 ```
 
-### atau
+**atau**
 
 ```bash
 node index.js
@@ -77,13 +79,13 @@ node index.js
 
 ## 🖥️ Pterodactyl Panel
 
-### Apabila seluruh dependency telah terinstall pada server, cukup jalankan:
+**Apabila seluruh dependency telah terinstall pada server, cukup jalankan:**
 
 ```bash
 npm start
 ```
 
-### atau
+**atau**
 
 ```bash
 node index.js
