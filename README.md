@@ -6,15 +6,24 @@ Modern • Simple • Secure • Customizable Telegram Bot Base
 
 <p align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-v20+-339933?logo=node.js&logoColor=white)
+<!-- Row 1 -->
+<img src="https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Node.js-v20+-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-![Version](https://img.shields.io/badge/Version-v1.0-blue)
+<br>
 
-![Platform](https://img.shields.io/badge/Platform-Telegram-26A5E4?logo=telegram&logoColor=white)
+<!-- Row 2 -->
+<img src="https://img.shields.io/badge/Platform-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/License-Custom-red?style=for-the-badge">
 
-![Status](https://img.shields.io/badge/Status-Active-success)
+<br>
 
-![License](https://img.shields.io/badge/License-Custom-red)
+<!-- Row 3 -->
+<img src="https://img.shields.io/github/stars/ZennOfficial/Zenn-Telegram-Base?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/ZennOfficial/Zenn-Telegram-Base?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/ZennOfficial/Zenn-Telegram-Base?style=for-the-badge">
 
 </p>
 
@@ -45,17 +54,20 @@ Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
 Install seluruh dependency terlebih dahulu.
 
 ```bash
-npm install```
+npm install
+```
 
 Kemudian jalankan bot.
 
 ```bash
-npm start```
+npm start
+```
 
 atau
 
 ```bash
-node index.js```
+node index.js
+```
 
 > Catatan: Jalankan "npm install" saat pertama kali menggunakan base ini atau setelah terdapat perubahan dependency.»
 
@@ -66,12 +78,14 @@ node index.js```
 Apabila seluruh dependency telah terinstall pada server, cukup jalankan:
 
 ```bash
-npm start```
+npm start
+```
 
 atau
 
 ```bash
-node index.js```
+node index.js
+```
 
 ---
 
@@ -84,7 +98,7 @@ node index.js```
 - ⚡ Source code mudah dipahami dan dikembangkan.
 - ✅ InsyaAllah minim error.
 
-> Catatan: Tidak seluruh tools dijamin berjalan 100%. Silakan dicoba satu per satu karena beberapa fitur masih dalam tahap pengembangan.»
+> Catatan: Tidak seluruh tools dijamin berjalan 100%. Silakan dicoba satu per satu karena beberapa fitur masih dalam tahap pengembangan.
 
 ---
 
