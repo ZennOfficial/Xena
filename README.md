@@ -1,6 +1,7 @@
 <div align="center">
 
 <b><font size="20">🚀 Xena Telegram Base</font></b>
+
 <sub>Modern • Simple • Secure • Telegram Bot Base</sub>
 
 ---
@@ -107,17 +108,13 @@ node index.js
 
 # 👀 Preview
 
-Ingin melihat tampilan bot sebelum menggunakannya?
+**Ingin melihat tampilan bot sebelum menggunakannya?**
 
 Silakan kunjungi:
 
-<p align="center">
-
 <a href="https://t.me/XenaV7Bot">
-<img src="https://img.shields.io/badge/🤖%20Bot-Preview-blueviolet?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/%20Bot-Preview-blueviolet?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-
-</p>
 
 ---
 
@@ -129,7 +126,7 @@ Password tidak disertakan di dalam repository maupun file ZIP.
 
 Password dapat diperoleh melalui Grup Telegram:
 
-👉 https://t.me/FamilyXena
+� https://t.me/FamilyXena
 
 > **Catatan:** Silakan bergabung ke grup untuk mendapatkan password serta informasi update terbaru.
 
