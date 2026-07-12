@@ -124,9 +124,7 @@ Silakan kunjungi:
 
 **Password tidak disertakan di dalam repository maupun file ZIP.**
 
---
-
-**Password dapat diperoleh melalui Grup Telegram:**
+Password dapat diperoleh melalui Grup Telegram:
 
 <a href="https://t.me/FamilyXena">
 <img src="https://img.shields.io/badge/%20Join-Grup-yellow?style=for-the-badge&logo=telegram&logoColor=white">
@@ -138,9 +136,7 @@ Silakan kunjungi:
 
 **Seluruh update project akan diumumkan melalui Grup Telegram.**
 
---
-
-**Dengan bergabung ke grup, Anda akan mendapatkan:**
+Dengan bergabung ke grup, Anda akan mendapatkan:
 
 - 📦 Update versi terbaru.
 - 🛠️ Bug Fix.
