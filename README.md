@@ -121,7 +121,10 @@ Silakan kunjungi:
 # 🔑 Password
 
 **File ZIP yang Anda unduh dilindungi menggunakan password.**
+
 **Password tidak disertakan di dalam repository maupun file ZIP.**
+
+--
 
 **Password dapat diperoleh melalui Grup Telegram:**
 
@@ -134,6 +137,8 @@ Silakan kunjungi:
 # 📢 Latest Updates
 
 **Seluruh update project akan diumumkan melalui Grup Telegram.**
+
+--
 
 **Dengan bergabung ke grup, Anda akan mendapatkan:**
 
