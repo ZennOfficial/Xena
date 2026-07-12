@@ -60,7 +60,7 @@ A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy 
 - NPM (sudah termasuk saat menginstall Node.js).
 - Koneksi internet yang stabil.
 
-> **Catatan:** Menggunakan Node.js versi lama dapat menyebabkan beberapa fitur tidak berjalan dengan semestinya.»
+> **Catatan:** Menggunakan Node.js versi lama dapat menyebabkan beberapa fitur tidak berjalan dengan semestinya.
 
 ---
 
