@@ -120,9 +120,7 @@ Silakan kunjungi:
 
 # 🔑 Password
 
-**File ZIP yang Anda unduh dilindungi menggunakan password.**
-
-**Password tidak disertakan di dalam repository maupun file ZIP.**
+**File ZIP yang Anda unduh dilindungi menggunakan password**
 
 Password dapat diperoleh melalui Grup Telegram:
 
