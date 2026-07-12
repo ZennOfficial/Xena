@@ -1,8 +1,6 @@
 <div align="center">
 
-<b><font size="7">🚀 Xena Telegram Base</font></b>
-
-<br>
+<b><font size="20">🚀 Xena Telegram Base</font></b>
 
 <sub>Modern • Simple • Secure • Telegram Bot Base</sub>
 
