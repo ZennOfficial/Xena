@@ -10,9 +10,11 @@ Modern • Simple • Secure • Customizable Telegram Bot Base
 
 A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy to modify, and ready for further development.
 
-</div>---
+</div>
 
-📋 System Requirements
+---
+
+`📋 System Requirements`
 
 Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
 
@@ -20,43 +22,43 @@ Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
 - NPM (sudah termasuk saat menginstall Node.js).
 - Koneksi internet yang stabil.
 
-«Menggunakan Node.js versi lama dapat menyebabkan beberapa fitur tidak berjalan dengan semestinya.»
+« Menggunakan Node.js versi lama dapat menyebabkan beberapa fitur tidak berjalan dengan semestinya.»
 
 ---
 
-📦 Installation
+`📦 Installation`
 
 📱 Termux / CMD / PowerShell
 
 Install seluruh dependency terlebih dahulu.
 
-npm install
+```npm install```
 
 Kemudian jalankan bot.
 
-npm start
+```npm start```
 
 atau
 
-node index.js
+```node index.js```
 
-«Catatan: Jalankan "npm install" saat pertama kali menggunakan base ini atau setelah terdapat perubahan dependency.»
+« Catatan: Jalankan "npm install" saat pertama kali menggunakan base ini atau setelah terdapat perubahan dependency.»
 
 ---
 
-🖥️ Pterodactyl Panel
+`🖥️ Pterodactyl Panel`
 
 Apabila seluruh dependency telah terinstall pada server, cukup jalankan:
 
-npm start
+```npm start```
 
 atau
 
-node index.js
+```node index.js```
 
 ---
 
-✨ Features
+`✨ Features`
 
 - 🎨 Modern colorful button interface.
 - 🔐 Password protection sebelum bot dijalankan.
@@ -65,21 +67,21 @@ node index.js
 - ⚡ Source code mudah dipahami dan dikembangkan.
 - ✅ InsyaAllah minim error.
 
-«Catatan: Tidak seluruh tools dijamin berjalan 100%. Silakan dicoba satu per satu karena beberapa fitur masih dalam tahap pengembangan.»
+« Catatan: Tidak seluruh tools dijamin berjalan 100%. Silakan dicoba satu per satu karena beberapa fitur masih dalam tahap pengembangan.»
 
 ---
 
-👀 Preview
+`👀 Preview`
 
 Ingin melihat tampilan bot sebelum menggunakannya?
 
 Silakan kunjungi:
 
-🤖 Telegram Bot: "https://t.me/XenaV7Bot"
+🤖 Telegram Bot: https://t.me/XenaV7Bot
 
 ---
 
-🔑 Password
+`🔑 Password`
 
 File ZIP yang Anda unduh dilindungi menggunakan password.
 
@@ -87,17 +89,17 @@ Password tidak disertakan di dalam repository maupun file ZIP.
 
 Password dapat diperoleh melalui Grup Telegram:
 
-👉 @FamilyXena
+👉 https://t.me/FamilyXena
 
 Silakan bergabung ke grup untuk mendapatkan password serta informasi update terbaru.
 
 ---
 
-📢 Latest Updates
+`📢 Latest Updates`
 
 Seluruh update project akan diumumkan melalui Grup Telegram.
 
-Dengan bergabung di @FamilyXena, Anda akan mendapatkan:
+Dengan bergabung di https://t.me/FamilyXena, Anda akan mendapatkan:
 
 - 📦 Versi terbaru Base.
 - 🛠️ Bug Fix.
@@ -105,11 +107,11 @@ Dengan bergabung di @FamilyXena, Anda akan mendapatkan:
 - 📢 Informasi & pengumuman resmi.
 - 🔑 Password untuk setiap rilis terbaru.
 
-«Disarankan untuk tetap bergabung di grup agar tidak tertinggal update dan pembaruan project.»
+« Disarankan untuk tetap bergabung di grup agar tidak tertinggal update dan pembaruan project.»
 
 ---
 
-🆘 Troubleshooting
+`🆘 Troubleshooting`
 
 Sebelum melaporkan bug, pastikan bahwa:
 
@@ -120,11 +122,11 @@ Sebelum melaporkan bug, pastikan bahwa:
 
 Apabila masih mengalami kendala, silakan hubungi:
 
-Telegram: "https://t.me/yatimluw"
+Telegram: https://t.me/yatimluw
 
 ---
 
-📜 License & Rules
+`📜 License & Rules`
 
 Dengan menggunakan project ini, Anda dianggap telah menyetujui seluruh ketentuan berikut.
 
@@ -136,19 +138,19 @@ Dengan menggunakan project ini, Anda dianggap telah menyetujui seluruh ketentuan
 
 ---
 
-❤️ Credits
+`❤️ Credits`
 
 Developer
 Zenn Official
 
 Telegram
-"[Zenn Official](https://t.me/yatimluw)"
+https://t.me/yatimluw
 
 Community
-"[Family Xena](https://t.me/FamilyXena)"
+https://t.me/FamilyXena
 
 Channel
-"[Channel](https://t.me/anotherzenn)"
+https://t.me/anotherzenn
 
 ---
 
