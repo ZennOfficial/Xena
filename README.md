@@ -1,4 +1,4 @@
-<div align="center">## **Xena Telegram Base**
+<div align="center"> ## **Xena Telegram Base**
 
 ---
 
@@ -23,9 +23,9 @@ Modern • Simple • Secure • Customizable Telegram Bot Base
 <br>
 
 <!-- Row 3 -->
-<img src="https://img.shields.io/github/stars/ZennOfficial/xena?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/ZennOfficial/xena?style=for-the-badge">
-<img src="https://img.shields.io/github/last-commit/ZennOfficial/xena?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/ZennOfficial/Xena?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/ZennOfficial/Xena?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/ZennOfficial/Xena?style=for-the-badge">
 
 </p>
 
@@ -51,7 +51,7 @@ Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
 
 ## **📦 Installation**
 
-## **📱 Termux / CMD / PowerShell**
+# **📱 Termux / CMD / PowerShell**
 
 Install seluruh dependency terlebih dahulu.
 
@@ -71,11 +71,11 @@ atau
 node index.js
 ```
 
-> **Catatan:** Jalankan "npm install" saat pertama kali menggunakan base ini atau setelah terdapat perubahan dependency.»
+> **Catatan:** Jalankan "npm install" saat pertama kali menggunakan base ini atau setelah terdapat perubahan dependency. 
 
 ---
 
-## **🖥️ Pterodactyl Panel**
+# **🖥️ Pterodactyl Panel**
 
 Apabila seluruh dependency telah terinstall pada server, cukup jalankan:
 
