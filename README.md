@@ -1,8 +1,8 @@
-<div align="center"><b>Xena Telegram Base**</b>
+<div align="center">
 
----
+# 🚀 Xena Telegram Base
 
-Modern • Simple • Secure • Customizable Telegram Bot Base
+### Modern • Simple • Secure • Telegram Bot Base
 
 ---
 
@@ -37,9 +37,9 @@ A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy 
 
 ---
 
-# **📋 System Requirements**
+# 📋 System Requirements
 
-Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
+### Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
 
 - Node.js v20 atau lebih baru (disarankan menggunakan versi terbaru).
 - NPM (sudah termasuk saat menginstall Node.js).
@@ -49,23 +49,23 @@ Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
 
 ---
 
-# **📦 Installation**
+# 📦 Installation
 
-## **📱 Termux / CMD / PowerShell**
+## 📱 Termux / CMD / PowerShell
 
-Install seluruh dependency terlebih dahulu.
+### Install seluruh dependency terlebih dahulu.
 
 ```bash
 npm install
 ```
 
-Kemudian jalankan bot.
+### Kemudian jalankan bot.
 
 ```bash
 npm start
 ```
 
-atau
+### atau
 
 ```bash
 node index.js
@@ -75,15 +75,15 @@ node index.js
 
 ---
 
-## **🖥️ Pterodactyl Panel**
+## 🖥️ Pterodactyl Panel
 
-Apabila seluruh dependency telah terinstall pada server, cukup jalankan:
+### Apabila seluruh dependency telah terinstall pada server, cukup jalankan:
 
 ```bash
 npm start
 ```
 
-atau
+### atau
 
 ```bash
 node index.js
@@ -91,7 +91,7 @@ node index.js
 
 ---
 
-# **✨ Features**
+# ✨ Features
 
 - 🎨 Modern colorful button interface.
 - 🔐 Password protection sebelum bot dijalankan.
@@ -104,7 +104,7 @@ node index.js
 
 ---
 
-# **👀 Preview**
+# 👀 Preview
 
 Ingin melihat tampilan bot sebelum menggunakannya?
 
@@ -114,7 +114,7 @@ Silakan kunjungi:
 
 ---
 
-# **🔑 Password**
+# 🔑 Password
 
 File ZIP yang Anda unduh dilindungi menggunakan password.
 
@@ -128,23 +128,23 @@ Password dapat diperoleh melalui Grup Telegram:
 
 ---
 
-# **📢 Latest Updates**
+# 📢 Latest Updates
 
 Seluruh update project akan diumumkan melalui Grup Telegram.
 
 Dengan bergabung di https://t.me/FamilyXena, Anda akan mendapatkan:
 
-- 📦 Versi terbaru Base.
+- 📦 Update versi terbaru.
 - 🛠️ Bug Fix.
 - ✨ Penambahan fitur baru.
 - 📢 Informasi & pengumuman resmi.
 - 🔑 Password untuk setiap rilis terbaru.
 
-> Disarankan untuk tetap bergabung di grup agar tidak tertinggal update dan pembaruan project.»
+> **Catatan:** Disarankan untuk tetap bergabung di grup agar tidak tertinggal update dan pembaruan project.»
 
 ---
 
-# **🆘 Troubleshooting**
+# 🆘 Troubleshooting
 
 Sebelum melaporkan bug, pastikan bahwa:
 
@@ -159,7 +159,7 @@ Telegram: https://t.me/yatimluw
 
 ---
 
-# **📜 License & Rules**
+# 📜 License & Rules
 
 Dengan menggunakan project ini, Anda dianggap telah menyetujui seluruh ketentuan berikut.
 
@@ -171,7 +171,7 @@ Dengan menggunakan project ini, Anda dianggap telah menyetujui seluruh ketentuan
 
 ---
 
-# **❤️ Credits**
+# ❤️ Credits
 
 Developer
 Zenn Official
