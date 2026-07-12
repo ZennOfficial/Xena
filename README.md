@@ -1,7 +1,6 @@
 <div align="center">
 
 <b><font size="20">🚀 Xena Telegram Base</font></b>
-
 <sub>Modern • Simple • Secure • Telegram Bot Base</sub>
 
 ---
@@ -112,7 +111,13 @@ Ingin melihat tampilan bot sebelum menggunakannya?
 
 Silakan kunjungi:
 
-🤖 Telegram Bot: https://t.me/XenaV7Bot
+<p align="center">
+
+<a href="https://t.me/XenaV7Bot">
+<img src="https://img.shields.io/badge/🤖%20Bot-Preview-blueviolet?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+
+</p>
 
 ---
 
