@@ -1,8 +1,10 @@
 <div align="center">
 
-<h1>🚀 Xena Telegram Base</h1>
+<b><font size="7">🚀 Xena Telegram Base</font></b>
 
-<h3>Modern • Simple • Secure • Telegram Bot Base</h3>
+<br>
+
+<sub>Modern • Simple • Secure • Telegram Bot Base</sub>
 
 ---
 
@@ -51,7 +53,7 @@ A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy 
 
 # 📦 Installation
 
----
+**Pilih metode instalasi sesuai platform yang digunakan.**
 
 ## 📱 Termux / CMD / PowerShell
 
