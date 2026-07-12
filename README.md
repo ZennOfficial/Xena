@@ -37,6 +37,14 @@ A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy 
 
 ---
 
+# 💾 Download Base
+
+<a href="https://github.com/ZennOfficial/Xena/releases">
+<img src="https://img.shields.io/badge/%20Download-Base-success?style=for-the-badge">
+</a>
+
+---
+
 # 📋 System Requirements
 
 **Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.**
