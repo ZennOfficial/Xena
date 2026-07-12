@@ -2,11 +2,19 @@
 
 Modern • Simple • Secure • Customizable Telegram Bot Base
 
-"Version" (https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge)
-"Node.js" (https://img.shields.io/badge/Node.js-v20+-339933?style=for-the-badge&logo=node.js&logoColor=white)
-"Platform" (https://img.shields.io/badge/Platform-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-"License" (https://img.shields.io/badge/License-Custom-red?style=for-the-badge)
-"Status" (https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+<p align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-v20+-339933?logo=node.js&logoColor=white)
+
+![Version](https://img.shields.io/badge/Version-v1.0-blue)
+
+![Platform](https://img.shields.io/badge/Platform-Telegram-26A5E4?logo=telegram&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+![License](https://img.shields.io/badge/License-Custom-red)
+
+</p>
 
 A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy to modify, and ready for further development.
 
@@ -22,7 +30,7 @@ Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
 - NPM (sudah termasuk saat menginstall Node.js).
 - Koneksi internet yang stabil.
 
-« Menggunakan Node.js versi lama dapat menyebabkan beberapa fitur tidak berjalan dengan semestinya.»
+> Menggunakan Node.js versi lama dapat menyebabkan beberapa fitur tidak berjalan dengan semestinya.»
 
 ---
 
@@ -32,17 +40,20 @@ Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
 
 Install seluruh dependency terlebih dahulu.
 
-```npm install```
+```bash
+npm install```
 
 Kemudian jalankan bot.
 
-```npm start```
+```bash
+npm start```
 
 atau
 
-```node index.js```
+```bash
+node index.js```
 
-« Catatan: Jalankan "npm install" saat pertama kali menggunakan base ini atau setelah terdapat perubahan dependency.»
+> Catatan: Jalankan "npm install" saat pertama kali menggunakan base ini atau setelah terdapat perubahan dependency.»
 
 ---
 
@@ -50,11 +61,13 @@ atau
 
 Apabila seluruh dependency telah terinstall pada server, cukup jalankan:
 
-```npm start```
+```bash
+npm start```
 
 atau
 
-```node index.js```
+```bash
+node index.js```
 
 ---
 
@@ -67,7 +80,7 @@ atau
 - ⚡ Source code mudah dipahami dan dikembangkan.
 - ✅ InsyaAllah minim error.
 
-« Catatan: Tidak seluruh tools dijamin berjalan 100%. Silakan dicoba satu per satu karena beberapa fitur masih dalam tahap pengembangan.»
+> Catatan: Tidak seluruh tools dijamin berjalan 100%. Silakan dicoba satu per satu karena beberapa fitur masih dalam tahap pengembangan.»
 
 ---
 
@@ -91,7 +104,7 @@ Password dapat diperoleh melalui Grup Telegram:
 
 👉 https://t.me/FamilyXena
 
-Silakan bergabung ke grup untuk mendapatkan password serta informasi update terbaru.
+> Silakan bergabung ke grup untuk mendapatkan password serta informasi update terbaru.
 
 ---
 
@@ -107,7 +120,7 @@ Dengan bergabung di https://t.me/FamilyXena, Anda akan mendapatkan:
 - 📢 Informasi & pengumuman resmi.
 - 🔑 Password untuk setiap rilis terbaru.
 
-« Disarankan untuk tetap bergabung di grup agar tidak tertinggal update dan pembaruan project.»
+> Disarankan untuk tetap bergabung di grup agar tidak tertinggal update dan pembaruan project.»
 
 ---
 
@@ -154,9 +167,7 @@ https://t.me/anotherzenn
 
 ---
 
-<div align="center">Terima kasih telah menggunakan Xena Telegram Base ❤️
-
-Semoga project yang Anda bangun berjalan dengan lancar dan bermanfaat bagi banyak orang.
+<div align="center">Thanks you for using this base
 
 © 2026 Zenn Official. All Rights Reserved.
 
