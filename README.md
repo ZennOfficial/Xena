@@ -113,7 +113,7 @@ node index.js
 Silakan kunjungi:
 
 <a href="https://t.me/XenaV7Bot">
-<img src="https://img.shields.io/badge/%20Bot-Preview-blueviolet?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/%20Bot-Preview-blue?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 ---
@@ -126,7 +126,9 @@ Password tidak disertakan di dalam repository maupun file ZIP.
 
 Password dapat diperoleh melalui Grup Telegram:
 
-� https://t.me/FamilyXena
+<a href="https://t.me/FamilyXena">
+<img src="https://img.shields.io/badge/%20Group-Telegram-red?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
 > **Catatan:** Silakan bergabung ke grup untuk mendapatkan password serta informasi update terbaru.
 
