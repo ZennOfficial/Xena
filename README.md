@@ -24,7 +24,7 @@
 
 <!-- Row 3 -->
 <img src="https://img.shields.io/github/stars/ZennOfficial/Xena?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/ZennOfficial/Xena?style=for-the-badge">
+<img src="https://img.shields.io/github/watch/ZennOfficial/Xena?style=for-the-badge">
 <img src="https://img.shields.io/github/last-commit/ZennOfficial/Xena?style=for-the-badge">
 
 </p>
