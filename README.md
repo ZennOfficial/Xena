@@ -47,7 +47,7 @@ A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy 
 # 💾 Download Base
 
 <a href="https://github.com/ZennOfficial/Xena/releases">
-<img src="https://img.shields.io/badge/📦%20Download-Base-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/Download-Base-success?style=for-the-badge&logo=git&logoColor=white">
 </a>
 
 ---
@@ -128,7 +128,7 @@ node index.js
 Silakan kunjungi:
 
 <a href="https://t.me/XenaV7Bot">
-<img src="https://img.shields.io/badge/%20Bot-Preview-blue?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Bot-Preview-blue?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 ---
@@ -140,7 +140,7 @@ Silakan kunjungi:
 Password dapat diperoleh melalui Grup Telegram:
 
 <a href="https://t.me/FamilyXena">
-<img src="https://img.shields.io/badge/%20Join-Grup-yellow?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Join-Grup-yellow?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 ---
@@ -173,7 +173,7 @@ Dengan bergabung ke grup, Anda akan mendapatkan:
 **Apabila masih mengalami kendala, silakan hubungi:**
 
 <a href="https://t.me/yatimluw">
-<img src="https://img.shields.io/badge/%20Contact-Author-red?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Contact-Author-red?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 ---
@@ -193,15 +193,15 @@ Dengan bergabung ke grup, Anda akan mendapatkan:
 # © Credits
 
 <a href="https://t.me/yatimluw">
-<img src="https://img.shields.io/badge/%20Telegram-Author-blue?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-Author-blue?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 <a href="https://t.me/FamilyXena">
-<img src="https://img.shields.io/badge/%20Telegram-Commumity-blue?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-Commumity-blue?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 <a href="https://t.me/anotherzenn">
-<img src="https://img.shields.io/badge/%20Telegram-Channel-blue?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 ---
