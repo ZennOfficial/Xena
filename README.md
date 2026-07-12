@@ -2,6 +2,8 @@
 
 Modern • Simple • Secure • Customizable Telegram Bot Base
 
+---
+
 <p align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-v20+-339933?logo=node.js&logoColor=white)
@@ -15,6 +17,8 @@ Modern • Simple • Secure • Customizable Telegram Bot Base
 ![License](https://img.shields.io/badge/License-Custom-red)
 
 </p>
+
+---
 
 A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy to modify, and ready for further development.
 
