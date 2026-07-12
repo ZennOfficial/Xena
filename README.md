@@ -120,23 +120,22 @@ Silakan kunjungi:
 
 # 🔑 Password
 
-File ZIP yang Anda unduh dilindungi menggunakan password.
+**File ZIP yang Anda unduh dilindungi menggunakan password.**
+**Password tidak disertakan di dalam repository maupun file ZIP.**
 
-Password tidak disertakan di dalam repository maupun file ZIP.
-
-Password dapat diperoleh melalui Grup Telegram:
+**Password dapat diperoleh melalui Grup Telegram:**
 
 <a href="https://t.me/FamilyXena">
-<img src="https://img.shields.io/badge/%20Join-Grup-blue?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/%20Join-Grup-yellow?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 ---
 
 # 📢 Latest Updates
 
-Seluruh update project akan diumumkan melalui Grup Telegram.
+**Seluruh update project akan diumumkan melalui Grup Telegram.**
 
-Dengan bergabung ke grup, Anda akan mendapatkan:
+**Dengan bergabung ke grup, Anda akan mendapatkan:**
 
 - 📦 Update versi terbaru.
 - 🛠️ Bug Fix.
@@ -150,24 +149,24 @@ Dengan bergabung ke grup, Anda akan mendapatkan:
 
 # 🆘 Troubleshooting
 
-Sebelum melaporkan bug, pastikan bahwa:
+**Sebelum melaporkan bug, pastikan bahwa:**
 
 - Menggunakan Node.js v20+.
 - Seluruh dependency telah terinstall ("npm install").
 - Konfigurasi telah diisi dengan benar.
 - Tidak ada file project yang dihapus atau dimodifikasi secara tidak sengaja.
 
-Apabila masih mengalami kendala, silakan hubungi:
+**Apabila masih mengalami kendala, silakan hubungi:**
 
 <a href="https://t.me/yatimluw">
-<img src="https://img.shields.io/badge/%20Contact-Author-blue?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/%20Contact-Author-red?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
 ---
 
 # 📜 License & Rules
 
-Dengan menggunakan project ini, Anda dianggap telah menyetujui seluruh ketentuan berikut.
+**Dengan menggunakan project ini, Anda dianggap telah menyetujui seluruh ketentuan berikut.**
 
 - Dilarang menghapus, mengganti, atau memodifikasi credit developer.
 - Dilarang menjual source code ini, baik dalam bentuk asli maupun hasil modifikasi, tanpa izin dari developer.
@@ -177,19 +176,19 @@ Dengan menggunakan project ini, Anda dianggap telah menyetujui seluruh ketentuan
 
 ---
 
-# ❤️ Credits
+# © Credits
 
-Developer
-Zenn Official
+<a href="https://t.me/yatimluw">
+<img src="https://img.shields.io/badge/%20Telegram-Author-blue?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
-Telegram
-https://t.me/yatimluw
+<a href="https://t.me/FamilyXena">
+<img src="https://img.shields.io/badge/%20Telegram-Commumity-blue?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
-Community
-https://t.me/FamilyXena
-
-Channel
-https://t.me/anotherzenn
+<a href="https://t.me/anotherzenn">
+<img src="https://img.shields.io/badge/%20Telegram-Channel-blue?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
 ---
 
