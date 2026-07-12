@@ -24,8 +24,15 @@
 
 <!-- Row 3 -->
 <img src="https://img.shields.io/github/stars/ZennOfficial/Xena?style=for-the-badge">
-<img src="https://img.shields.io/github/watch/ZennOfficial/Xena?style=for-the-badge">
+<img src="https://img.shields.io/github/watchers/ZennOfficial/Xena?style=for-the-badge">
 <img src="https://img.shields.io/github/last-commit/ZennOfficial/Xena?style=for-the-badge">
+
+<br>
+
+<!-- Row 4 -->
+<img src="https://img.shields.io/github/issues/ZennOfficial/Xena?style=for-the-badge">
+<img src="https://img.shields.io/github/ZennOfficial/Xena?style=for-the-badge">
+<img src="https://img.shields.io/github/v/release/ZennOfficial/Xena?style=for-the-badge">
 
 </p>
 
