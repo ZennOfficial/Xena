@@ -1,4 +1,6 @@
-<div align="center">🚀 Zenn Telegram Base
+<div align="center">## **Xena Telegram Base**
+
+---
 
 Modern • Simple • Secure • Customizable Telegram Bot Base
 
@@ -7,7 +9,7 @@ Modern • Simple • Secure • Customizable Telegram Bot Base
 <p align="center">
 
 <!-- Row 1 -->
-<img src="https://img.shields.io/badge/Version-v1.0-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Version-v7.0-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Node.js-v20+-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
@@ -21,9 +23,9 @@ Modern • Simple • Secure • Customizable Telegram Bot Base
 <br>
 
 <!-- Row 3 -->
-<img src="https://img.shields.io/github/stars/ZennOfficial/Zenn-Telegram-Base?style=for-the-badge">
-<img src="https://img.shields.io/github/forks/ZennOfficial/Zenn-Telegram-Base?style=for-the-badge">
-<img src="https://img.shields.io/github/last-commit/ZennOfficial/Zenn-Telegram-Base?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/ZennOfficial/xena?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/ZennOfficial/xena?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/ZennOfficial/xena?style=for-the-badge">
 
 </p>
 
@@ -35,7 +37,7 @@ A simple Telegram Bot Base built with Node.js, designed to be easy to use, easy 
 
 ---
 
-`📋 System Requirements`
+## **📋 System Requirements**
 
 Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
 
@@ -43,13 +45,13 @@ Pastikan perangkat Anda memenuhi persyaratan berikut sebelum menjalankan bot.
 - NPM (sudah termasuk saat menginstall Node.js).
 - Koneksi internet yang stabil.
 
-> Menggunakan Node.js versi lama dapat menyebabkan beberapa fitur tidak berjalan dengan semestinya.»
+> **Catatan:** Menggunakan Node.js versi lama dapat menyebabkan beberapa fitur tidak berjalan dengan semestinya.»
 
 ---
 
-`📦 Installation`
+## **📦 Installation**
 
-📱 Termux / CMD / PowerShell
+## **📱 Termux / CMD / PowerShell**
 
 Install seluruh dependency terlebih dahulu.
 
@@ -69,11 +71,11 @@ atau
 node index.js
 ```
 
-> Catatan: Jalankan "npm install" saat pertama kali menggunakan base ini atau setelah terdapat perubahan dependency.»
+> **Catatan:** Jalankan "npm install" saat pertama kali menggunakan base ini atau setelah terdapat perubahan dependency.»
 
 ---
 
-`🖥️ Pterodactyl Panel`
+## **🖥️ Pterodactyl Panel**
 
 Apabila seluruh dependency telah terinstall pada server, cukup jalankan:
 
@@ -89,7 +91,7 @@ node index.js
 
 ---
 
-`✨ Features`
+## **✨ Features**
 
 - 🎨 Modern colorful button interface.
 - 🔐 Password protection sebelum bot dijalankan.
@@ -98,11 +100,11 @@ node index.js
 - ⚡ Source code mudah dipahami dan dikembangkan.
 - ✅ InsyaAllah minim error.
 
-> Catatan: Tidak seluruh tools dijamin berjalan 100%. Silakan dicoba satu per satu karena beberapa fitur masih dalam tahap pengembangan.
+> **Catatan:** Tidak seluruh tools dijamin berjalan 100%. Silakan dicoba satu per satu karena beberapa fitur masih dalam tahap pengembangan.
 
 ---
 
-`👀 Preview`
+## **👀 Preview**
 
 Ingin melihat tampilan bot sebelum menggunakannya?
 
@@ -112,7 +114,7 @@ Silakan kunjungi:
 
 ---
 
-`🔑 Password`
+## **🔑 Password**
 
 File ZIP yang Anda unduh dilindungi menggunakan password.
 
@@ -122,11 +124,11 @@ Password dapat diperoleh melalui Grup Telegram:
 
 👉 https://t.me/FamilyXena
 
-> Silakan bergabung ke grup untuk mendapatkan password serta informasi update terbaru.
+> **Catatan:** Silakan bergabung ke grup untuk mendapatkan password serta informasi update terbaru.
 
 ---
 
-`📢 Latest Updates`
+## **📢 Latest Updates**
 
 Seluruh update project akan diumumkan melalui Grup Telegram.
 
@@ -142,7 +144,7 @@ Dengan bergabung di https://t.me/FamilyXena, Anda akan mendapatkan:
 
 ---
 
-`🆘 Troubleshooting`
+## **🆘 Troubleshooting**
 
 Sebelum melaporkan bug, pastikan bahwa:
 
@@ -157,7 +159,7 @@ Telegram: https://t.me/yatimluw
 
 ---
 
-`📜 License & Rules`
+## **📜 License & Rules**
 
 Dengan menggunakan project ini, Anda dianggap telah menyetujui seluruh ketentuan berikut.
 
@@ -169,7 +171,7 @@ Dengan menggunakan project ini, Anda dianggap telah menyetujui seluruh ketentuan
 
 ---
 
-`❤️ Credits`
+## **❤️ Credits**
 
 Developer
 Zenn Official
