@@ -127,10 +127,8 @@ Password tidak disertakan di dalam repository maupun file ZIP.
 Password dapat diperoleh melalui Grup Telegram:
 
 <a href="https://t.me/FamilyXena">
-<img src="https://img.shields.io/badge/%20Group-Telegram-red?style=for-the-badge&logo=telegram&logoColor=white">
+<img src="https://img.shields.io/badge/%20Join-Grup-blue?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-
-> **Catatan:** Silakan bergabung ke grup untuk mendapatkan password serta informasi update terbaru.
 
 ---
 
@@ -138,7 +136,7 @@ Password dapat diperoleh melalui Grup Telegram:
 
 Seluruh update project akan diumumkan melalui Grup Telegram.
 
-Dengan bergabung di https://t.me/FamilyXena, Anda akan mendapatkan:
+Dengan bergabung ke grup, Anda akan mendapatkan:
 
 - 📦 Update versi terbaru.
 - 🛠️ Bug Fix.
@@ -146,7 +144,7 @@ Dengan bergabung di https://t.me/FamilyXena, Anda akan mendapatkan:
 - 📢 Informasi & pengumuman resmi.
 - 🔑 Password untuk setiap rilis terbaru.
 
-> **Catatan:** Disarankan untuk tetap bergabung di grup agar tidak tertinggal update dan pembaruan project.»
+> **Catatan:** Disarankan untuk tetap bergabung di grup agar tidak tertinggal info update dan pembaruan project.
 
 ---
 
@@ -161,7 +159,9 @@ Sebelum melaporkan bug, pastikan bahwa:
 
 Apabila masih mengalami kendala, silakan hubungi:
 
-Telegram: https://t.me/yatimluw
+<a href="https://t.me/yatimluw">
+<img src="https://img.shields.io/badge/%20Contact-Author-blue?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
 
 ---
 
